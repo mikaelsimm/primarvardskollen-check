@@ -1,0 +1,601 @@
+Startsida Vårdgivarwebben
+Administration
+Vårdadministrativa rutiner
+Vårdadministrativa rutiner
+Här hittar du regionövergripande vårdadministrativa rutiner och för regionövergripande och lokala rutiner per programområde för Cosmic.
+Regionövergripande rutiner för Cosmic A-Ö
+Nu kan du söka våra regionövergripande rutiner för Cosmic i en A-Ö
+Regionövergripande rutiner
+Delegering och fördelning av arbetsuppgifter inom hälso- och sjukvården
+Regionövergripande anvisning om delegering och fördelning av arbetsuppgifter inom hälso- och sjukvården
+Syftet med anvisningen är att
+tydliggöra skillnaden mellan att delegera arbetsuppgifter och att på annat sätt fördela arbetsuppgifter, samt
+tydliggöra hur och när en delegering av arbetsuppgifter ska ske
+Delegering och fördelning av arbetsuppgifter inom hälso- och sjukvården (pdf)
+Mall för delegeringsbeslut för arbetsuppgift (Word)
+Mall för beslut om fördelning av arbetsuppgift (Word)
+Regionövergripande rutiner - Cosmic
+BOS - beställning och svar
+Beställning av kliniska parametrar eller patientnära undersökning i Cosmic - lathund (pdf)
+Beställning och bevakning av EKG i Cosmic (pdf)
+Beställning och svar Cosmic (pdf)
+Beställning och Svar. Ändra svarsmottagare och/eller svarsmottagande enhet på en eller flera beställningar i - lathund(pdf)
+Driftstopp system - Hantering av akuta röntgenremisser vid RIS stopp och Cosmic fungerar (pdf)
+Lathund för användning av PNA-katalog i Cosmic (pdf)
+Lokala analyser (pdf)
+Provpaket Mikrobiologens (pdf)
+Provtagningsunderlag skapat av röntgen i Cosmic (pdf)
+Remittentinformation om Bild och funktionsmedicin samt Klinisk fysiologi - Cosmic (pdf)
+Ärendehantering BoS Patient saknas i Cosmic (pdf)
+Cytodos
+Cytodos 6.1 Ny inloggningsrutin (pdf, intern länk regionanställda)
+Hälsoärenden
+Hälsoärende Graviditet(pdf)
+Hälsoärende i Cosmic(pdf)
+Journalia/Aknet
+Utbildning AKnet skrivbehörighetdosjustering  2 november 2026 (video)
+Utbildning för läsbehörighet 11 november 2026 (video)
+Journalia inloggning fristående från Cosmic (pdf)
+Journalia utan integration med Cosmic (pdf)
+Antikoagulationsbehandling vårdrutin Region Norrbotten (pdf)
+Antikoagulationsbehandling rekommendation Region Norrbotten (pdf)
+Läkemedel
+Arbetssätt för sjuksköterska med rätt att dosändra läkemedel (pdf, intern länk regionanställda)
+Doseringsvikt (pdf)
+Ej tidsatt ordination (pdf)
+Fysisk aktivitet på recept (FAR) (pdf)
+Godkännande för administrering (pdf)
+Hantering av dospatienters läkemedelslista (pdf)
+Inskrivning till slutenvård (pdf)
+Instruktion för spärr i Nationella läkemedelslistan (pdf)
+Kryssa, Hoppa över, Pausa, Återstarta (pdf)
+Lägg till i Utdelningsvyn- Administrering av läkemedel på recept (pdf)
+Läkemedelsberättelse (pdf)
+Läkemedelsgenomgång (pdf)
+Läkemedelsordination på akutmottagning (pdf)
+Läkemedelshantering i Cosmic för primärvården (pdf)
+Migrering Läkemedelslista från VAS till Cosmic (pdf)
+Märkning av läkemedel samt kontroll vid administrering(pdf)
+Nationella läkemedelslistan i Cosmic (pdf)
+Nutritionsprodukter - ordination och förskrivning (pdf)
+Nödrutin driftstopp Cosmic - ordinationslista nurseview(pdf)
+Nödrutin receptförskrivning läkemedel vid driftstopp (pdf)
+Ordination av läkemedel med behov av kompletterande  information i journal(pdf)
+Ordination och administrering av läkemedel i öppenvård (pdf)
+Ordination som ska administreras på specifik enhet (pdf)
+Så söker du fram läkemedelsmallar i Cosmic (pdf, intern länk regionanställda)
+Uppföljning läkemedelsbehandling på patientnivå (pdf)
+Utskrivning från slutenvård (pdf)
+Vårdövergångar-förflyttning inom och mellan vårdenheter (pdf)
+Media och skanning – lagring och sökning
+Dsafe - lagring och sökning av handling (pdf)
+Dsafe - sök handling (video)
+Dsafe - Lagra digital handling via Stanza utskriftsfunktion (video)
+Boka mediaundersökning i Cosmic (pdf)
+Boka mediaundersökning i Cosmic (video)
+Oplanerad (akut) mediaundersökning i Cosmic (pdf)
+Undersökning och lagring av media med direktkopplad utrustning i Cosmic (pdf)
+Undersökning och lagring av media med fristående utrustning i Cosmic (pdf)
+Lagra mediaundersökning i Cosmic (video)
+Lagra mediaundersökning inskickat från patient exempelvis från chatt (pdf)
+Söka mediaundersökning i Cosmic (pdf)
+Söka mediaundersökning i Cosmic(video)
+Koppla mediaundersökning till anteckning eller remiss i Cosmic (pdf)
+Koppla mediaundersökning till anteckning i Cosmic (video)
+Mediaomvandlare (mediabox) MVR460 lathund (pdf)
+Messenger
+Messenger i Cosmic (pdf)
+Migrering
+Hantering av oskrivna anteckningar skapade före Go Live och ej dokumenterade i VAS (pdf)
+Lathund för migrering av läkemedelslista och Uppmärksamhetssignalen (UMS) utan pågående vårdkontakt(pdf)
+Lathund registrera inkommet papperssvar till Cosmic på skickad specialistvårdsremiss från VAS(gäller specialistvården)(pdf)
+Manual 3 - Rutiner för migrering och växling vid övergång till Cosmic
+Manual 4 - Rutiner för migrering av data från VAS till Cosmic som sker EFTER byte till Cosmic
+Migrering av pågående forskningsstudier(pdf)
+Reservnummer som saknas i Cosmic men finns i VAS(pdf)
+Övergångsrutin för Webcert (pdf)
+MittVaccin
+Lagersaldo och batcher i MittVaccin (pdf)
+Behörigheter och roller i MittVaccin (pdf)
+Statistik och bevakning i MittVaccin (pdf)
+Rättning och vårddatasamanslagning i MittVaccin (pdf)
+Grundläggande manual i MittVaccin (pdf)
+Journalföra vaccinationer i MittVaccin (pdf)
+Ordinera vaccin i MittVaccin (pdf)
+Nödrutin i MittVaccin (pdf)
+Loggkontroll i MittVaccin (pdf)
+Nödrutin
+Nödrutin driftstörning Provisio
+Nödrutin vid driftstopp och störningar i Provisio Stand Alone (pdf, intern länk regionanställda)
+Blanketter driftstörning Provisio
+Inskrivning till postoperativ enhet vid driftstopp - Provisio (pdf)
+Läkemedelsformulär vid driftstopp - Provisio (pdf)
+Operationsanmälan vid driftstopp - Provisio (pdf)
+Operationsjournal vid driftstopp - Provisio (pdf)
+Preopbedömning vid driftstopp - Provisio (pdf)
+Preoperativ checklista vid driftstopp - Provisio (pdf)
+Registrering under operation vid driftstopp - Provisio (pdf)
+Nödrutin vid driftstörning i Cosmic
+Nödrutin vid driftstörning i Cosmic (pdf, intern länk regionanställda)
+Blanketter driftstörning Cosmic
+Besöksanteckning vid driftstopp - Cosmic (pdf)
+Blodtransufionsblad vid driftstopp - Cosmic (pdf)
+Dokumentation av Tvångsåtgärder LPT vid driftstopp - Cosmic (pdf)
+Dokumentation av Tvångsåtgärder LRV vid driftstopp - Cosmic (pdf)
+Dokumentation av tvångsåtgärder vid driftstopp - Cosmic (pdf)
+Dödsbevis 1st/patient vid driftstopp - Cosmic (pdf)
+Dödsorsaksintyg 1st/patient vid driftstopp - Cosmic (pdf)
+Enhetsöversikt/patientliggare för Akuten eller Vårdavdelning 1st/patient vid driftstopp - Cosmic (pdf)
+Hjälpmedel 1st/patient vid driftstopp - Cosmic (pdf)
+Inskrivningsanteckning vid driftstopp - Cosmic (pdf)
+Journalanteckning. (Rapportblad) 1-2st/patient vid driftstopp - Cosmic (pdf)
+Logglista i alfabetisk ordning vid driftstopp - Cosmic (pdf)
+Läkemedelsordination och administrering 1st/patient vid driftstopp - Cosmic (pdf)
+Mall för registrering i kassan vid driftstopp - Cosmic (pdf)
+Närståendepenning 1st/patient vid driftstopp - Cosmic (pdf)
+Obduktionsremiss 1st/patient vid driftstopp - Cosmic (pdf)
+Remiss - Röntgen vid driftstopp - Cosmic (pdf)
+Remiss Allmän vid driftstopp - Cosmic (pdf)
+Remiss cervixcytologi vid driftstopp - Cosmic (pdf)
+Remiss histologi vid driftstopp - Cosmic (pdf)
+Remiss Patologi/cytologi vid driftstopp - Cosmic (pdf)
+Remiss till Blodcentralen vid driftstopp - Cosmic (pdf)
+Remiss till sjuksköterska inom primärvården eller kommunen 1st/patient vid driftstopp - Cosmic (pdf)
+Reservnummerlista vid driftstopp - Cosmic (pdf)
+Reservnummerpatient hjälpblankett olika språk vid driftstopp - Cosmic (pdf)
+Sjukskrivning 1st/patient vid driftstopp - Cosmic (pdf)
+Slutanteckning vid driftstopp - Cosmic (pdf)
+Utskrivna patienter från avdelning vid driftstopp - Cosmic (pdf)
+VAB för föräldrar till Barn >12år 1st/patient vid driftstopp - Cosmic (pdf)
+Vårdintyg för psykiatrisk tvångsvård vid driftstopp - Cosmic (pdf)
+Provisio
+Åtgärder vid driftstopp och störningar i Provisio Stand Alone(pdf)
+Blanketter diftstopp/driftstörning Provisio
+Operationsanmälan vid driftstopp(pdf)
+In och utskrivning postoperativ enhet vid driftstopp(pdf)
+Preoperativ checklista vid driftstopp(pdf)
+Preopbedömning vid driftstopp(pdf)
+Operationsjournal vid driftstopp(pdf)
+Läkemedelsformulär vid driftstopp(pdf)
+Registrering under operation vid driftstopp(pdf)
+Övriga rutiner Provisio
+Antibiotika- och trombosprofylax i Provisio Stand Alone-Cosmic-Anestesijournal på papper (pdf, intern länk för regionanställda)
+Dokumentera administrerat läkemedel i Provisio Stand Alone (pdf, intern länk för regionanställda)
+Inloggning Provisio Stand Alone (pdf, intern länk för regionanställda)
+Lägga upp och bevaka preoperativa utredningar i Provisio Stand Alone (pdf, intern länk för regionanställda)
+Länsgemensamt arbetssätt med röda etiketter Provisio (pdf, intern länk för regionanställda)
+Operationsanmälan i Provisio Stand Alone (pdf, intern länk för regionanställda)
+Operationsanmälan i Provisio Stand Alone i Kalix och Kiruna (pdf, intern länk för regionanställda)
+Operationsanmälningar i Provisio Stand Alone när operationen ska utföras på annan ort (pdf, intern länk för regionanställda)
+Ordinera läkemedel i Provisio Stand Alone i samband med operation (pdf, intern länk för regionanställda)
+Planeringsverktyget i Provisio Stand Alone (pdf, intern länk för regionanställda)
+Preoperativ bedömning och arbetssätt för anestesiläkare i Provisio Stand Alone (pdf, intern länk för regionanställda)
+Registrering i Provisio Stand Alone - Anestesidelen (pdf, intern länk för regionanställda)
+Registrering i Provisio Stand Alone - Operationsdelen (pdf, intern länk för regionanställda)
+Snabbinskrivning av patient i Provisio Stand Alone (pdf, intern länk för regionanställda)
+Tidsregistreringar i Provisio Stand Alone (pdf, intern länk för regionanställda)
+Ramverk
+Inloggning till Cosmic - lathund (pdf)
+Listning i Cosmic(pdf, intern länk regionanställda)
+Loggkontroll i Cosmic(pdf)
+Patientbegärda loggutdrag från VAS och Cosmic(intern länk regionanställda) (pdf)
+Patienkortet i Cosmic - lathund(pdf)
+Patientlisten i Cosmic - lathund (pdf)
+Specialtecken, funktionstangenter, generellt tangentstöd, kortkommandon, hjälpmeny i Cosmic - lathund (pdf)
+Remisser
+Betalningsförbindelse i Cosmic(pdf)
+Hantering av remisser för kärlaccesser och övriga anestesiologiska procedurer i Cosmic (pdf)
+Konsultationsremiss i Cosmic (pdf)
+Registrera inkommet papperssvar, remissbekräftelse, avvisningssvar eller begäran om kompletterande information på utgående specialistvårdsremiss - lathund (specialistvården) (pdf)
+Remisshantering Cosmic (pdf)
+Remiss till Centrala smittspårningen för klamydia och gonorré (pdf)
+Skicka utgående remiss internt och externt - lathund(pdf)
+Resursplanering och bokning
+Bokning
+Operation, rutin för bokning samt av- och ombokning av operationer i Cosmic (pdf, intern länk regionanställda)
+Bokning i Cosmic (pdf)
+Bokningsunderlag Cosmic - lathund (pdf)
+Direktinskrivning av öppenvårdspatient på enhetsöversikten på pre- och postoperativa enheter, utan remisskrav (pdf, intern länk regionanställda)
+Gruppbokning i Cosmic - lathund(pdf)
+Multimediaunderlag i Cosmic (pdf)
+Patienthotell Vistet Cosmic - Bokning av planerad patient till hotellet(pdf)
+Patienthotell Vistet Cosmic - bokning av akut patient till hotellet(pdf)
+Operation, planering och bokning av barn som opereras i öppenvård på Gällivare sjukhus (pdf)
+Operation, skapa bokningsunderlag med befintlig remiss i Cosmic för patienter som skall opereras (pdf, intern länk regionanställda)
+SMS och e-postpåminnelse i Cosmic(pdf)
+Resursplanering
+Aktivera tidbok i 1177 - lathund(pdf)
+Disponibla vårdplatser i Cosmic - lathund(pdf)
+Schemaläggning i Cosmic (pdf)
+Webbtidbok
+Beställningsmatris 1177 och Inera (excel)
+Ramverk för beställning av vårdtjänster samt webbtidbok (pdf)
+Steg för steg beskrivning för webbtidbok (pdf)
+VAS efter Golive
+VAS Läsperiod efter Golive Cosmic - användarmanual (pdf)
+Vårdadministration
+Avvikelseorsak i Cosmic (pdf)
+Betalningsförbindelse i Cosmic (pdf)
+Bevakningsrutin i Cosmic (pdf)
+Faktureringsöversikt - lathund (pdf)
+Faktureringsöversikt - rutin (pdf)
+Hantering av patienter med skyddade personuppgifter och patienter med skyddsbehov (pdf)
+Lathund kortkommando Cosmic- Vårddokumentation (pdf)
+Ordination och administrering av läkemedel i öppenvård (pdf)
+Ramverk för beställning av vårdtjänster samt webbtidbok (pdf)
+Registrering för uppföljning av väntetider i vården i Cosmic (pdf)
+Rutin för skyddade personuppgifter i Cosmic (pdf)
+Rättning av betalregistrering för öppenvård (pdf)
+Utskrifter av kallelser, etiketter och kvitton (pdf)
+Varuförsäljning i Cosmic - lathund (pdf)
+Vårdadministration 1177 stöd och behandling (pdf)
+Vårdkontakt och efterregistrering - lathund (pdf)
+Vårdkontakt och efterregistrering - rutin (pdf)
+Vårdprocessöversikten i Cosmic (pdf)
+Vårddokumentation
+Avliden, registrering och avbokning i Cosmic (pdf)
+Avvikelser i patientjournalen (pdf)
+Beslutsstöd i Cosmic (pdf)
+Beställning och arbetssätt för journalmallar (pdf)
+Bevakning frågor, svar och kompletteringsbegräran från FK Webcert i Cosmic (pdf)
+Blankett driftstörning Cosmic (pdf)
+Diagnos- åtgärdskodning och DRG-gruppering i Cosmic (pdf)
+Diagnos- åtgärdskodning och DRG - lathund (pdf)
+Diktering och transkribering i Cosmic (pdf)
+Forskning (pdf)
+Fraser i Cosmic (pdf)
+Hantering av bärbara diktafoner och lagring av ljudfiler i Cosmic (pdf, intern länk regionanställda)
+Internetförmedlade behandlingsprogram (pdf)
+Journaltabeller - lathund (pdf)
+Må bra-samtal Cosmic (pdf)
+Omvårdnadsdokumentation i slutenvård (pdf)
+Ordinera smärtbehandling i Cosmic läkemedelslista efter ordination av anestesiläkare (pdf)
+Reservnummerhantering och vårddatasammanslagning i Cosmic (pdf)
+Reservnummer som saknas i Cosmic men finns i VAS (pdf)
+Rättelse, avvikande mening, journalförstöring samt hantering av uppgifter i fel journal (pdf, intern länk regionanställda)
+Sammanhållen journal istället för journalkopior (pdf)
+Utlokaliserade patienter och  patienter på samvårdsavdelningar i Cosmic - lathund (pdf)
+Vårddokumentation i Cosmic - diagnoskodning (pdf)
+Vårddokumentation i Cosmic för rehabkoordinatorer (pdf)
+Vårddokumentation vid distanskontakter (pdf)
+Äldres hälsa (pdf)
+Uppmärksamhetssymbolen - UMS
+Dokumentation av smitta UMS vid och efter övergång från VAS till Cosmic (pdf)
+UMS Uppmärksamhetssymbolen och Basdata i Cosmic (pdf)
+Vårdgarantienheten
+Vårdgarantienhetens arbetssätt mot klinik (pdf)
+Vårdövergångar
+Direktinskrivning vårdenhet i Cosmic - lathund(pdf)
+Förflyttning av patient i Cosmic - lathund (pdf)
+Konfigurera rum och vårdplats (säng) för enheter med vårdplatser- lathund (pdf)
+Makulering av vårdtillfälle i Cosmic - lathund(pdf)
+Registrering av parallella slutenvårdstillfällen i Cosmic under pågående psykiatrisk tvångsvård(pdf)
+Utlokaliserade patienter och patienter på samvårdsavdelningar i Cosmic - lathund (pdf)
+Vårdövergångar Cosmic (pdf)
+Översikter
+Konfigurera rum och vårdplats (säng) för enheter med vårdplatser- lathund (pdf)
+Översikter i Cosmic (pdf)
+Lokala rutiner per programområde
+Akut vård
+Specifik dokumentation i Cosmic för akutmottagningar och akutvårdsplatser inom VO Akut omhändertagande(pdf)
+Allergi
+Arbets- och miljömedicin
+Barn och ungdomars hälsa
+BHV Mitt vaccin (pdf)
+Checklista hembesök nyfödd BHV - primärvård(pdf)
+EPDS för barnhälsovården (BHV) i Cosmic - primärvård (pdf)
+Hälsoärende Barnhälsovård - primärvård (pdf)
+Föräldra- och barnhälsans samarbete med BHV - primärvård(pdf)
+Rutiner i Cosmic för ungdomsmottagningen - primärvård (pdf)
+Barnhälsovårdens rutiner i Cosmic (pdf)
+Teambesök inom barnhälsovården - primärvård(pdf)
+Överrapportering till skolhälsovården - primärvård(pdf)
+Överrapportering från Neo samt BB till BHV - primärvård(pdf)
+Vårdadministrativ rutin i Cosmic inom öppenvård, Barnmedicin- och habilitering(pdf)(intern länk, regionanställda)
+Neonatalvård i Cosmic (pdf)
+Slutenvård Barn Cosmic(pdf)
+Bild- och funktionsmedicin
+Remittentinformation om BoS Cosmic BFM (pdf)
+Bild- och funktionsmedicin samt Klinisk fysiologi specifik rutin i Cosmic(pdf)
+Blod och koagulation
+Cancer
+Lathund för bokning och dokumentation på Cytostatikamottagning i Cosmic (pdf)
+Endokrina sjukdomar
+Endokrina sjukdomar, specifik dokumentation i Cosmic(pdf)
+Habilitering
+Vuxenhabilitering specifik dokumentation i Cosmic(pdf)
+Hjärt- och kärlsjukdomar
+Hud- och könssjukdomar
+Hud- och könssjukdomar specifik dokumentation i Cosmic(pdf)
+Infektionssjukdomar
+Infektionssjukdomar specifik dokumentation i Cosmic(pdf)
+Kirurgi- och plastikkirurgi
+Käkkirurgi specifik dokumentation i Cosmic(pdf)
+Kvinnosjukdomar och förlossning
+Analysytan övervakning förlossning (pdf)
+Analysytan preeklampsi (pdf)
+Dokumentationsrutiner och arbetssätt  för graviditet och förlossning i Cosmic (pdf)
+Gynekologisk vård (pdf)
+Tillfällig rutin för registrering av graviditetslängd i patientlisten (pdf)
+Patientöversikt nyfödd (pdf)
+Vätskebalans postpartumblödning (pdf)
+Övergångsrutin för BB förlossning från VAS och Partus till Cosmic Birth(pdf)
+Levnadsvanor
+Lungsjukdomar
+Mag- och tarmsjukdomar
+Mag- och tarmsjukdomar, specifik dokumentation i Cosmic(pdf)
+Nervsystemets sjukdomar
+Neurologiska sjukdomar, specifik dokumentation i Cosmic (pdf)
+Njur- och urinvägssjukdomar
+Njurmedicin och dialys - specifik dokumentation i Cosmic(pdf)
+Palliativ vård
+Dokumentationsrutin Palliativ vård i Cosmic(pdf)
+Perioperativ vård, intensivvård och transplantation
+Övergripande enhetsspecifik rutin
+Anestesi/Operation, Intensivvård och Postop enhetsspecifik rutin Cosmic (pdf, intern länk regionanställda)
+Läkarrutiner
+Remisshantering Anestesi/Operation Intensivvård och Dagkirurgi/Postop(pdf)
+Medicinska rutiner inom Anestesi/Operation, Intensivvård och Postop Cosmic(pdf)
+IVA Omvårdnad
+Intensivvård dokumentation omvårdnad Cosmic (pdf, intern länk regionanställda)
+DKE, UVA, POP
+DKE UVA POP dokumentation i Cosmic(pdf, intern länk regionanställda)
+Operation
+Ansvar för upplägg av Beställningar gällande Patologi Cytologi och Odlingar(pdf, intern länk regionanställda)
+Cytologibeställning samt hantering av materialet (pdf, intern länk regionanställda)
+Patologibeställningar samt hantering av patologimaterial(pdf, intern länk regionanställda)
+Prehospital vård
+Primärvård
+Primärvårdens rutiner A-Ö
+Allmänmedicinska vårdplatser
+Allmänmedicinska vårdplatser i Cosmic (pdf)
+Enhetsöversikten för JC, AMV och Akutmottagning VO Norra (pdf)
+Barnahälsovård
+BHV- Checklista hembesök nyfödda (pdf)
+BHV- EPDS för barnhälsovården i Cosmic (pdf)
+BHV- Hälsoärende (pdf)
+BHV MittVaccin (pdf)
+BHV- Teambesök (pdf)
+BHV- Överrapportering till skolhälsovården (pdf)
+BHV- Överrapportering från NEO och BB (pdf)
+BHVs rutiner i Cosmic (pdf)
+BHVs samarbete med Föräldra- och barnhälsan (pdf)
+Beställning och svar
+Beställning och svar i Cosmic för primärvården (pdf)
+Beställning av prover från nätdoktorer (pdf)
+Hörseltester i Cosmic för primärvården (pdf)
+Spirometri i Cosmic för primärvården (pdf)
+Beskriver primärvårdens provpaket (pdf)
+Bilagor
+Bilaga Basdata (pdf)
+Frågeformulär levnadsvanor Cosmic (pdf)
+Frågeformulär Levnadsvanor- engelsk version
+Spirometri - lungfunktionsmätning (pdf)
+En väg in
+Administrativ rutin EVI (pdf)
+Administrativ rutin mellan Barn- och ungas psykiska hälsa- En väg in (EVI) och Barn- och ungdomshälsan (pdf)
+Handläggning av nya ärenden med prioritering akut eller hög (pdf, intern länk regionanställda)
+Handläggning av nya ärenden med prioritering medel, låg eller inom 30 dagar (pdf, intern länk regionanställda)
+Handläggning av patient som remitteras från Barn- och ungdomshälsan till Barn- och ungdomspsykiatrin (pdf)
+När barn eller vårdnadshavare tackar nej till hälso- och sjukvård (pdf, intern länk regionanställda)
+Remiss till BUP (pdf, intern länk regionanställda)
+Remissflöde mellan Barn- och ungas psykiska hälsa - En väg in (EVI) och länets hälsocentraler (pdf)
+Remissflöde mellan länets hälsocentraler och Barn- och ungas psykiska hälsa- En väg in (pdf)
+Remisser från BUP till BUH (pdf)
+Riktlinjer för EVI vid frågeställning ätstörning (pdf)
+Telefonsamtal med föräldrar (Möt ditt barns oro, pdf)
+Läkemedel
+Läkemedelsförskrivning i Cosmic för primärvården (pdf)
+Utskrift av läkemedelslista från Cosmic till PDF (pdf)
+Mitt Vaccin
+BHV Mitt vaccin (pdf)
+Mitt Vaccin- Schema- och tidbokningsadministration (pdf)
+Lathund medhavt vaccin (pdf)
+Mödrahälsovård
+Ankomstregistrera och DRG-gruppera vårdkontakter för Barnmorskemottagning och Barnhälsovård(pdf)
+Bokning och dokumentation-Klimakterierådgivning
+Diagnos- och åtgärdskoder för barnmorskemottagning(pdf)
+Graviditetsrutin (pdf)
+Graviditet, barnmorskemottagning (pdf)
+Gynekologisk cellprovskontroll, barnmorskemottagning (pdf)
+Hälsoärende Graviditet(pdf)
+Läkarbesök och sjuksköterskebesök på hälsocentral, graviditet (pdf)
+Mödrahälsovårdens (MHV) samarbete med Föräldra- och barnhälsan (pdf)
+Preventivmedel, barnmorskemottagning (pdf)
+Rutin för övergång till nya journalmallar i Cosmic Birth (pdf)
+Sexuellt överförbara infektioner, barnmorskemottagning (pdf)
+Remisshantering
+Fotvårdsremisser i Cosmic till privata aktörer (pdf)
+Remiss till Centrala smittspårningen för klamydia och gonorré (pdf)
+Remisshantering i Cosmic för primärvården (pdf)
+Resursplanering
+Första linjens vårdtjänst, barn och ungdomar (pdf)
+Resursplanering i Cosmic för primärvården (pdf)
+Vårdadministration
+Asylpatienter, primärvård (pdf)
+Bevakningsrutin i Cosmic för primärvården (pdf)
+Boka teambesök (pdf)
+Bokning i Cosmic för primärvården (pdf)
+Bokning och dokumentation för patienter med samordningsbehov (pdf)
+Digitala kontakter - ankomstregistrering och dokumentation (pdf)
+Fakturering till externa kunder via E-Biff (pdf)
+Fast vårdkontakt Cosmic (pdf)
+Intyg - Bokning och Vårdkontakt- och efterregistrering (pdf)
+Jourcentraler på Akuten (pdf)
+Tillfällig rutin för vårdkontaktregistrering av stöd och behandling i primärvård (pdf)
+Patientgrupper (pdf)
+Utskrift av besökslistor (pdf)
+Öppen mottagning och jourcentraler i Cosmic (pdf)
+Vårddokumentation
+Arbetsterapeuter, vårddokumentation i Cosmic (pdf)
+Behandlingsbegränsningar och brytpunktssamtal (pdf, intern länk regionanställda)
+Bokning och dokumentation vid våldsutsatthet (pdf)
+Diagnos- och åtgärdskoder för SSK och USK inom primärvården(pdf)
+Diabetes- Nationella Diabetesregistret (pdf)
+Diktering att tänka på för primärvård (pdf)
+Egenmonitorering i Cosmic(pdf)
+Fysioterapeuter, vårddokumentation i Cosmic (pdf)
+Förskrivning av Fysisk aktivitet på recept (pdf)
+Hälsosamtal i Cosmic (pdf)
+Journalmallar i Cosmic för primärvården (pdf)
+Journaltabeller-Lathund (pdf)
+Lathund kortkommando Cosmic- Vårddokumentation (pdf)
+Levnadsvanor i Cosmic (pdf)
+Kuratorer, vårdddokumentation i Cosmic (pdf)
+Prioritering av diktat och transkribering (pdf)
+Psykologer, vårddokumentation i Cosmic (pdf)
+Registrera koder och DRG-gruppering primärvård (pdf)
+Samtalsbehandling i Cosmic (pdf)
+Sjukskrivning i primärvården (pdf)
+Tobak- och nikotinavvänjning i primärvården (pdf)
+Ungdomsmottagningens rutiner i Cosmic (pdf)
+Vårddokumentation i Cosmic för primärvården (pdf)
+Vårddokumentation vid distanskontakter (pdf)
+Vårdplansverktyget i Cosmic (pdf)
+Översikter
+Översikter i Cosmic för primärvården (pdf)
+Psykisk hälsa
+Psykisk hälsa A-Ö
+Psykisk hälsa - Vuxen
+Verksamhetsgemensamma rutiner
+Administrativa rutiner vid dokumentation av tvångsvård (pdf - intern länk regionsanställda)
+Bokning och dokumentation vid våldsutsatthet (pdf)
+Diagnoskodning och DRG-gruppering (pdf - intern länk regionsanställda)
+Läkemedel sjuksköterska specialistvård (pdf - intern länk regionsanställda)
+Rutin kring läkemedelsmodulen i Cosmic.
+Läkemedel läkare specialistvård (pdf - intern länk regionsanställda)
+Rutin kring läkemedelsmodulen i Cosmic.
+Registrering av parallella slutenvårdstillfällen i Cosmic under pågående psykiatrisk tvångsvård (pdf - intern länk regionsanställda)
+Patient som har parallella vårdtillfällen och är inneliggandes på somatisk avdelning och samtidigt är kvarhållen eller intagen enligt LPT, LRV.
+Remiss för utomlänsvård vid ätstörning, länsrutin (pdf - intern länk regionanställda)
+Vårdplaner i Cosmic (pdf - intern länk regionsanställda)
+Jourmottagning
+Läkemedel
+Remisshantering
+Tvångsvård
+Vårdadministration
+Vårddokumentation
+Lathund - Allmänpsykiatri Gällivare
+Aktivitetshanteraren - vem gör vad (pdf - intern länk regionanställda)
+Beskrivning vem som gör vad i Aktivitetshanteraren.
+Anslutningsöversikten (pdf - intern länk regionanställda)
+Anslutningsöversikten, en slags bevakningslista. Hur du lägger upp patient på anslutningsöversikten. Tabell över Team, klassificering och funktion. Hur du söker fram patient utifrån Team. Hur du lägger upp en kommentar i anslutningsöversikten.
+Bevaknings- och väntelistor i Cosmic (pdf - intern länk regionanställda)
+Vilka väntelistor vi använder i Cosmic samt en kort beskrivning i vilken funktion man lägger upp väntelistan/bevakningen i.
+Boka patient i öppenvården (pdf - intern länk regionanställda)
+Lathund för hur behandlare bokar sina patienter i öppenvården.
+Bokning av patient Kirunamottagningen (pdf - intern länk regionanställda)
+Hur man bokar in patient på mottagningen i Kiruna.
+Diktering (pdf - intern länk regionanställda)
+Beskrivning av strukturen vid diktering. Vad som bör läggas under prioritering hög respektive normal. Kommentarer på ljudfiler och övrigt kring diktering.
+Dikteringsstöd Besöksanteckning, psykisk hälsa (pdf - intern länk regionanställda)
+Stöd vid diktering (och transkribering) vid användning av journalmall "Besöksanteckning, psykisk hälsa", för att underlätta vid dokumentation både för läkare och medicinsk sekreterare. Används vid dokumentation av mottagnings-/digitala besök, jourbesök och kvalificerade telefonkontakter.
+EVB - registrering (pdf - intern länk regionanställda)
+Hur man registrerar en EVB i Cosmic vid telefonsamtal. Gäller alla enheter hos oss.
+Fraslista Cosmic (pdf - intern länk regionanställda)
+Lista på fraser som finns upplagda i Cosmic för Psykiatrin Gällivare samt information hur man gör för att använda en fras i Cosmic.
+Inkommande provsvar, arbetsrutin (pdf - intern länk regionanställda)
+Arbetsrutin kring hur och när sjuksköterska på medicinturen kontrollerar inkommande provsvar för våra patienter.
+Journalmallar i Cosmic (pdf - intern länk regionanställda)
+Lathund med vilka journalmallar vi använder i Cosmic. Beskrivande text när man använder respektive journalmall och vilka enheter varje journalmall är tillgänglig.
+Lägga på väntelista (pdf - intern länk regionanställda)
+Lathund för hur du lägger upp väntelista i Cosmic.
+Lägga upp ny patient på väntelista (pdf - intern länk regionanställda)
+Beskrivning hur du som behandlare lägger upp när du fått en ny patient på väntelista
+Messenger - skapa personliga grupper (pdf - intern länk regionanställda)
+Hur du skapar de rekommenderade personliga grupperna hos oss för läkar-/läkemedelsmottagningen och vår reception i Messenger. T ex när du ska skicka meddelande om uteblivet besök eller upplägg av prover.
+Patient som åberopat vårdgarantin (pdf - intern länk regionanställda)
+Lathund för chöl och vårdgarantienheten när patient åberopat vårdgaranti
+Registrera besök när patienten ej checkat in (pdf - intern länk regionanställda)
+Hur ser jag att min patient checkat in? Patient som missats checka in men varit på besök. Kvalificerade telefonkontakter. ÖV-personal som gör besök på avdelningen. Om min patient uteblir.
+Vårdkontakt vid dokumentation (pdf - intern länk regionanställda)
+Hur man använder vårdkontakt vid journaldokumentation. Kvalificerade besök/telefonkontakt, okvalificerat telefonsamtal/samtal eller annan administrativ kontakt.
+Lathund - Allmänpsykiatrin Sunderbyn
+Aktivitetshanteraren - vem gör vad, Allmänpsykiatrin SY (pdf - intern länk regionanställda)
+En guide om när och vem som behöver utföra registreringar i aktivitetshanteraren.
+Arbetssätt och lathund Rapportrum (fikjour). (pdf - intern länk regionanställda)
+Instruktion till hur rapportrummet används. En funktion för öppenvården att fånga upp patienter som ringt/besök jouren eller blivit utskrivna.
+Avdelning, Allmänpsykiatrin SY , lathund (pdf - intern länk regionanställda)
+Lathund över funktioner och arbetssätt anpassat efter avdelningspersonalens behov. Rör utskrivningar, överföringar, registrering av tvångsvårdsbeslut, prover, läkemedel m.m.
+Bevakning läkarväntelista, rutin Psykiatrin Sunderbyn (pdf - intern länk regionanställda)
+Medicinsk prioritering och kategorier
+Cosmic - Journalguide för AT och UL (pdf - intern länk regionanställda)
+Diktatutskrift i Cosmic (pdf - intern länk regionanställda)
+Guide till diktatuskrift; koppla anteckning, journalmallar, vårdplaner etc.
+Diktering i Cosmic (pdf - intern länk regionanställda)
+Hur man skapar diktat, väljer mallar, prioriterar på rätt sätt.
+Förslag på genvägar i Cosmic (pdf - intern länk regionanställda)
+Tips på vilka genvägar man kunde ha nytta av inför Go-live.
+Jouren, Allmänpsykiatrin SY,(pdf - intern länk regionanställda)
+Lathund över funktioner och arbetssätt anpassat efter jourpersonalens behov. Rör inskrivning, jourbesök, dokumentation m.m.
+Jouren LRV-patienter, Allmänpsykiatrin SY, (pdf - intern länk regionanställda)
+Lathund LRV-patienter som kommer till jouren.
+LARO, Allmänpsykiatrin SY (pdf - intern länk regionanställda)
+Lathund över funktioner och arbettsätt anpassat efter LARO:s behov. Rör väntelistning, provtagning, registrering av besök m.m.
+Läkare (pdf - intern länk regionanställda)
+Lathund för läkare
+Meddelandegrupper Cosmic
+Remiss för utomlänsvård vid ätstörning, länsrutin (pdf - intern länk regionanställda)
+Tillfällig lösning, Särskilda uppgifter (pdf - intern länk regionanställda)
+Lathund för att skriva under dolt sökord
+Lathund - Allmänpsykiatri Piteå
+Lathund - Rättspsykiatri
+Aktivitetshanteraren inkl. tvångsåtgärder (pdf - intern länk regionanställda)
+Registrering i aktivitetshanteraren.
+Genomsök och beslag av otillåtna föremål (pdf - intern länk regionanställda)
+Dokumentation vid genomsök och beslagtagning.
+Förflyttningar (pdf - intern länk regionanställda)
+Förflyttningar inom kliniken.
+Inskrivning och utskrivning (pdf - intern länk regionanställda)
+Orosanmälan (pdf - intern länk regionanställda)
+Dokumentation vid orosanmälan.
+Permissioner och frigång inkl. beledsagningar (pdf - intern länk regionanställda)
+Dokumentation av permissioner, frigång och beledsagningar.
+Rättshandlingar och beslut lämnade till patienten (pdf - intern länk regionanställda)
+Dokumentation av rättshandlingar till patient.
+Stödperson (pdf - intern länk regionanställda)
+Dokumentation av stödperson.
+Underrättelse till målsägare  (pdf - intern länk regionanställda)
+Dokumentation av underrättelse till målsägare.
+Utvärderingsjournal (pdf - intern länk regionanställda)
+Hur man skriver en utvärderingsjournal.
+Vårdplan (pdf - intern länk regionanställda)
+Hur man skriver en vårdplan.
+Rehabilitering
+Arbetsterapi inom Öppenvårdsrehabilitering dokumentation Cosmic (pdf)
+Arbetsterapi inom Region Norrbotten dokumentation Cosmic (pdf)
+Dietist klinisk nutrition specifik dokumentation Cosmic (pdf)
+Fysioterapi inom Öppenvårdsrehabilitering dokumentation Cosmic (pdf)
+Fysioterapi inom Region Norrbotten dokumentation Cosmic (pdf)
+Kurator dokumentation Cosmic (pdf)
+Logoped dokumentation Cosmic (pdf)
+Dokumentation Rehabiliteringsmedicin och försäkringsmedicin, Sunderby sjukhus (pdf)
+Reumatiska sjukdomar
+Reumatologen specifik dokumentation i Cosmic(pdf)
+Rörelseorganens sjukdomar
+Rörelseorganens sjukdomar - arbetsätt och rutiner(pdf)
+Smärta
+Sällsynta sjukdomar
+Tandvård
+Äldres hälsa
+Ögonsjukdomar
+Dokumentationsrutiner och arbetssätt för Ögon(pdf)
+Syncentralen specifik dokumentation Cosmic(pdf)(intern länk regionanställda)
+Öron-, näs- och halssjukdomar
+Dokumentationsrutiner och arbetssätt för ÖNH(pdf)
+Pedagogiska hörselvården specifik dokumentation Cosmic(pdf)
+Hörcentralen specifik dokumentation Cosmic(pdf)(intern länk regionanställda)
+Uppdaterad:
+2026-11-20, 15:25
+Publicerad:
+2024-02-06, 16:55
+Dela artikeln
+Dela på Facebook
+Dela på X (Twitter)
+Dela på LinkedIn
+Kopiera permalänk
+Dela länk via mail
+Taggar
+Patientadministration
+Cosmic
+Vårdadministrativ rutin

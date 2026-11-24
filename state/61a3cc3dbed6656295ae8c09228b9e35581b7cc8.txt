@@ -1,0 +1,856 @@
+DC Nytt
+Här hittar du alla nyhetsbrev från diagnostiskt centrums olika verksamheter
+Nyhetsbrev från Diagnostiskt centrum
+2025-09-08: Paket till fliken ”Beställning” i Cosmic
+Paketen är dynamiska och enskilda aktiviteter och undersökningar kan läggas till eller tas bort efter att man har valt ett paket för en specifik patient.
+Om flera paket kombineras i samma beställning kommer eventuella dubblerade undersökningar att tas bort automatiskt.
+Paket som innehåller laboratorieanalyser inom klinisk kemi eller klinisk mikrobiologi ska skapas i samarbete med laboratorierna.
+Beskriv det önskade paketet i formuläret ”Formulär för beställning av paket i Cosmic under fliken Beställning” som finns på
+sidan Diagnostiskt centrum
+. Skicka det ifyllda formuläret till
+mikrobiologen@regionkalmar.se
+och/eller
+kliniskkemikalmar@regionkalmar.se
+Laboratorierna har också påbörjat arbetet med att skapa paket som är tillgängliga för alla eller ett flertal kliniker.
+Följande paket ska redan nu finnas tillgängliga för alla relevanta enheter:
+Paket Allmänt leverstatus
+Paket Allmänt elstatus
+Paket Allmänt lipidstatus
+Paket Allmänt Blododling x 2
+Paket Allmänt Rundodling
+Paket Allmänt Sepsis
+Paket Allmänt Ledvätska Septisk artrit
+Paket Allmänt LP Bakteriell meningit
+Paket Allmänt LP Viral meningit/encefalit
+Paket Allmänt LP Neuroborrelios
+Paket Allmänt Infektionsscreen inför immunsuppressiv behandling
+Paket Allmänt MRSA screen för personal
+Paket Allmänt Multiresistenta bakterier (MRB) screen utan riskfaktorer
+Paket Allmänt Multiresistenta bakterier (MRB) screen vid riskfaktorer
+Innehållsansvariga:
+MLA Annika Carlsson Wistedt, Klinisk mikrobiologi
+MLA Maria Berggren Söderlund, Klinisk kemi
+IT-ansvarig Jimmy Henriksson, Klinisk mikrobiologi
+IT-ansvarig Nathalie Carlsson, Klinisk kemi
+2025-03-20: Nya allmänna beställningspaket och uppdatering lumbalpunktion
+Nya allmänna beställningspaket för hela slutenvården finns vid användning av ”Beställning” istället för ”Beställning provbunden” i Cosmic
+För de inom slutenvården som har gått över till det nya beställningssystemet i Cosmic ”Beställning” (Common Order Entry) finns det nu 6 nya ”Paket Allmänt” tillgängliga.
+De innehåller både mikrobiologiska och kliniskt kemiska analyser och är till för att underlätta beställningsförfarandet vid vissa provtagningssituationer som lumbalpunktion eller ledpunktion.
+Paket Allmänt Blododlingx2
+Paket Allmänt Ledvätska Septisk artrit
+Paket Allmänt LP Bakteriell meningit
+Paket Allmänt LP Neuroborrelios
+Paket Allmänt LP Viral meningit/encefalit
+Paket Allmänt Rundodling
+Det är möjligt att lägga flera paket eller enskilda analyser till samma beställning. Om man till exempel vid lumbalpunktion vill provta både för ”Bakteriell meningit” och ”Viral meningit/encefalit” kan båda paketen läggas till och analyser som förekommer i båda paketen kommer ändå att beställas bara en gång.
+Enstaka analyser kan också väljas bort eller läggas till efter att paket har valts.
+Innehållsansvariga:
+Annika Wistedt, MLA, Klinisk mikrobiologi och Maria Berggren Söderlund, MLA, Klinisk kemi
+Uppdaterad provtagningsanvisning för lumbalpunktion
+Provtagningsanvisningen ”Lumbalpunktion, analysval och rörtyper” är uppdaterad. Dokumentet innehåller provtagningsanvisningar för de vanligaste analyserna vid lumbalpunktion. Förändringar har gjorts vad gäller ingående analyser, rekommendationer för provtagning och rörtyper.
+Se till att uppdatera till aktuell version om dokumentet finns utskrivet på er klinik.
+Innehållsansvariga:
+Matilda Widerström, ST-läkare, Klinisk mikrobiologi och Maria Berggren Söderlund, MLA, Klinisk kemi
+2024-12-16: Prover under helgdagarna 2024/2025
+Klinisk mikrobiologi
+Samtliga dagar analyseras som vanligt alla blododlingar, prov från sterila lokaler och urinodlingar från slutenvårdens patienter. Under långhelgerna jul respektive trettonhelgen har vi utökad service den 26/12 och den 4/1. Då besvaras också övriga odlingsprov från slutenvården samt luftvägs-PCR för atypiska agens inklusive mykoplasma pneumoniae.
+Övrig serologisk och molekylärbiologisk diagnostik inklusive EHEC och Helicobacter pyloriantigen pågår endast under periodens vardagar.
+Prover som ska gå till externa laboratorier (analysnamn som slutar på (ext.ut) i beställningen) kommer att skickas sista gången torsdagen 19/12. Därefter kommer prover frysas (serum-, plasma-, ledvätske-, och csv-prover) för att skickas först 2/1.
+Externa analyser som innefattar övriga provtyper såsom sputum, sårsekret och liknande kommer därför inte kunna tas under denna period. Undantaget är prover för TBC/Mykobakterie-diagnostik som kan tas som vanlig.
+För frågor, synpunkter och problemlösning kontakta laboratoriet på
+010-358 14 41 eller 010-358 14 91.
+Innehållsansvarig:
+Annika Carlsson Wistedt, överläkare, Klinisk mikrobiologi
+Klinisk kemi och transfusionsmedicin
+Ändrade rutiner för prover som skickas för analys till andra laboratorier under jul och nyår 2024/2025:
+Vecka 52 och 1 kommer inga frysta prover att skickas. Nästa transport av frysta prover sker 2025-01-07.
+Tänk på detta när ni tar prover och var noga med att läsa i
+Provtagningsanvisningarna
+angående hantering och hållbarhet av aktuellt prov.
+Prover till Rättsmedicinalverket (RMV) i Linköping
+Från och med 2025-01-13 ändrar RMV faktureringssätt enligt GDPR reglerna (patientens pnr får ej finnas angivet på fakturorna). På grund av detta ska proverna fortsättningsvis beställas på annat sätt,
+se bilaga
+Prover till Rättsmedicinalverket
+.
+Innehållsansvarig:
+Johannes Salim, BMA, Klinisk kemi och transfusionsmedicin
+Klinisk patologi
+Dessa prover måste komma innan klockan 13:00 dag innan röd dag:
+Färska prover
+Likvor
+Preparat med lymfomfrågeställning
+Exsudat (t.ex. pleuravätska, ascitesvätska, perikardvätska)
+Preparat för flödescytometri
+IF-stansar från Västervik och Oskarshamn
+Innehållsansvarig:
+Anna Aronsson, avdelningschef, Klinisk patologi
+2023-04-20: Nytt uthopp i Cosmic till Provtagningsanvisningar
+Uthoppet finns under Beställning och svar.
+Guide till uthoppet som finns under menyvalet Beställning och svar, klicka på bilden för att se större
+Innehållsansvarig:
+Fredrik Enlund
+, centrumchef, Diagnostiskt centrum
+Nyhetsbrev från Klinisk kemi
+2026-10-19: Metodjustering F-Kalprotektin och analys NT-proBNP i Oskarshamn
+Högre nivå F-Kalprotektin efter metodjustering
+Från och med 20 oktober görs en metodförändring för F-Kalprotektin i syfte att harmonisera med andra laboratorier i landet. Observera att denna förändring medför ökade nivåer jämfört med tidigare på grovt 30% i området 0-500 mg/kg. På högre nivåer kan ökningen vara ännu mer uttalad.
+Under en övergångsperiod på 3 månader kommer förhöjda resultat (>50 mg/kg) att analyseras om med utgående metod för jämförelse och besvaras separat.
+Referensområdet kvarstår oförändrat (<50 mg/kg).
+Frågor: Ivar Tjernberg,
+ivar.tjernberg@regionkalmar.se
+, 076-118 44 86.
+Innehållsansvarig:
+Ivar Tjernberg, överläkare, Klinisk kemi och transfusionsmedicin
+NT-proBNP – analys även i Oskarshamn och uppdaterade referensintervall
+Från och med 27 oktober kommer P-NT-proBNP att analyseras även i Oskarshamn, utöver de befintliga analysmöjligheterna i Kalmar och Västervik.
+Referensintervallen för P-NT-proBNP uppdateras. Metodprestandan är oförändrad.
+För mer information,
+se våra Provtagningsanvisningar
+(uppdateras 27 oktober).
+Innehållsansvariga:
+Anders Isaksson, överläkare, Klinisk kemi och
+Olga Tagkalou, ST-läkare, Klinisk kemi
+2026-10-05: Hemolys och svarskommentar
+Hemolys innebär att röda blodkroppar har gått sönder i provet, vilket kan påverka vissa analyser.
+Från och med den 7 oktober inför laboratoriet nya hemolysgränser för P-ASAT, P-Kalium, P-LD och P-Haptoglobin. Gränserna tar hänsyn till hur stor påverkan hemolysen kan ha på provsvaret. Vid förekomst av hemolys bör provsvaret därför tolkas med försiktighet.
+Vid hemolys för ovanstående analyser kan provsvaret kompletteras med information om:
+att hemolys förekommer
+vilken påverkan hemolysen kan förväntas ha
+Syftet är att ge beställaren ett tydligare underlag för den kliniska bedömningen och minska risken för feltolkning av provsvar.
+Innehållsansvarig:
+Olga Tagkalou, ST-läkare, Klinisk kemi och transfusionsmedicin
+2026-09-14: Nya analyser och uppdatering remisser
+Faeces-Elastas – ny analys vid Klinisk kemi i Kalmar
+F-Elastas är ett enzym som utsöndras från exokrina pankreas och vars koncentration korrelerar till exokrina pankreas funktion. Tidigare har prov skickats till externt lab men från och med 17/9 kommer analysen att utföras i Kalmar. Indikationer för testet inkluderar utredning av misstänkt pankreasinsufficiens som t.ex. följd av kronisk pankreatit, men också cystisk fibros.
+Testresultat ≥200 mg/kg anses normala men på grund av betydande gråzon och begränsad specificitet rekommenderas förnyad provtagning vid sänkta resultat och upp till 300 mg/kg.
+För mer information om testet se Provtagningsanvisningar
+Vid frågor -
+kontakta Ivar Tjernberg
+Innehållsansvarig:
+Ivar Tjernberg
+, överläkare, Klinisk kemi och transfusionsmedicin
+P-Metylmalonat (MMA) – ny analys vid Klinisk kemi i Kalmar
+Från och med 17/9 kommer P-MMA, som tidigare skickats till externt lab, att analyseras vid Klinisk kemi i Kalmar.
+Vid utredning av misstänkt vitamin B12- eller folatbrist används P-Homocystein ofta som initial analys. Vid förhöjt P-Homocystein och P-Kobalamin i gråzon eller i nedre delen av referensintervallet kan MMA användas som kompletterande analys för att påvisa funktionell B12-brist. MMA är en känslig markör för B12-brist och påverkas inte av folatbrist. Nedsatt njurfunktion kan dock medföra förhöjda MMA-nivåer och bör beaktas vid tolkning av resultatet.
+För mer information om testet se Provtagningsanvisningar
+Innehållsansvarig:
+Olga Tagkalou
+, ST-läkare, Klinisk kemi och transfusionsmedicin
+Uppdatering av Remiss 2 och ny Remiss 5
+Vår Remiss 2 uppdateras från och med 2026-09-17. Samtidigt släpper vi en ny remiss; Remiss 5 urin, faeces, övriga vätskor.
+Finns för utskrift på Vårdgivarwebben: Klinisk kemi och transfusionsmedicin
+Innehållsansvarig:
+Nathalie Carlsson
+, IT-samordnare, Klinisk kemi och transfusionsmedicin
+2026-08-19: Stopp för tilläggsbeställningar av NT-proBNP och Prolaktin
+Påminnelse om att sedan den 4 augusti 2026 är det inte längre möjligt att göra tilläggsbeställningar av analyserna NT-proBNP och Prolaktin.
+Beslutet är en förebyggande patientsäkerhetsåtgärd efter information från Roche Diagnostics och gäller tills vidare, i väntan på en teknisk lösning.
+Orsaken är att tilläggsbeställningar kan medföra en ökad risk för provkontaminering (carry-over), vilket kan påverka analysresultaten.
+Innehållsansvarig:
+Olga Tagkalou, ST-läkare, Klinisk kemi
+2026-06-22: Konsulttelefon och rekommendationer om minimiretestning
+Konsulttelefon
+Klinisk kemi har en konsulttelefon: tfn 010-358 14 07 som är bemannad vardagar 8-15:30. Används för direktkontakt läkare till läkare.
+Innehållsansvarig:
+Maria Berggren Söderlund, överläkare, Klinisk kemi och transfusionsmedicin
+Rekommendation om minimiretestningsintervall
+Minimiretestningsintervall (MRI) är den kortaste rekommenderade tiden mellan två mätningar av samma analyt för att en ny analys ska ge kliniskt relevant information. Intervallet baseras bland annat på analytens kinetik och halveringstid, som avgör hur snabbt koncentrationen kan förändras vid fysiologiska förändringar, sjukdom eller behandling.
+Om prov tas för tidigt speglar resultatet oftast samma fysiologiska tillstånd som tidigare och tillför därför begränsad ny information. Detta kan leda till onödig resursanvändning, ökade kostnader, fler venpunktioner och risk för felaktiga bedömningar.
+Minimiretestningsintervall ersätter inte den kliniska bedömningen. I enskilda fall, exempelvis vid akut insjuknande, kan det finnas skäl att avvika från rekommenderade intervall. Den behandlande läkarens samlade bedömning är alltid avgörande.
+Här är en översikt över analyser med vägledande minimiretestnings-intervall
+Rekommendationen finns även på Klinisk kemis sida sida.
+Innehållsansvarig:
+Olga Tagkalou, ST-läkare, Klinisk kemi och transfusionsmedicin
+2026-05-26: B-Malaria, P-AFP (alfa-Fetoprotein i plasma) ,  P-Testostosteron,  Cystatin C, remiss 1 och 2
+Ny känsligare screeningmetod för B-Malaria
+Från och med 2026-05-28 införs så kallad LAMP-metod (loop-medierad isotermisk amplifiering) för screening av malariaparasiter i blod. Denna metod är betydligt känsligare än tidigare snabbtest för malaria och bygger på förstärkning av plasmodie-DNA. Liksom tidigare bekräftas alla positiva screeningfall med mikroskopi för artbestämning samt grad av parasitemi. Vid negativt resultat i LAMP-test utförs ingen ytterligare diagnostik. Observera att uppföljning av patienter med aktuell malaria (så kallad behandlingskontroll) ska undersökas med mikroskopi eftersom LAMP-test och DNA från parasiter kan påvisas veckor till månader även efter utläkt infektion. Undantagsvis kan snabbtest även fortsättningsvis komma att användas som komplement i diagnostiken av malaria.
+Se provtagningsanvisningar för mera information om analysen:
+Malariamorfologi
+. (observera att länken uppdateras den 28 maj).
+Frågor:
+Ivar Tjernberg,
+ivar.tjernberg@regionkalmar.se
+, 076-118 44 86
+Innehållsansvarig:
+Ivar Tjernberg, överläkare, Klinisk kemi och transfusionsmedicin
+P-AFP (alfa-Fetoprotein i plasma) – Ny analys vid Klinisk kemi i Kalmar
+Tidigare har prov för P-AFP skickats till externt laboratorium (Linköping) men från och med 2026-05-28 kommer analysen att utföras i Kalmar. Både mätmetod och referensintervall är oförändrade. Vid germinalcellstumörer (könscellstumörer i testiklar, ovarier eller extragonadalt) används AFP ofta i kombination med HCG och LD. Vinster med förändringen är kortare svarstid samt att samtliga dessa analyser kan utföras på samma rör.
+Uppdaterad information om P-Testosteron
+Provtagningsanvisningarna ändras från och med 2026-05-28. I dessa anges nu bland annat att för säker värdering av lägre koncentrationer av testosteron (<3 nmol/L) rekommenderas bestämning av testosteron med masspektrometri (S-Testosteron, känslig). Detta gäller vid exempelvis utredning av pubertas precox eller tarda, hyperandrogenism hos kvinnor och för bedömning av effekten av antiandrogen behandling.
+Innehållsansvarig:
+Anders Isaksson, överläkare, Klinisk kemi och transfusionsmedicin
+Förändrat utsvar och uppdaterade referens-intervall för Cystatin C
+Från och med 2026-05-28 kommer Cystatin C att svaras ut med två decimaler över hela koncentrationsintervallet. I samband med denna förändring har referensintervallen uppdaterats.
+Analysmetoden är oförändrad.
+Innehållsansvarig:
+Olga Tagkalou, ST-läkare, Klinisk kemi och transfusionsmedicin
+Uppdatering av Remiss 1 och 2
+Våra remisser för utskrift uppdateras från och med 2026-05-28. Finns på vår sida på Vårdgivarwebben:
+Klinisk kemi och transfusionsmedicin
+Innehållsansvarig:
+Nathalie Carlsson, IT-samordnare, Klinisk kemi och transfusionsmedicin
+2026-03-20: Kliniskt stöd för GFR och nya provtagningspaket i Cosmic
+GFR – beräkning, markörer och klinisk användning
+Följande dokument ger en översikt av hur eGFR beräknas, tolkas och används kliniskt. Det belyser bland annat skillnader mellan kreatinin och cystatin C samt absolut respektive relativ eGFR.
+Dokumentet syftar till att ge stöd vid diagnostik, läkemedelsdosering och tolkning av diskrepanser mellan eGFR (kreatinin) och eGFR (cystatin C).
+GFR - beräkning, markörer och klinisk användning
+Allmänna provtagningspaket för primärvården i Cosmic
+Inom ramen för Kloka diagnostiska val har nya standardpaket för årskontroll vid hypertoni och diabetes tagits fram i samarbete med MAL från primärvården i syfte att främja en mer enhetlig, evidensbaserad och resurseffektiv provtagning. De nya paketen finns nu tillgängliga för primärvården i hela regionen.
+Vid varje ordination kan prover från paketet väljas bort eller kompletteras med ytterligare analyser efter individuella kliniska bedömningar.
+Innehållsansvarig:
+Olga Tagkalou, ST-läkare, Klinisk kemi och transfusionsmedicin
+2026-03-13: Ny mätmetod och nytt referensintervall för TPO-antikroppar
+Ny mätmetod och nytt referensintervall för TPO-antikroppar från och med 19 mars 2026.
+Den tidigare och nya metoden visar god korrelation men mätvärdena för de två metoderna kan visa betydande skillnader för enskilda individer. Den diagnostiska prestandan för den nya metoden är oförändrat god med en sensitivitet och specificitet som i båda fallen överstiger 90 % vid den nya beslutsgränsen (<20 kIE/L).
+Innehållsansvarig:
+Anders Isaksson, överläkare, Klinisk kemi och transfusionsmedicin
+2025-12-16: Nya referensintervall för barn och uppdaterade intervall för P-Ferritin hos vuxna
+Vi informerar härmed om att nya och uppdaterade referensintervall för barn införs från och med den 16 december. Syftet är att öka den diagnostiska precisionen för våra yngre patienter. Barnreferensintervall har nu lagts till för P-Troponin T, P-Ferritin och P-Kobalaminer (Vitamin B12). Vi har även uppdaterat barnreferensintervallen för P-LD (P-Laktatdehydrogenas). Vuxenreferensintervallen för P-Ferritin blir också uppdaterade.
+De nya referensintervallen är följande:
+P-Kobalaminer
+0-<1 månad:
+138-1380 pmol/L
+1-<12 månader:
+124-1240 pmol/L
+1-<12 år:
+261-1180 pmol/L
+12-<18 år:
+199-835 pmol/L
+P-LD
+Kvinnor
+Män
+0-15 d:
+<19 µkat/L
+<19 µkat/L
+15 d-1 år:
+<7,1 µkat/L
+<7,1 µkat/L
+1-10 år:
+<5,1 µkat/L
+<5,1 µkat/L
+10-15 år:
+<4,3 µkat/L
+<4,5 µkat/L
+15-18 år:
+<4 µkat/L
+<4 µkat/L
+P-Troponin T
+6 dagar-<6 månader:
+<87 ng/L
+6 månader-<1 år:
+<39 ng/L
+1 år-<18 år:
+<11 ng/L
+P-Ferritin
+Kvinnor
+Män
+0-1 månad:
+150-970 µg/L
+150-970 µg/L
+1-6 månader:
+14-580 µg/L
+14-580 µg/L
+6 månader-15 år:
+14-100 µg/L
+14-100 µg/L
+15-18 år:
+14-110 µg/L
+21-170 µg/L
+*18-51 år:
+13-150 µg/L
+31-410 µg/L
+>51 år:
+13-330 µg/L
+31-410 µg/L
+*För kvinnor över 18 år medföljer en kommentar: ”Referensintervall kvinnor premenopausalt:13-150 µg/L, postmenopausalt: 13-330 µg/L”.
+Innehållsansvarig:
+Olga Tagkalou, ST-läkare, Klinisk kemi
+2025-12-05: Falskt för låga TRAK
+Leverantören (Roche) av reagens till vår metod för TRAK (TSH-receptor antikroppar) har varnat för att man upptäckt ett fel i metoden.
+Enligt deras uppgifter kan resultaten bli upp till 50% för låga kring beslutsgränsen (1,8 IE/L). Det är inte helt klart hur länge felet förekommit men troligen gäller felet endast vår senaste reagenslot, som använts mellan 3 juni och 24 november. Vi har inte själva noterat några problem med det angivna reagenset vare sig genom resultat på våra interna kontroller (driftkontroller) eller från resultat på vår externa kvalitetssäkring. Vilken relevans varningen har för vår del är därför inte helt klar.
+Vid osäkerhet i diagnosen och med provresultat i framför allt intervallet mellan 0,9 – 1,8 IE/L kan det vara motiverat att skicka nytt prov på de patienter vars prover analyserats mellan 3 juni och 24 november.
+Prover tagna efter 24 november är analyserade med nytt och enligt tillverkaren felfritt reagens.
+Vi beklagar det inträffade och de problem som det kan medföra.
+Innehållsansvarig:
+Anders Isaksson, överläkare, Klinisk kemi och transfusionsmedicin
+2025-11-13: Analyser S-Tokoferol, alfa- och S-Retinol
+Vi informerar härmed om att analyserna S‑Tokoferol,alfa- och S‑Retinol har lagts till i Cosmic och kan nu beställas elektroniskt. Analyserna är bland annat indicerade för bedömning av nutritionsstatus, särskilt vid sjukdomar som påverkar absorption och omsättning av de fettlösliga vitaminerna, vid misstanke om malabsorption, vid utredning av bristsymtom och vid uppföljning av substitutionsterapi.
+Analyserna utförs av Karolinska Universitetslaboratoriet, Huddinge.
+För mer information,
+se våra provtagningsanvisningar.
+Innehållsansvarig:
+Olga Tagkalou, ST-läkare, Klinisk kemi och transfusionsmedicin
+2025-10-10: Ny kommentar i provsvar myoglobinanalys
+Viktig information om myoglobinanalys: ny kommentar i provsvaret från och med 10 oktober.
+Vi vill uppmana er att kontakta laboratoriet om ni misstänker att ett myoglobinresultat under 3000 µg/L inte stämmer överens med den kliniska bilden och/eller tidigare värden har varit betydligt högre. Detta kan bero på en så kallad ”hook”-effekt, vilket innebär att mycket höga koncentrationer av analyt i provet kan ge falskt låga mätvärden på grund av en mättnadseffekt i analysmetoden.
+Laboratoriet kan undersöka förekomst av så kallad 'hook-effekt' vid misstanke, för att säkerställa analysresultatets riktighet.
+Från och med vecka 41 kommer samtliga myoglobinprov där hook-effekt kan förekomma att åtföljas av en kommentar i provsvaret som upplyser om detta och rekommenderar kontakt med laboratoriet vid tveksamhet.
+Innehållsansvarig:
+Olga Tagkalou, ST-läkare, Klinisk kemi
+2025-08-20: Nytt referensintervall och ändrad svarsrutin för  P-25-OH Vitamin D fr.o.m. 2025-08-20
+Referensintervall införs för P-25-OH Vitamin D: 50-125 nmol/L.
+Svarsrutinen ändras för låga provsvar, resultat ner till 15 nmol/L besvaras (tidigare 10 nmol/L).
+Samtidigt vill vi göra er uppmärksamma på att metoden korsreagerar med 3-epiformen av 25-OH-vitamin D, varför prover från barn <1 år bör bestämmas med annan metod (S-Vitamin D3/D2 (25-OH)).
+Innehållsansvarig: Anders Isaksson, överläkare, Klinisk kemi och transfusionsmedicin
+2025-06-17: Ny svarsordning, svarskommentarer och Cosmicpaket
+Ny svarsordning och nationell harmonisering av laboratoriesvar
+I enlighet med nationella rekommendationer har presentationsordningen för laboratoriesvar från Klinisk kemi nyligen justerats i Cosmic. Ytterligare justeringar kommer att ske i sommar. Den nya svarsordningen harmonierar därmed med svarsordningen i både Nationell patientöversikt (NPÖ) och i 1177 Journalen. Equalis har samarbetat med Inera att ta fram denna presentationsordning som också förankrats bland kliniker och laboratorieläkare.
+För ytterligare information se artikel i Läkartidningen september 2024:
+Logisk presentationsordning för laboratoriesvar skulle underlätta
+Innehållsansvariga:
+Ivar Tjernberg, överläkare, Klinisk kemi och transfusionsmedicin
+Maria Berggren Söderlund, överläkare, Klinisk kemi och transfusionsmedicin
+Nya svarskommentarer avseende hemolys
+Vi kommer att skicka ut svarskommentarer till analyserna Kalium, Haptoglobin, ASAT och LD i vissa fall. Leverantören har satt en låg gräns för hur stor hemolysgraden får vara i dessa metoder. För att kunna lämna ut siffersvar istället för att lämna ut ”hemolys” som svar har vi valt att överskrida denna gräns till en rimlig nivå. I dessa fall kommer en svarskommentar att skickas ut.
+Exempel på svarskommentar (ASAT): Hemolys på >0,25 g/L Hb, vilket ger förhöjd ASAT-nivå. Provet har en hemolysnivå på 0,25-1,0 g/L Hb.
+Innehållsansvarig:
+Maria Berggren Söderlund, överläkare, Klinisk kemi och transfusionsmedicin
+Allmänna Cosmicpaket för leverstatus, elstatus och lipidstatus
+Klinisk kemi och transfusionsmedicin har tagit fram allmänna Cosmicpaket för att göra Cosmicpaketen så effektiva som möjligt både ur diagnostisk och ekonomisk synvinkel men även med tanke på underhållet. Vi kommer framöver att lägga till det allmänna paketet om tilläggsbeställning/påplussning önskas av ett av dessa statuspaket.
+Idag finns 20 stycken leverstatuspaket i Cosmic, vilket vi vill minska. Vi kommer att införa ett Paket allmänt leverstatus som är tillgängligt för alla Cosmicanvändare att använda (P-ALAT, P-Bilirubin, totalt, P-ALP och P-GT).
+Det finns idag 25 stycken elstatuspaket i Cosmic. Paket allmänt elstatus som är tillgängligt för alla innehåller P-Natrium, P-Kalium, P-Kreatinin och Pt-eGFR relativt (kreatinin).
+Slutligen finns det 4 stycken lipidstatus/lipider paket i Cosmic. Det nya paketet allmänt lipidstatus innehåller P-Triglycerider, P-Kolesterol, P-HDL-kolesterol, P-LDL-kolesterol och P-non-HDL-kolesterol.
+Vi kommer att kontakta respektive verksamhet med egna paket för att stämma av behovet av de gamla paketen. Vår förhoppning är att vi ska kunna minska andelen aktiva paket.
+Innehållsansvariga:
+Hamid Suzangar, ST-läkare, Klinisk kemi och transfusionsmedicin
+Maria Berggren Söderlund, överläkare, Klinisk kemi och transfusionsmedicin
+2025-05-20: Viktigt att remiss skickas i Cosmic innan prov skickas till lab
+Klinisk kemi i Kalmar kommer innan sommaren att installera en koppling till vår del av rörposten som gör att provrören som skickas via den lila rörposten automatiskt hamnar direkt i provsorteraren på lab. För att detta ska fungera krävs att remissen är skickad i Cosmic
+innan
+provet skickas till lab.
+Menyn ”Beställning” i Cosmic som ger bättre översikt för ”Skicka” knappen. Använd gärna denna när ni beställer analyser.
+Prover vars beställning/remiss som inte är skickad i Cosmic kommer att ställas i kylskåp (efter centrifugering) i väntan på att beställning/remiss skickas i Cosmic. Detta kommer tyvärr medföra försenade provsvar. För att förhindra försenade provsvar är det av största vikt för provet och patienten att beställning och remiss skickas i Cosmic innan prov skickas till lab. För att säkerställa detta kan exempelvis kontroll göras i Cosmic att samtliga beställningar och remisser är skickade innan prov skickas med rörposten.
+Det är viktigt att den lila rörposten endast används för provrör som kan hanteras av vår provsorterare. Det betyder att blod- och urinodlingar, urinrör, kapillärt tagna prover, provrör för BAS-test och Blodgrupperingar måste skickas i den röda rörposten.
+Är ni intresserade att komma på ett studiebesök för att se hur det fungerar är ni välkomna att höra av er.
+Innehållsansvarig:
+Kathrin Andersson Ernerhav, avdelningschef, Klinisk kemi och transfusionsmedicin
+2025-04-22: Påminnelse om förfarande vid provtagning av Csv-Spektrofotometri
+Efter provtagning av Csv-Spektrofotometri ska provet lämnas omedelbart till laboratoriet i mörk/ogenomskinlig transporthylsa inom 30 minuter.
+Transporthylsa brun och tillhörande lock finns att beställa i Raindance med artikelnummer 101975 respektive 101976.
+Detta förfarande behövs för att hindra nedbrytning av bilirubin.
+Innehållsansvarig:
+Maria Berggren Söderlund
+, överläkare, Klinisk kemi och transfusionsmedicin
+2025-03-20: Ny analys eGFR medel, absolut och förtydligande kring hantering av U-testremsor
+Ny analys eGFR medel, absolut
+Fr.o.m. 2025-04-02 blir analysen Pt-eGFR medel,absolut beställningsbar i Cosmic. eGFR medel absolut är ett beräknat värde som baseras på ett medelvärde av eGFR absolut läkemedel (Kreatinin) samt eGFR absolut läkemedel (Cystatin C), vg se respektive analys för mer information. Analysen används för att kunna dosera läkemedel som är beroende av njurfunktion. Den tar hänsyn till individens specifika kroppsyta och uttrycker den faktiska filtrationshastigheten hos patienten i mL/min. Uppgifter om längd och vikt är nödvändiga för beräkningen. eGFR medel är den bästa uppskattningen av GFR särskilt vid små skillnader i estimaten. Om differensen av de ingående eGFR-värdena i relation till medelvärdet överstiger 30% så lämnas ej svar på analysen. I sådana fall bör faktorer som påverkar de ingående parametrarna olika övervägas. För kreatinin såsom avvikande muskelmassa, stort intag av kött och för cystatin c exempelvis behandling med kortikosteroider.
+Vid osäkerhet kan vidare utredning med mätning av GFR utföras genom Pt-Iohexolclearance.
+Innehållsansvarig:
+Olga Tagkalou, ST-läkare, Klinisk kemi och transfusionsmedicin
+Förtydligande kring hantering av U-testremsor till kemlab respektive PNA
+Då analys av U-testremsor ska utföras på klinisk kemi ska Cosmic beställningen ”U-Testremsa” användas:
+Då analys ska utföras på enhet med uppkopplat PNA-instrument för U-testremsor ska Cosmic beställningen ”PatientNäraAnalys U-Testremsa Clinitek PNA” användas (OBS gäller ej arbetssätt med personnummer):
+Då analys ska utföras på enhet utan uppkopplat PNA-instrument för U-testremsor ska resultatet dokumenteras under lokala analyser.
+Tänk på att inga PNA-etiketter ska skickas in till kemlab.
+Vid frågor kontakta PNA-gruppen eller respektive provinlämning.
+Innehållsansvarig:
+Linn Larsson, BMA, Klinisk kemi och transfusionsmedicin
+2025-02-21: Pappmugg ersätter plastmugg för urinprovtagning
+Observera att endast denna mugg får användas till urinprovtagningen (se bild nedan). Pappmuggen är avsedd för engångsbruk.
+Artikelnummer i Raindance: 104033
+Artikelbenämning: urinbägare av kartong med PE beläggning 20 cl
+Vårdgivare som inte kan beställa via regionens centralförråd ska vända sig direkt till leverantören.
+Leverantör: Nybloms
+Artikelnummer hos leverantören: 500578
+Innehållsansvarig: Johannes Salim, Biomedicinsk analytiker,
+johannes.salim@regionkalmar.se
+2025-01-27: Högre ALAT-värden efter kalibratorbyte
+Efter kalibratorbyte 2025-01-28 för vår ALAT-metod kommer värdena att vara cirka 5-9% högre. Vår metod har legat lite lågt, i och med detta skifte kommer värdena att stämma bättre. Referensintervallet påverkas inte.
+Innehållsansvarig:
+Maria Berggren Söderlund, överläkare, Klinisk kemi och transfusionsmedicin,
+maria.berggren.soderlund@regionkalmar.se
+2025-01-20: Ny metod för F-Kalprotektin
+Ny metod för F-Kalprotektin fr.o.m. 2025-01-21 medför väsentligt lägre resultat och nytt referensintervall
+Vi byter fr.o.m. tisdag 21/1 ut vår metod för F-Kalprotektin. Observera att den nya metoden (Liaison) medför omkring 50% lägre resultat jämfört med vår tidigare metod. Vi justerar därför ned referensintervallet för vuxna och barn från 4 års ålder till <50 mg/kg (tidigare <160 mg/kg). Källa saknas för referensintervall för barn under 4 års ålder. Resultat mellan 50-120 mg/kg (med ny metod) anses ligga inom gråzon för vuxna och barn från 4 års ålder. Under en initial 3-månadersperiod kommer vi vid förhöjda resultat att analysera F-Kalprotektin med både ny och utgående metod för att stödja tolkningen av den enskilda patientens resultat. Vi rekommenderar tätare provtagningar på patienter med aktiv IBD-sjukdom för att säkerställa korrekt tolkning av inflammations-trend.
+För frågor vänligen kontakta Ivar Tjernberg.
+Innehållsansvarig: Ivar Tjernberg, överläkare, Klinisk kemi och transfusionsmedicin
+ivar.tjernberg@regionkalmar.se
+2024-11-26: Ny instruktion för all venös provtagning
+Ny instruktion för all venös provtagning – i vilken ordning ska rören tas?
+På vårdgivarwebben finns en enkel instruktion med bilder och benämningar som underlättar vid venös provtagning. Rörordningen är viktig för att undvika analysfel.
+Instruktionen finns både på sidan
+Klinisk kemi och transfusionsmedicin
+och sidan
+Klinisk mikrobiologi
+.
+Innehållsansvarig:
+Maria Berggren Söderlund
+, överläkare, Klinisk kemi och transfusionsmedicin
+Annika Carlsson Wistedt
+, överläkare, Klinisk mikrobiologi
+2024-10-31: Start av P-Apixaban
+Från och med den 14 november 2024 kommer koncentrationsbestämning av P-Apixaban att ske vid Klinisk kemi och transfusionsmedicin i Kalmar.
+Apixaban (Eliquis®) är ett peroralt antikoagulerande läkemedel som reversibelt hämmar faktor Xa. Apixaban ska ej monitoreras. Men vid vissa kliniska situationer kan mätning av den antikoagulerande effekten vara nödvändig. Som vid blödning, akut trombos eller inför kirurgi. Prov kan tas tre timmar efter senaste dos (toppvärde) eller innan intag av tablett (dalvärde).
+P-Apixaban tas i rör med tillsats av natriumcitrat (ljusblå kork). Provet måste till lab direkt efter provtagning för centrifugering. Analysen utförs vardagar under kontorstid.
+För övrig information kring provtagning och provhantering se Provtagningsanvisningar.
+Terapiintervall för P-Apixaban
+Vid dosen 5 mg x2:
+Dalvärde (12 timmar efter senaste dos): 80 µg/L (50-120)*
+Toppvärde (ca 3 timmar efter senaste dos): 170 µg/L (90-320)*
+*Median (10:e-90:e percentil) för Exponeringsintervall
+Vid eventuella frågor kontaktas Tom Lundahl, överläkare, Klinisk kemi och transfusionsmedicin på tel 010-3584170.
+Innehållsansvarig:
+Tom Lundahl, överläkare, Klinisk kemi och transfusionsmedicin
+2024-08-20: Nya rutiner angående Remiss 1 och 2
+Våra pappersremisser, Remiss 1 och Remiss 2, kan nu enbart skrivas ut från vår sida på vårdgivarwebben. Remissen fylls i digitalt eller för hand.
+Rör ska märkas tydligt med etikett med namn och personnummer. Omärkta rör kan inte analyseras.
+Tryckta pappersremisser finns inte längre att beställa från Centralförrådet.
+Här finns remisser för utskrift:
+Klinisk kemi och transfusionsmedicin - För vårdgivare Region Kalmar län
+Innehållsansvarig:
+Nathalie Carlsson
+, IT-samordnare Klinisk kemi och transfusionsmedicin
+2024-07-22: Viktig information om P-Lupusantikoagulans
+Provet får inte skickas med rörpost på grund av interferenser. Provet ska lämnas personligen till laboratoriet direkt efter provtagning.
+(Gäller prov som analyseras på Klinisk kemi i Linköping).
+Innehållsansvariga:
+Tom Lundahl, överläkare, Klinisk kemi och transfusionsmedicin
+Johannes Salim, BMA, Klinisk kemi och transfusionsmedicin
+2024-06-11: Driftstopp på blodcentralerna och nytt referensintervall
+Planerat driftstopp på blodcentralerna 18 juni
+Tisdagen den 18 juni kommer blodcentralerna i Region Kalmar län ha ett planerat driftstopp av labdatasystemet ProSang (inklusive InterInfo). Driftstoppet börjar klockan 07:30 och beräknas ta minst 40 minuter.
+Under driftstoppet kommer blodcentralerna arbeta med reservrutiner vilket innebär att endast akuta analyser utförs. Längre svarstider på våra analyser kan förekomma och reservation av blod tar längre tid än normalt. Vi rekommenderar att prov på patienter som ska opereras eller som förväntas behöva blod under denna tid tas, om möjligt, dagen innan samt att blodenheter reserveras på förhand.
+Blodcentralen kommer att tillhandahålla 0-negativt akutblod vid akut behov samt trauma enligt ordinarie rutin!
+Vi uppmanar till att planera och förbereda, om möjligt, med att ha giltiga blodgrupperingar enligt lista nedan.
+Om ingen giltig blodgruppering finns måste patienten grupperas om!
+Giltiga blodgrupperingar:
+Transfusionsdokument
+Blodgrupperingssvar
+Akut blodgrupperingssvar
+Kopia av originalgrupperingen
+Utskriven ”skärmdump” från InterInfo eller ProSang
+Eventuella frågor besvaras av respektive blodcentral.
+Innehållsansvariga:
+Sofia Anarp, Systemadministratör ProSang, Klinisk kemi och transfusionsmedicin
+Kim Hägerström, Blodcentralssamordnare, Klinisk kemi och transfusionsmedicin
+Nytt referensintervall för P-PTH
+Från och med 12 juni ändras referensintervallet för P-PTH till 1,8-6,4 pmol/L (tidigare 1,6-6,9) efter reagensuppdatering och ny referensintervalls-studie.
+Utförligare information angående provtagning m.m. för PTH finns i våra Provtagningsanvisningar.
+Innehållsansvarig:
+Anders Isaksson, överläkare, Klinisk kemi och transfusionsmedicin
+2024-06-07: Referensintervall för Folat och beställning av FIB-4
+Nytt referensintervall för Folat
+Vi har tidigare informerat om att vid reagensbyte för vår folatmetod den 7 maj visade en ökad andel av proverna på sänkta värden. Från och med 12 juni justeras därmed referensintervallet från >7,0 till >5,0 nmol/L.
+Innehållsansvarig:
+Tom Lundahl, överläkare, Klinisk kemi och transfusionsmedicin
+Från och med 2024-06-10 går det att beställa FIB-4 för vissa användare
+För att bedöma risken att en patient har avancerad leverfibros-levercirros är ett alternativ att använda algoritmen FIB-4 som baseras på parametrarna ASAT, ALAT, TPK och ålder.
+Prokollagen-III-peptid kommer inte längre att skickas till Örebro utan ersätts med FIB-4.
+Beställning av FIB-4 i Cosmic kan göras i Aktivitet/Beställning, sök FIB-4 eller i Beställning och svar/Beställning provbunden, under flik Profiler.
+För mer information om FIB-4,
+läs Provtagningsanvisningarna.
+Initialt kan Medicinklinikerna, Hudklinikerna och primärvården beställa profilen FIB-4.
+Kontakta Nathalie Carlsson eller Anders Svennberg Järesjö om ytterligare någon önskar få tillgång till denna profil.
+Innehållsansvariga:
+Maria Berggren Söderlund, överläkare, Klinisk kemi och transfusionsmedicin
+Nathalie Carlsson, IT-ansvarig, Klinisk kemi och transfusionsmedicin
+2024-05-20: Minska manuell hantering av rör och nya larmgränser
+Hjälp oss att minska manuell hantering av rör
+För att minska den manuella hanteringen på labbet, och därmed öka
+patientsäkerheten, vill vi be våra beställare i den mån det är möjligt att förse oss med antalet rör som beställningen i Cosmic genererar. Med rätt
+antal rör kan vi utföra analyserna på ett effektivt och säkert sätt.
+Undvik att skicka följande till labbet:
+Provtagningsunderlag med etiketter tillhörande en annan beställning
+än märkningen på röret.
+Dubbel märkning, dvs. två etiketter på ett rör.
+Provtagningsunderlag där man ber om extra svar till en annan
+beställare än beställande enhet (gäller ej svar till Linköping).
+Vi förstår strävan att bespara patienten ett extra stick eller minska på
+kostnaden för analysen, men att endast skicka ett rör till flera beställningar
+medför extra jobb för vår personal på labb.
+För att vår utrustning ska
+kunna utföra analysen behöver vi ha rätt antal rör.
+Stämmer inte antalet måste vi manuellt hälla över en del av provmängden till ett nytt rör och märka det med rätt etikett. Denna hantering innebär en stor patientsäkerhetsrisk då risk för förväxling av rör och etiketter från olika
+patienter ökar, vilket i sin tur kan orsaka att en patient får ett felaktigt svar på sitt prov.
+Vi kan naturligtvis hjälpa till med kompletteringar när det gäller ett barn eller en mycket svårstucken patient.
+Pågående förbättringar
+Vi strävar hela tiden efter att förbättra våra processer, och jobbar därför
+kontinuerligt med att utveckla vårt analysutbud genom att konsolidera rör
+och därmed minska provmängden. Vi söker dessutom efter tekniska
+lösningar i systemen som ska göra det möjligt att dela provsvaret med flera svarsmottagare.
+Innehållsansvarig:
+Malin Henkel
+, logistikutvecklare, Diagnostiskt centrum
+Nya larmgränser för analyssvar som ska ringas
+Nya reviderade larmgränser från och med 22 maj.
+Larmgränslista - telefonsvar på mycket avvikande analysvärden.
+Innehållsansvarig:
+Tom Lundahl
+, överläkare, Klinisk kemi och transfusionsmedicin
+2024-05-16: Lägre Folatvärden efter reagensuppdatering 7 maj
+Efter reagensbyte för vår folatmetod erhålles i genomsnitt 15-20% lägre värden. Detta innebär att en ökad andel av proverna kommer att visa sänkta värden.
+En justering av referensintervallet kommer eventuellt att göras när vi har erhållit säkrare statistiskt underlag.
+Uppdaterad text 2024-05-24.
+Innehållsansvarig:
+Anders Isaksson
+, överläkare, Klinisk kemi och transfusionsmedicin
+2024-04-23: Protein-analyser, fritt T3 i Västervik, 3 uppdaterade provtagningsanvisningar
+Byte av instrument och metoder för protein-analyser 25 april
+Vårt äldre nefelometer-instrument (Siemens BN Prospec) för proteinanalyser byts nu till nytt (Siemens Atellica). Metoderna omfattar bland annat albumin, immunglobuliner inklusive IgG-subklasser i serum samt proteiner i urin och cerebrospinalvätska. Gamla och nya metoder förhåller sig väl till mycket väl till varandra.
+I samband med instrumentbytet uppdateras vissa referensintervall i enlighet med rekommendationer från Equalis.
+Se gamla och nya referensintervall proteiner
+tU-Bence Jones-paketet byter namn till tU-Proteinfraktioner och även U-Protein HC kommer att ingå i det nya paketet. tU-Njurstatus läggs ned. Ny metod blir IgA, låg koncentration, som ska användas för att kunna diagnostisera IgA-brist som definieras som <0,07 g/L. Ordinarie IgA-metod mäter endast ned till 0,27 g/L.
+Innehållsansvariga:
+Ivar Tjernberg
+, överläkare, Klinisk kemi och transfusionsmedicin
+Ingvar Rydén
+, överläkare, Klinisk kemi och transfusionsmedicin
+Fritt T3 analyseras både i Västervik och Kalmar
+Från och med 25 april analyseras P-T3, fritt (P-Trijodtyronin) även i Västervik. Analysen kommer också att utföras i Kalmar som tidigare.
+Innehållsansvarig:
+Tom Lundahl
+, överläkare, Klinisk kemi och transfusionsmedicin
+Uppdaterade provtagningsanvisningar
+B-Hemoglobin (B-Hb) hållbart 3 dygn
+B-Erytrocyter, partikelkoncentration (B-EPK) hållbart 3 dygn
+B-Andel omogna trombocyter (B-IPF) hållbart 1 dygn i rumstemperatur och kylskåp
+Innehållsansvarig:
+Maria Berggren Söderlund
+, överläkare, Klinisk kemi och transfusionsmedicin
+2024-03-05: Start av S-CDT disialo och byte av mätmetod
+1. Start av S-CDT disialo och byte av mätmetod
+Fr.o.m. 2024-03-06 kommer bestämning av S-CDT disialo att utföras vid vårt laboratorium i Västervik. Tidigare har prover för bestämning av CDT skickats till Växjö.
+CDT disialo kommer att bestämmas med kapillärelektrofores, vilket innebär ett byte av metod från den HPLC-baserade mätmetoden som används i Växjö. Metodjämförelse har visat mycket god överensstämmelse mellan de två metoderna.
+För enskilda patienter kan något större skillnad i resultat för de två metoderna ses, vilket bör beaktas vid bedömning av mätresultat för patient som har mätresultat för CDT både före och efter metodbytet.
+Innehållsansvariga:
+Anders Isaksson, överläkare, Klinisk kemi och transfusionsmedicin
+Thomas Renström, kemist, Klinisk kemi och transfusionsmedicin
+2. Rörbyte IGF-1
+S-IGF-1 till P-IGF-1: 2024-03-06 byter vi från serumrör (rör med gul propp) till plasmarör (rör med mintgrön propp) för IGF-1.
+Innehållsansvarig:
+Karin Johansson, kemist, Klinisk kemi och transfusionsmedicin
+3. Prislista på analyser utförda på klinisk kemi
+Många efterfrågar priset på våra analyser. Här hittar du prislistan:
+Klinisk kemi och transfusionsmedicin - För vårdgivare Region Kalmar län
+2024-02-01: Förändring i Cosmic vid beställning
+Projektet digitalisering av den patientnära analysverksamhetens instrument (PNA-instrument) resulterar i digital resultatöverföring från PNA-instrument till journalsystemet.
+Denna information är viktig att ta del av för alla vårdenheter, även de som inte har några PNA-instrument.
+Digitaliseringen av PNA-instrumenten kommer leda till förändringar i datasystemen, svarsutlämning och arbetssätt.
+Idag jobbar flera offentliga hälsocentraler med detta men önskar ett annat arbetssätt som kan passa dem bättre.
+PNA-digitalisering sjukhus respektive primärvård
+Beroende på de olika arbetssätten mellan sjukhus och primärvården kommer systemen skilja sig åt.
+Sjukhusen kommer jobba med personnummer som patient-ID och ska fortsätta på befintligt flöde i nuläget med beställning i lokala analyser.
+Primärvården kommer att göra beställning av PNA-analyser i Beställning provbunden under fliken Klinisk kemi och inte i lokala analyser. Analys på PNA-instrument kommer ske genom att man skannar in provets LID-nummer istället för patientens personnummer. LID i labsystemet är RID i Cosmic.
+För primärvården (offentliga hälsocentraler) kommer pilotprojekt börja under våren för att testa användning av LID-nummer innan breddinförandet.
+För sjukhusen planeras uppkopplingen av PNA-instrument att ske under Q3-Q4 2024.
+Förändring i Cosmic
+Från den 7 februari kommer beställningslistan utökas med PNA-analyserna i beställning provbunden under fliken Klinisk kemi. För att skilja på kemi analyser och PNA-analyser benämns PNA-analyserna med analys följt av instrumentets/metodens namn och PNA i slutet.
+För en del analyser kommer det finnas flera val. Därför är det viktigt att man är noga vid beställning och väljer rätt. Om fel beställning väljs kommer analys inte kunna utföras.
+Följande analyser kommer att finnas beställningsbara i Cosmic, men ska i nuläget endast beställas av Primärvården (offentliga hälsocentraler):
+Lista med PNA-beställningar:
+kB-Hemoglobin (HemoCue)PNA
+B-Hemoglobin (HemoCue)PNA
+P-Glukos (HemoCue)PNA
+kP- Glukos (HemoCue)PNA
+fP- Glukos (HemoCue)PNA
+kfP- Glukos (HemoCue)PNA
+P-CRP (QuikRead go)PNA
+P-CRP (QuikRead go easy)PNA
+P-CRP (Afinion)PNA
+B-HbA1c (Afinion)PNA
+B-HbA1c (Vantage)PNA
+P-D-dimerFEU (LumiraDx)PNA
+PatientNäraAnalys U-Testremsa Clinitek PNA
+Glukosbelastning kommer inte finnas som en egen beställning utan i fältet provtagarens kommentar anges att det är en belastning samt tid.
+Svarsutlämning i Cosmic
+Alla digitalt överförda PNA-resultat kommer hamna under Klinisk kemi, inte under lokala analyser.
+Analyser med förändrad svarsutlämning i Cosmic:
+CRP QuikRead go: Högsta resultat som kommer svaras ut är >150 mg/L
+CRP QuikRead go easy: Högsta resultat som kommer svaras ut är >140 mg/L
+CRP Afinion: Högsta resultat som kommer svaras ut är >160 mg/L
+Innehållsansvariga:
+Nathalie Carlsson
+,
+Linn Larsson
+och
+Matilda Månsson
+2024-01-18: Nya referensintervall och utförare
+1. Ny utförare för S-Prokollagen-III-peptid och därmed ny metod
+Från och med 2024-01-18 analyseras inte längre P-Prokollagen-III-peptid av Sahlgrenska Universitetssjukhuset. Vi kommer därför att skicka prover för analys till Universitetssjukhuset Örebro. De har en annan metod än Sahlgrenska vilket innebär ny enhet och nytt referensintervall. Svaren kan inte jämföras direkt med Sahlgrenskas, vilket betyder att första analyssvaret blir mer svårbedömt.
+För detaljer se vår uppdaterade provtagningsanvisning.
+2. Nytt referensintervall: P-Ammoniumjon
+Uppdaterat referensintervall för P-Ammoniumjon från och med 2024-01-18. Är nu åldersrelaterat och utan könsskillnad.
+3. Nytt referensintervall: S-Litium
+Mindre justering av terapeutiskt intervall för S-Litium från och med 2024-01-18. Nytt terapeutiskt intervall: 0,4-0,9 mmol/L.
+Innehållsansvariga:
+Maria Berggren Söderlund
+, överläkare, Klinisk kemi och transfusionsmedicin
+Anders Isaksson
+, överläkare, Klinisk kemi och transfusionsmedicin
+Tom Lundahl
+, överläkare, Klinisk kemi och transfusionsmedicin
+2023-12-20: Urinsticka Cosmic U-pH borttagen
+Parametern U-pH är nu borttagen vid beställning i Cosmic av urinsticka multistix 7. Vid beställning av U-pH använd konsultationsremiss.
+Analysen kan vara av värde vid utredning av oklara metabola syra-bas-rubbningar, tubulära defekter och hos vissa njurstenspatienter.
+Innehållsansvarig:
+Matilda Månsson, BMA, Klinisk kemi och transfusionsmedicin
+Maria Berggren Söderlund, överläkare, Klinisk kemi och transfusionsmedicin
+2023-12-11: Uppdateringar akutfasproteiner samt komplementfaktorer
+Vi byter från serumrör (rör med gul propp) till plasmarör (rör med mintgrön propp) för Haptoglobin, Orosomukoid, Alfa-1-antitrypsin, C3 och C4.
+Två nya beställningsbara grupper kommer finnas i Cosmic: P-Akutfasproteiner (Haptoglobin, Orosomukoid, Alfa-1-antitrypsin) och P-Komplementfaktorer inkl. Akutfasproteiner (Haptoglobin, Orosomukoid, Alfa-1-antitrypsin, C3, C4). Dessa kan av tekniska skäl inte innehålla P-CRP och P-Albumin så dessa får beställas till enskilt om det önskas. Det kommer att uppmärksammas i Cosmic med hjälp av en informationsruta vid beställning av dessa grupper.
+Haptoglobin, Orosomukoid, Alfa-1-antitrypsin, C3 och C4 kommer att analyseras dygnet runt i Kalmar.
+De gamla grupperna S-Akutfasproteiner och S-Komplementfaktorer inkl. Akutfasproteiner kommer att inaktiveras och går inte längre att beställa. Om dessa ingår i befintliga paket i Cosmic måste paketen justeras.
+Nya referensintervall för barn upp till 18 år för analyserna Antitrypsin, Haptoglobin och Orosomukoid enligt Equalis Referensintervall för plasmaproteiner, November 2021.
+Innehållsansvarig:
+Kim Norell
+, sjukhuskemist, Klinisk kemi och transfusionsmedicin
+2023-09-21: Ny analys eGFR medel, relativt samt celler i dialysat blir beställningsbar grupp i Cosmic
+Ny analys eGFR medel, relativt
+Fr.o.m. 2023-09-21 blir analysen Pt-eGFR medel relativ beställningsbar i Cosmic. Analysen är en beräkning av medelvärdet av eGFR (Kreatinin) samt eGFR (Cystatin C) och kan utföras på patienter från 18 års ålder och uppåt. eGFR medel är den bästa uppskattningen av GFR särskilt vid små skillnader i estimaten. Om differensen av de ingående eGFR-värdena i relation till medelvärdet överstiger 30% så lämnas ej svar på analysen. I sådana fall bör faktorer som påverkar de ingående parametrarna olika övervägas. För kreatinin såsom avvikande muskelmassa, stort intag av kött och för cystatin c exempelvis behandling med kortikosteroider.
+Vid osäkerhet kan vidare utredning med mätning av GFR utföras genom Pt-Iohexolclearance.
+Innehållsansvarig:
+Ivar Tjernberg
+, överläkare, Klinisk kemi och transfusionsmedicin
+Celler i dialysat blir beställningsbar grupp i Cosmic
+I gruppen ingår Leukocyter totalt, polynukleära samt mononukleära leukocyter.
+Eosinofila granulocyter i dialysvätska blir också beställningsbar i Cosmic och beställs enskilt eller ihop med gruppen.
+Innehållsansvarig:
+Nathalie Carlsson
+, IT-samordnare, Klinisk kemi och transfusionsmedicin
+2023-05-04: Rättelse gällande svarskommentar för P-Aldosteron
+Felaktig svarskommentar för analysen P-Aldosteron har lämnats ut under perioden 2023-02-15–2023-04-25.
+Korrekt kommentar lyder: ”För patienter från 18 års ålder: Sittande/stående 60-980 pmol/L, liggande <650 pmol/L. Metodrelaterade referensintervall för barn saknas.”
+Kommentarerna gällande P-Renin samt aldosteron-renin-kvoten har däremot varit och är korrekta.
+Vi beklagar det inträffade.
+Innehållsansvarig:
+Ivar Tjernberg, överläkare/docent
+, Klinisk kemi och transfusionsmedicin
+2023-04-03: Nya analyser eGFR absolut läkemedel (kreatinin/cystatin c), kräver uppgift om längd och vikt samt analyser som läggs ner
+Nya analyser eGFR absolut läkemedel (kreatinin/cystatin c), kräver uppgift om längd och vikt
+Analys av P-Kreatinin respektive P-Cystatin C kan genom beräkningsformler uttryckas som estimerade GFR-värden (eGFR) och sedan flera år besvaras dessa vid beställning i Cosmic. Det som då besvaras är s.k.
+relativa
+eGFR (enheten mL/min/1,73kvm), d.v.s. normerade till en kroppsyta på 1,73 kvadratmeter. De relativa måtten är värdefulla för att jämföra t.ex. mot referensintervall och för att följa en patient över tid.
+För att kunna dosera läkemedel som är beroende av njurfunktion behöver dock värdena justeras för den aktuella patientens kroppsyta som kan beräknas genom uppgift om längd och vikt.
+Absolut
+eGFR uttrycks då i enheten mL/min och är alltså det mått som ska användas för läkemedelsdosering.
+Vi inför fr.o.m. torsdag 6 april möjligheten att i Cosmic beställa Pt-eGFR absolut läkemedel (Kreatinin) samt Pt-eGFR absolut läkemedel (Cystatin C).
+OBS! Uppgift om längd och vikt ska då anges (patientens egenuppgivna är acceptabla)!
+Om uppgift om längd och vikt inte anges vid beställning eller provtagningen så kan ej absolut eGFR beräknas men svar kommer lämnas på koncentration av njurmarkör samt relativt eGFR.
+I samband med införandet så justeras analysnamnen Pt-GFR (Kreatinin) samt Pt-GFR (Cystatin C) till Pt-eGFR
+relativt
+(Kreatinin) och Pt-eGFR
+relativt
+(Cystatin C).
+Analyser som läggs ner
+Analyserna B-Mikrosänka och B-Covid-19 lymfocyter läggs ner.
+Innehållsansvarig:
+Ivar Tjernberg, överläkare/docent
+, Klinisk kemi och transfusionsmedicin
+2023-02-03: Nya instrument i Västervik och nya analyser
+1. Nya instrument på Klinisk kemi i Västervik från och med 2023-02-09
+Torsdag 9 februari startar den nya analysplattformen i Västervik. Det innebär byte från leverantören Beckman för de allmänkemiska analyserna till instrument från Roche. För de immunkemiska analyserna sker ingen större förändring då vi tidigare haft Roche och vi fortsätter således med nya instrument från Roche.
+Bytet från Beckman till Roche visar mycket god överensstämmelse och vi ser endast mindre metodskillnader.
+Övriga förändringar vid start vecka 6:
+Fenytoin läggs ner i Västervik. Skickas ihop med konsultremiss till Linköping.
+Ny analys, P-Östradiol i Västervik.
+P-Digoxin kommer bara att analyseras i Kalmar.
+Start av P-LDL-kolesterol med direktmetod ersätter det beräknade LDL.
+Start av P-non-HDL-kolesterol i länet. Non-HDL är en beräkningsanalys som kommer ingå i gruppen Lipidstatus. Den är alltså inte beställningsbar som enskild analys utan fås endast om man beställer gruppen Lipidstatus i Cosmic.
+Byte av rör från serum till plasma (till LiHeparin-rör) för följande analyser: Testosteron, FSH, Karbamazepin, LH, Prolaktin, Valproat, Prolaktin lågmolekylärt, Progesteron och SHBG.
+Etiketterna för urinanalyser på våra nya instrument kommer att ändras till det nya urinröret: Urinrör 7 mL rund botten 104391. Gäller för urinanalyserna med lidext 0042,0043,0049: Albumin, Kreatinin, Alb/Krix, Natrium, Kalium, Kalcium, Urea, Kalcium/Krea kvot samt dygnsmätningar av de analyser som kan beställas så av de som räknats upp. Urinbägare med överföringskanyl 104392.
+2. Vi inför en ny analys; P-non-HDL-kolesterol i Lipidstatus i Cosmic
+Den Europeiska kardiologföreningen (ESC) har uppdaterat sitt tidigare verktyg för att uppskatta kardiovaskulär risk till det nya SCORE2. En förbättring är introduktionen av en ny analys: non-HDL-kolesterol.
+För vuxna och barn gäller:
+P-non-HDL-kolesterol = P-Kolesterol -(minus) P-HDL-kolesterol. Non-HDL-kolesterol anses ge ett samlat mått på de aterogena lipiderna och är således en bättre markör jämfört med de tidigare använda. Vid bland annat en hög triglyceridnivå eller vid diabetes mellitus ökar risken för att den beräknade LDL-kolesterol-nivån inte blir korrekt. Non-HDL-kolesterol kan då vara av speciellt värde som komplement vid riskbedömning.
+Vid beställning av P-Kolesterol och P-HDL-kolesterol beräknas automatiskt P-non-HDL-kolesterol. Patienten behöver inte vara fastande vid provtagning.
+Referensintervall för non-HDL-kolesterol
+Kvinnor:
+18-29 år
+1,6-4,7 mmol/L
+30-49 år
+1,9-5,1 mmol/L
+>50 år
+2,4-6,2 mmol/L
+Män:
+18-29 år
+1,7-5,0 mmol/L
+30-50 år
+2,0-6,1 mmol/L
+>50 år
+2,5-6,2 mmol/L
+Målvärden för non-HDL-kolesterol som motsvarar de som gäller för LDL-kolesterol:
+Risknivå
+Non-HDL-kolesterol
+LDL-kolesterol
+Måttlig risk
+3,4 mmol/L
+2,6 mmol/L
+Hög risk
+2,6 mmol/L
+1,8 mmol/L
+Mycket hög risk
+2,2 mmol/L
+1,4 mmol/L
+Referenser:
+Brunström et al. Score2-ett uppdaterat verktyg för att skatta kardiovaskulär risk. Läkartidningen. 2021;118:21164.
+Ridefelt et al. Age- and sex-specific reference values for non-HDL cholesterol and remnant cholesterol derived from the Nordic Reference Interval Project (NORIP). Scand J Clin Lab Invest. 2019;79:39-42.
+Visseren et al. 2021 ESC Guidelines on cardiovascular disease prevention in clinical practice. Eur Heart J 2021;42:3227–3337.
+Innehållsansvarig:
+Tom Lundahl
+, överläkare, Klinisk kemi och transfusionsmedicin
+3. Nya analyser; P-Aldosteron, P-Renin och Aldosteron/Renin kvot
+Från och med torsdagen 9 februari blir dessa analyser internt tillgängliga för paketbeställning i Cosmic (ny lidextension 0121). Analyserna kommer att utföras på DiaSorins Liaison-instrument 1 gång/vecka. Indikation för analys inkluderar utredning av hyperaldosteronism vid misstanke om sekundär hypertoni.
+För mera information om analyserna vänligen se
+våra Provtagningsanvisningar.
+Vi har tidigare skickat dessa båda analyser för extern analys i Region Skåne. Observera att nivåer för P-Aldosteron inte är jämförbara med nivåer mätta vid Klinisk kemi i Lund (nivåer grovt 50% högre med vår Liaison-metod), medan nivåer för P-Renin är jämförbara. Referensintervall för bägge analyser och kvoten P-Aldosteron/P-Renin kommer att medfölja resultat och är de som används exempelvis i Region Östergötland och på Karolinska Universitetslaboratoriet.
+Innehållsansvarig:
+Ivar Tjernberg
+, överläkare, Klinisk kemi och transfusionsmedicin
+2023-01-09 Nya instrument på Klinisk kemi i Kalmar
+Torsdag 12 januari startar den nya analysplattformen i Kalmar. Det innebär byte från leverantören Beckman för de allmänkemiska analyserna till instrument från Roche. Bytet kommer innebära förlängda svarstider och inga efterbeställningar kan göras.
+För de immunkemiska analyserna sker ingen större förändring då vi tidigare haft Roche och vi fortsätter således med nya instrument från Roche. Bytet från Beckman till Roche visar mycket god överensstämmelse och vi ser endast mindre metodskillnader.
+Förlängda svarstider
+Bytet i Kalmar är mycket omfattande och vi räknar med förlängda svarstider i samband med starten och fram till att automationsbanan är i drift. Automationsbanan startar senare i vår och vi återkommer med närmare information om det.
+Svarstiderna kommer att förlängas i samband med starten och det är av yttersta vikt att akutmärkning tillämpas på adekvat sätt.
+Vi har inte kapacitet för att hantera efterbeställningar under denna tid och det innebär att inga efterbeställningar kan göras. Vi återkommer under våren i detta ämne.
+Övriga förändringar vid start vecka 2
+Start av C-peptid och Lamotrigin i Kalmar.
+Start av CEA, TSH, fT4, Folat, Ferritin och Kobalaminer i Oskarshamn.
+Ändring från serumrör till Litiumheparinrör för: Digoxin, CEA, Kortisol,
+Kortisol funktionstest, PTH, TPO och Vitamin D.
+Dial-Albumin blir beställningsbar i Cosmic.
+P-PTH op (snabb-PTH, EDTA-rör) kommer bli beställningsbar i Cosmic.
+Viktigt att ha med en lapp när man skickar provet så att vi vet vilket nummer vi ska ringa till operation.
+Innehållsansvarig:
+Tom Lundahl
+, överläkare, Klinisk kemi och transfusionsmedicin
+Nyhetsbrev från Klinisk mikrobiologi
+2026-01-22: Diagnostik av EHEC och Mycoplasma genitalium
+Fler alternativ för diagnostik av EHEC
+EHEC-diagnostik kan begäras vid vanlig fecesodling. Tid till positivt svar kan dock dröja upp till fem dagar för EHEC.
+I akuta situationer som vid misstanke om HUS eller hemorrhagisk colit finns nu möjligheten att begära ”Akut EHEC-PCR (Gastropanel)”.
+Analys utförs vardagar och svar kan lämnas samma dag för prover som anländer till laboratoriet senast kl. 13:00.
+Paneldiagnostiken ska alltid kombineras med ett extra prov för fecesodling för maximal känslighet.
+Mycoplasma genitalium analyseras på samma prov som Klamydia och gonorré
+Det finns två olika beställningsalternativ:
+1. Klamydia och gonorré, PCR
+2. Klamydia, gonorré och Mycoplasma genitalium, PCR
+Mycoplasma genitalium som enskild analys utgår.
+Om man har beställt Klamydia och gonorré, utan Mycoplasma genitalium, kan man lägga till analys av Mycoplasma genitalium på samma prov.
+Detta kan göras per telefon till laboratoriet inom 2 veckor efter att provet har besvarats för Klamydia och gonorré.
+Provtagningsmaterial:
+Alinity m multi-Collect Specimen Collection Kit. Beställs från centralförrådet. Artikelnr: 501892.
+För mer information, se Provtagningsanvisningar
+(uppdateras fredag 23 januari 2026).
+Innehållsansvarig:
+Annika Wistedt, överläkare, Klinisk mikrobiologi
+2025-12-16: Detektion av flera Legionellatyper i urinantigentesten. Separat beställning av Legionella respektive Streptococcus pneumoniae antigentest
+Legionella antigentest i urin finns nu i en version där även vissa andra Legionella arter och flera serogrupper av Legionella pneumophila kan detekteras.
+Känsligheten för övriga arter är lägre än för Legionella pneumophila. Artbestämning kan ej göras med antigentestet.
+Ett negativt testresultat innebär inte att man kan avstå täckning för Legionella i den initiala behandlingen av allvarlig pneumoni.
+Vid misstanke om Legionella-pneumoni rekommenderas också alltid PCR på nedre luftvägssekret.
+Testerna kan nu beställas separat.
+Urinantigen för Legionella rekommenderas vid allvarliga fall av pneumoni.
+Urinantigentest för Streptococcus pneumoniae är däremot mera sällan ett stöd för den kliniska handläggningen och rekommenderas endast i utvalda situationer.
+Csv-antigentest för Streptococcus pneumoniae har god specificitet för pneumokock-meningit, men kan inte användas för att utesluta diagnosen.
+Innehållsansvarig: Annika Wistedt, överläkare, Klinisk mikrobiologi
+2025-01-27: Nya metoder Clostridioides difficile och Helicobacter pylori
+Ny metod för diagnostik av Clostridioides difficile
+Från och med 27 januari 2025 inför klinisk mikrobiologi en ny metod för diagnostik av Clostridioides difficile i faeces. Den nya metoden för diagnostik av Clostridioides difficile är en snabb membranenzymimmunanalys (EIA). Denna metod möjliggör simultan detektering av: Glutamatdehydrogenasantigen (GDH), Toxin A- och Toxin B-antigen.
+Fördelar med metoden:
+Snabbare resultat jämfört med tidigare metoder
+Kombination av GDH och toxinanalys gör det möjligt att förbättra diagnostikens känslighet och specificitet, vilket ökar noggrannheten
+Innehållsansvarig:
+Annika Wistedt, överläkare, Klinisk mikrobiologi
+Ny metod för diagnostik av Helicobacter pylori
+Från och med 28 januari 2025 inför klinisk mikrobiologi en ny metod för diagnostik av Helicobacter pylori antigen i faeces. Diagnostikmetoden för Helicobacter pylori har uppdaterats från en EIA-metod (enzymimmunanalys) till en CLIA-metod (kemiluminescens-immunanalys). Monoklonala antikroppar riktade mot H. pylori används för att säkerställa hög känslighet och specificitet i detektionen. Med den nya metoden kommer analysen att utföras två gånger per vecka, vilket möjliggör snabbare svarstider.
+Vid frågor vänligen kontakta: Annika Wistedt,
+annika.wistedt@regionkalmar.se
+eller Khudaverdi Mehdiyev
+khudaverdi.mehdiyev@regionkalmar.se
+Innehållsansvarig:
+Annika Wistedt, överläkare, Klinisk mikrobiologi
+2024-11-26: Ny instruktion för all venös provtagning
+Ny instruktion för all venös provtagning – i vilken ordning ska rören tas?
+På vårdgivarwebben finns en enkel instruktion med bilder och benämningar som underlättar vid venös provtagning. Rörordningen är viktig för att undvika analysfel.
+Instruktionen finns både på sidan
+Klinisk kemi och transfusionsmedicin
+och sidan
+Klinisk mikrobiologi
+.
+Innehållsansvarig:
+Maria Berggren Söderlund
+, överläkare, Klinisk kemi och transfusionsmedicin
+Annika Carlsson Wistedt
+, överläkare, Klinisk mikrobiologi
+2024-07-22: Ny kompletterande analys vid neuroborrelios
+Från och med 2024-07-08 utförs ”CXCL13 snabbtest (Neuroborrelios)” som komplement till Borreliaantikroppar för diagnostik av neuroborrelios. CXCL13 kommer att användas endast för de patienter som har pleocytos i likvor och dessutom på alla prov från barn.
+Resultat för CXCL13 rapporteras som preliminärt svar inom en vardag efter ankomst på samma prov som ”Neuroborrelios ”, ”Borrelia-antikroppar (Csv) IgG ”.
+Metoden för CXCL13 är semikvantitativ och kan inte användas för att bedöma CXCL13 vid andra neurologiska frågeställningar där kvantitativa och känsligare metoder rekommenderas i stället.
+Innehållsansvarig:
+Annika Carlsson Wistedt, överläkare, Klinisk mikrobiologi
+2024-05-23: Ny metod för akut diagnostik covid, influensa, RSV
+Ny metod för akut diagnostik av covid, influensa och RSV från och med vecka 23
+Nytt provtagningsmaterial
+Rören är beställningsbara från förrådet artikelnummer 103235. Innan leverans kan rör hämtas från de kliniskt kemiska laboratorierna i Västervik, Oskarshamn respektive Kalmar.
+Beställning i Cosmic
+För akut analys krävs att: - Remittenten är inom slutenvården och att - Undersökningen ”Covid-19, Influensa, RSV PCR Akut” har valts.
+Skicka provet
+Skicka prov till avdelningen för klinisk kemi på respektive sjukhus. Analys sker dygnet runt.
+Övriga prov med frågeställning ”Covid, Influensa, RSV PCR” kommer att analyseras under dagtid vardagar på klinisk mikrobiologi.
+Innehållsansvarig:
+Annika Carlsson Wistedt
+, överläkare, Klinisk mikrobiologi Kalmar
+2024-04-03: Nya beställningsrutiner RA-diagnostik och CMV- och EBV-serologi
+Diagnostik av reumatoid artrit från och med 4 april
+Separat beställning av reumatoid faktor upphör. Vid misstanke om reumatoid artrit beställ undersökningen ”CCP-antikropp (reumatoid faktor ingår om kliniskt relevant).”
+Anti-CCP-antikroppar har högst specificitet för bedömning av RA. I vissa fall kan det ändå vara relevant att komplettera med analys av reumatoid faktor.
+På laboratoriet analyseras samtliga prov som analyseras för anti-CCP också för reumatoid faktor om:
+anti-CCP är positivt
+beställningen kommer från specialistvården
+det särskilt har begärts (kan göras även i efterhand på befintligt prov).
+CMV- och EBV-serologi beställs tillsammans från och med 4 april
+Från 4 april 2024 kommer det finnas två olika beställningsalternativ för CMV- och EBV-serologi:
+”CMV-EBV-serologi (Aktuell sjukdom?)”
+som används när man misstänker en aktuell primär CMV- eller EBV-infektion
+”CMV-EBV-serologi (IgG-status, bärarskap?)”
+som används när man vill ta reda på om patienten tidigare haft en primär CMV- eller EBV-infektion.
+Ett rör är tillräckligt för både EBV och CMV. Svarstiden för analyserna är 1-3 vardagar.
+CMV- och EBV-infektion kan ha mycket likartade symtom och är därför svåra att skilja åt kliniskt. Vid misstanke om reaktiverad infektion hos immunsupprimerade rekommenderas liksom tidigare CMV- respektive EBV-DNA (externt laboratorium).
+2023-02-23: Resistensläget och nya rutiner för remisser
+1. Resistensläget i Kalmar län
+En sammanställning av aktuellt antibiotika-resistensläge baserat på 2022 års prov är nu gjord. Inga stora skillnader ses jämfört med föregående år men antalet fall av VRE är ökat på grund av nosokomial smittspridning av VRE på två av länets sjukhus. Dessutom sågs en övergående spridning av trippelresistenta Streptococcus pyogenes (kombinerad resistent mot klindamycin, tetracyklin och erytromycin).
+Läs sammanställningen på Klinisk mikrobiologi – Vårdgivare Kalmar län
+.
+2. Nya rutiner angående mikrobiologens remiss
+Vår pappersremiss kan enbart skrivas ut via nedanstående länkar eller via provtagningsanvisningarna. Den finns ej längre beställningsbar.
+Remiss Klinisk mikrobiologi
+Konsultationsremiss mikrobiologi
+Provtagningsanvisningar
+Ett prov per remiss (vissa undantag finns såsom MRSA screen, Kärnantikroppar inkl. ENA-screen och Blodsmitteanalyser).
+Vid utskrift och användning av mikrobiologens remiss via länk märk provrör tydligt med patientidentitet (namn och personnummer). Omärkta prov kan inte analyseras. Speciella märkningsrutiner gäller för vissa analyser.
+Detta framgår i så fall i
+provtagningsanvisningarna.
+Varje remiss måste innehålla:
+Patientidentitet eller motsvarande
+Fullständig adress till den som ska ta emot svaret
+Ansvarig läkare
+Relevant klinisk information
+Uppgift om önskad analys
+Remissen åtföljer provet vid transport till laboratoriet
+Använd gärna blank konsultremiss vid frågeställning som kräver vidarebefordran till annat laboratorium.
+Nyhetsbrev från Fysiologiska kliniken
+2023-09-21: Information om remittering till fysiologiska kliniken
+Information till enheter som remitterar till Fysiologiska kliniken i Kalmar.
+Från och med 2023-10-13 klockan 13.00 beställs undersökningar hos Fysiologiska kliniken i Kalmar (klinisk fysiologi, nuklearmedicin och neurofysiologi) via ”Beställning radiologi” i Cosmic:
+Gå till ”
+Beställning radiolog
+i”.
+Under ”
+Utförande filial
+” välj
+Fysiologiska kliniken Kalmar
+.
+Undersökningsutbudet visas i listan och går att sortera i bokstavsordning eller utifrån ”Metod” (Klinisk fysiologi, Neurofysiologi eller Scintigrafi).
+Dubbelklicka på önskad undersökning och skriv remissen. Signera och skicka.
+Innehållsansvarig
+:
+Edyta Johansson
+, basenhetschef, Fysiologiska kliniken
+Nyhetsbrev från Klinisk patologi
+2024-11-26: Textbyte vid skickning av eftergranskningsremiss i Cosmic
+Från och med 2024-12-01 görs en textändring i Cosmic under Beställning och svar. Remisstypen som tidigare hette Konsultation/Eftergranskning kommer i fortsättningen att heta Eftergranskning/Konsultation.
+Innehållsansvarig:
+Titti Rosenbjörk
+, IT-samordnare, Klinisk patologi
+Skriv ut

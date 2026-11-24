@@ -1,0 +1,24 @@
+Cosmic versionsuppgraderingar
+Fredag den 11/9 till lördag den 12/9 genomförs nästa uppgradering av Cosmic till version 5.1.
+Tiden för driftstoppet är kl. 22.30-03.00. Under stoppet kan Cosmic läskopia användas.
+Relaterade länkar
+Det finns flera framtagna rutiner inför, under och efter ett driftstopp i Cosmic.
+Reservrutin Cosmic
+Versionsuppgradering - att tänka på
+Inför uppgradering
+Vid driftavbrott i Cosmic används sökmodulen Webbsök för att se provsvar från Klin Kem (Flexlab).
+Behörighet till Flexlab webbsök beställs av IT-beställare via IT-Portalen för den personal som ska ha åtkomst till nya provsvar analyserade under driftavbrottet. Inloggningsuppgifterna till Flexlab webbsök är samma som när man loggar in i datorn efter att man fått behörigheten.
+Reservrutin för beställning/remiss till de medicinska labbsystemen.
+Efter uppgradering
+För att den nya versionen av Cosmic ska installeras på rätt sätt är det viktigt att en omstart av datorn sker efter uppgraderingen.
+Om du inte kan starta Cosmic via Genväg på skrivbordet välj istället att starta Cosmic via Startmenyn (Windowsflaggan). Nästa gång du startar Cosmic bör du kunna använda dig av ikonen på Skrivbordet istället.
+Efter en uppgradering kan det trots att VIS-supporten har högre bemanning bitvis bli väntetider till vår telefonsupport. För dig som inte har tid att vänta kvar i kön vill vi påminna om möjligheten att anmäla ärenden via IT-portalen som du även når direkt från Cosmics hjälpmeny.
+Nyhetsmaterial
+Här presenteras nyhetsmaterial för kommande versionsuppgradering. Materialet publiceras cirka fem veckor innan kommande uppgradering.
+Nyhetsmaterial Cosmic 5.1
+E-learning
+Inloggning till e-learning via Cosmic:
+Meny - Hjälp - välj "e-Learning personlig inloggning" för automatisk inloggning och åtkomst till alla instruktionsfilmer.
+På startsidan (Dashboard) presenteras rekommenderade e-learningfilmer för aktuell versionsuppgradering.
+Filmerna du tittat på sparas. Nästa gång du loggar in så visas längst ner på startsidan (Dashboard) vilka filmer du har sett på och vilka du har kvar.
+Senast uppdaterad: 3 september 2026

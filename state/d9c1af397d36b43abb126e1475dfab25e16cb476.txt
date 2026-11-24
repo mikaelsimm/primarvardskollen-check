@@ -1,0 +1,113 @@
+Startsida Vårdgivarwebben
+Driftinformation översikt
+Driftinformation
+Som berör vårdgivare och Region Norrbottens samarbetspartners som är utanför regionens nätverk. Driftinformation finns även på regionens intranät.
+Alla
+3
+Pågående
+3
+Planerade
+0
+Åtgärdade
+0
+Fastigheter
+Hjälpmedel
+IT/MT
+Laboratoriemedicin
+Läkemedel
+Material
+Pågående
+Ärende
+Uppdateringar
+Start/Påbörjad
+Beräknad klar
+Det filter du har valt matchar inga driftmeddelanden
+gloves
+Restnotering från Becton Dickinson AB gällande Vakuumrör Plasma med gel, mintgrön
+Antal uppdateringar:
+Antal uppdateringar:
+0
+Påbörjad:
+Påbörjad:
+2026-11-17, 13:00
+Beräknad klar:
+Beräknad klar:
+2026-11-24, 13:00
+Ärende: Restnotering från Becton Dickinson AB gällande Vakuumrör Plasma med gel, mintgrön
+Område:
+Material
+Skapad:
+2026-11-17, 14:49
+Uppdaterad:
+2026-11-17, 14:49
+Direktlänk:
+Gå till driftstörning
+Beskrivning av ärende:
+Leverantör BD meddelar att artikel 20850 – Vakuumrör plasma med gel, mintgrön, 5/3 ml med Li-Heparin är för närvarande tillfälligt restnoterad.
+Ny leverans väntas inkomma under innevarande vecka. Restnoteringen bedöms därför bli kortvarig.
+Mer information om de nya provrören för klinisk kemi finns här
+Vid frågor så vänligen registrera ett ärende
+i C2
+och beskriv vilken hjälp du behöver.
+chemistry-1
+Nya provrör för Klinisk kemi från och med måndag 9 november
+Antal uppdateringar:
+Antal uppdateringar:
+0
+Påbörjad:
+Påbörjad:
+2026-11-06, 08:49
+Beräknad klar:
+Beräknad klar:
+Okänt
+Ärende: Nya provrör för Klinisk kemi från och med måndag 9 november
+Område:
+Laboratoriemedicin
+Skapad:
+2026-11-06, 08:49
+Uppdaterad:
+2026-11-06, 10:04
+Direktlänk:
+Gå till driftstörning
+Beskrivning av ärende:
+Måndag 9 november kl. 08:00 läses en ny analyskatalog in i Cosmic, då vi övergår till plasmarör för 46 av allmänkemiparametrarna i Region Norrbotten. Mer information finns i uppdaterat nummer av
+Labbnytt
+och i respektive provtagningsanvisning i
+Labhandboken
+, där ändringarna blir publicerade måndag 9 november 08:00. Patientjämförelse är gjord för analyser i serum/plasma, mindre skillnader ses enligt nedan tabell. Redovisade skillnader är ett gruppmedel, så för en enskild patient kan det se annorlunda ut.
+De nya pappersremisserna har blivit försenade.
+Det dröjer troligen någon vecka tills de är på plats. Använd gammal pappersremiss tills de nya finns tillgängliga, och följ provrören som anges på den gamla pappersremissen. Står det S-, ta S-. När de nya finns tillgängliga läggs information ut under Nyheter.
+Denna förändring kommer inledningsvis innebära en del manuell hantering vid Klinisk kemi. Vi kommer inte ha möjlighet att komplettera analyser under denna vecka. Undantag kan göras i urakuta fall.
+Provsvar kan bli fördröjda under åtminstone början av veckan.
+Se
+Översikt medelskillnad serum/plasma
+(pdf)
+chemistry-1
+Driftstörning PNA-uppkoppling
+Antal uppdateringar:
+Antal uppdateringar:
+0
+Påbörjad:
+Påbörjad:
+2026-10-21, 09:42
+Beräknad klar:
+Beräknad klar:
+Okänt
+Ärende: Driftstörning PNA-uppkoppling
+Område:
+Laboratoriemedicin
+Skapad:
+2026-10-21, 09:42
+Uppdaterad:
+2026-10-21, 13:25
+Direktlänk:
+Gå till driftstörning
+Beskrivning av ärende:
+Vi har för närvarande en driftstörning som påverkar PNA-uppkopplingen.
+Om ni upplever problem, vänligen registrera ett ärende i Medusa och ange
+"FOLab(verks)"
+i ärenderubriken. Ärendet skickas då direkt till Laboratoriemedicin, och vi kommer att göra vårt bästa för att hjälpa er så snart som möjligt.
+Planerade
+Just nu finns inga planerade drifthändelser
+Åtgärdade
+Just nu finns inga åtgärdade driftmeddelanden...

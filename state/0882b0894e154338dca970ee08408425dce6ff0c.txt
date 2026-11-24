@@ -1,0 +1,132 @@
+IT-förvaltningens nyhetsbrev
+IT:s nyhetsbrev kommer ut en gång per månad. Syftet är att sprida information om nyheter och förändringar som är IT-relaterade. Störst fokus ligger på förändringar i Cosmic och övriga IT-system.
+Sök i IT:s nyhetsbrev
+Sök
+Prenumerera på IT:s nyhetsbrev
+Vill du prenumerera på IT:s nyhetsbrev eller avsluta din prenumeration? Välkommen att fylla i formuläret nedan så kommer dina kontaktuppgifter uppdateras på sändlistan.
+17  november 2026
+I detta nyhetsbrev kan du bland annat läsa om uppgradering av Säker digital kommunikation (SDK) ger nya funktioner, ny rutin gällande felanmälan av personsökare (gäller Länssjukhuset i Kalmar), planerat driftunderhåll av Cosmic, ny inloggningslösning i Cosmic.
+27 oktober 2026
+I detta nyhetsbrev kan du bland annat läsa om planerat driftunderhåll i Cosmic, nya tjänstemallar för "Frasminne Cosmic" och "Lisbet", presentation av tillväxtdata samt nyheter och ändringar i befintliga robotprocessautomationer.
+29 september 2026
+I detta nyhetsbrev kan du bland annat läsa om  driftunderhåll i Cosmic, nytt inloggninssätt i Cosmic, ny skrivmall "Kontaktsjuksköterska" och Ny fras i Cosmic och autotext i taligenkänning - "uviche".
+25 augusti 2026
+I detta nyhetsbrev kan du bland annat läsa om journalmappar "Tidigare journalvy", ny kontakttyp mottagningsbesök för vaccination, enklare sätt att söka efter av- och ombokningar via 1177 samt justerat samtycke och teckenbegränsning i e-remisser.
+16 juni 2026
+I detta nyhetsbrev kan du bland annat läsa om journalmappar "Tidigare journalvy...", ny journalmapp och ny journaltabell "Telemetri", nya remissmallar för höft- och knäprotes, blanketter samt att samtycke till sammanhållen vårddokumentation visas för patienten på 1177 e-tjänster.
+26 maj 2026
+I detta nyhetsbrev kan du bland annat läsa om Cosmic planerat driftunderhåll, rutin PNA-instrument, delmall och sökord för Nationellt diabetesregister (NDR), justerad funktionalitet för akutmärkta remisser samt sammanhållen vård- och omsorgsdokumentation (SVOD).
+28 april 2026
+I detta nyhetsbrev kan du bland annat läsa om inställt planerat driftunderhåll i Cosmic och Nova övningsmiljö, enklare remisshantering för CVK/CDK och venport (PAC), ny blankett - individuell vårdplan insulinbehandlad diabetes samt ny logik i vårdkontaktväljaren i Cosmic 5.0
+31 mars 2026
+I detta nyhetsbrev kan du bland annat läsa om planerat driftunderhåll i Cosmic, summering av poster som skiljer sig åt, SMS-påminnelse för Distanskontakter via videolänk, nya remissmottagare i Cosmic samt vårddatasammanslagning.
+24 februari 2026
+I detta nyhetsbrev kan du bland annat läsa om planerat driftunderhåll i Cosmic, ny riktlinje gällande patientinformation, rapportblad, digital diktering, en gemensam väg in för support av IT och telefoni, samt samtyckeshantering.
+27 januari 2026
+I detta nyhetsbrev kan du bland annat läsa om planerat driftunderhåll i Cosmic, journaltabell, ordinering av framtida förskrivningar från vyn "Jämför med ordinationer i Cosmic", eRemissmottagare, förändrad inloggning till Cambios användarportal samt kontakt med RPA-teamet.
+17 december 2025
+I detta nyhetsbrev kan du bland annat läsa om rapportblad i Cosmic, reviderad journaltabell, om- och avbokning via 1177 samt beställning och avbeställning av automationsrobotar för Cosmic via behörighetsportalen.
+25 november 2025
+I detta nyhetsbrev kan du bland annat läsa om fiktivmessengerbrevlåda byter namn,  patologiska provsvar kan sakna markering (*), nya fasta val för sökorden KAD och suprapubiskateter, nya remissmottagare i Cosmic och NPÖ anpassas till NLL.
+21 oktober 2025
+I detta nyhetsbrev kan du bland annat läsa om peritonialdialysvätskor exkluderas i vätskebalansen, övergång till fönster Beställning vid radiologibeställningar, journalmappar för referenser, förändringar i delmallen Nationellt diabetesregister (NDR) samt samtyckeshantering i samband med NLL.
+30 september 2025
+I detta nyhetsbrev kan du bland annat läsa om att Nationella läkemedelslistan blir en del av Cosmic, ny patientöversikt i Cosmic, avtal för vaccinationer, pågående ärenden på Vårdgivarwebben samt ny release av MittVaccin.
+26 augusti 2025
+I detta nyhetsbrev kan du bland annat läsa om vårdöversikten på Nova vårdplattor, planerat driftunderhåll, övergång till fönster Beställning vid radiologibeställningar, problem vid vidimering av svar från provbundna och patientbundna analyser samt eRemiss nya mottagande enheter.
+17 juni 2025
+I detta nyhetsbrev kan du läsa om svarskommentarer Mikrobiologi och Klinisk kemi i Nova, nya fasta val för sökordet Efterlevandestöd, SMS-påminnelse för Telefon- och Videobesök samt att vårddatasammanslagning utförs inte under sommaren. Glad sommar!
+27 maj 2025
+I detta nyhetsbrev kan du bland annat läsa om namnbyte för AnorexiBulimiCenter, appen MinHälsa, planerat driftunderhåll Cosmic, problem åtgärdat med att öppna äldre Word-dokument, ny inloggning i Nova Board samt beställning och avbeställning av automationsrobotar.
+30 april 2025
+I detta nyhetsbrev kan du bland annat läsa om planerat driftunderhåll i Cosmic, övergång till fönster "Beställning vid radiologibeställningar", automatisk överföring till Svenska Artrosregistret är nu i drift samt ny inloggning i Nova Board.
+25 mars 2025
+I detta nyhetsbrev kan du bland annat läsa om beställning av lokala/externa analyspaket, övergång till fönster Beställning vid radiologibeställningar och kommande förändringar avseende spotcheck-monitorer är inställd.
+25 februari 2025
+I detta nyhetsbrev kan du bland annat läsa om planerat driftunderhåll i Cosmic övningsmiljö och Nova övningsmiljö, förändringar i nationellt diabetesregister, kommande förändring för spotcheck-monitorer och nytt vaccinationsflöde i MittVaccin.
+28 januari 2025
+I detta nyhetsbrev kan du bland annat läsa om reservrutin Utdelningsvy, makuleringsrutin radiologi/fysiologi, Ny avvikelseorsak för Hälso- och sjukvårdsförvaltningen samt ny patientöversikt i Cosmic.
+17 december 2024
+I detta nyhetsbrev kan du bland annat läsa om reservrutin Utdelningsvy, makuleringsrutin radiologi/fysiologi, Ny avvikelseorsak för Hälso- och sjukvårdsförvaltningen samt ny patientöversikt i Cosmic.
+19 november 2024
+I detta nyhetsbrev kan du bland annat läsa om teknisk invånarsupport för eVisit, planerat driftunderhåll i Cosmic, Makuleringsrutin radiologi/fysiologi – påminnelse, hantering av mikrobiologibeställningar samt beställning av vårdtjänst/schemamarkerare
+23 oktober 2024
+I detta nyhetsbrev kan du bland annat läsa om eVisit iPhone-funktion, cosmicuppdateringar, radiologibeställningar från akutmottagningarna och intensivvårdsavdelningarna, dokumenterad överenskommelse samt nya val i Behörighetsportalen relaterat till nya operationsplaneringsmodulen.
+23 september 2024
+I detta nyhetsbrev kan du bland annat läsa om uppehåll av registreringar/beställningar i Cosmic under årets vintertidsomställning, grupper utan enhet inaktiveras den 1 oktober och driftsättning av ny operationsplaneringsmodul i Cosmic den 15 oktober.
+27 augusti 2024
+I detta nyhetsbrev kan du bland annat läsa om planerat driftunderhåll i Cosmic, ny tillväxtkurva, riktlinje gällande patientinformation i tidboksnoteringar och spärrar i Cosmic och Publicering av svar från Radiologen och Fysiologen på 1177 Journal och NPÖ.
+18 juni 2024
+I detta nyhetsbrev kan du bland annat läsa om planerat driftunderhåll i Cosmic, ny tillväxtkurva, blanketter om vårdgaranti, reseinformation och biljett på kallelser samt remissmodul rehab kommun.
+21 maj 2024
+I detta nyhetsbrev kan du bland annat läsa om planerat driftunderhåll i Cosmic och Nova övningsmiljöer, ny version av Pascal, blanketter om vårdgaranti, reseinformation och biljett på kallelser samt remissmodul rehab kommun.
+23 april 2024
+I detta nyhetsbrev kan du bland annat läsa om uppgradering av CardioPerfect, planerat driftunderhåll i Cosmic övningsmiljö och Nova övningsmiljö, ny riktlinje för registrering i Uppmärksamhetssignalen i Cosmic och chatt i Min hälsa-appen.
+19 mars 2024
+I detta nyhetsbrev kan du bland annat läsa om ändrad rutin för information på Navet i samband med Cosmic driftunderhåll, uppdaterade registreringsanvisningar samt användarroll blir tydligare vid inloggning.
+27 februari 2024
+I detta nyhetsbrev kan du bland annat läsa om att nytt medarbetaruppdrag krävs för Ineras infektionsverktyg, digitalisering av Patientnära analysinstrument, telefonnummer på utskrifter samt revidering av SVF prostatacancer.
+23 januari 2024
+I detta nyhetsbrev kan du bland annat läsa om funktion att kopiera in senaste värde i radiologibeställningar, eRemiss och Cosmic HSL i Kalmar kommun.
+19 december 2023
+I detta nyhetsbrev kan du bland annat läsa om Makuleringsrutin radiologi/fysiologi, ny rutin vid könstillhörighetsändring samt Ny kontakttyp Teambesök vårdpersonal.
+21 november 2023
+I detta nyhetsbrev kan du bland annat läsa om planerat driftunderhåll i Cosmic, rutin vid driftavbrott i Cosmic samt införande av HTML-inmatningsvy i journalen.
+24 oktober 2023
+I detta nyhetsbrev kan du bland annat läsa om planerat driftunderhåll i Cosmic, rutin vid driftavbrott i Cosmic samt införande av HTML-inmatningsvy i journalen.
+19 september 2023
+I detta nyhetsbrev kan du bland annat läsa om planerat driftunderhåll i Cosmic, nytt beställningsförfarande för fysiologiska kliniken samt införande av HTML-inmatningsvy i journalen.
+29 augusti 2023
+I detta nyhetsbrev kan du bland annat läsa om införande av HTML-inmatningsvy i journalen, Enhetsöversikten, ny funktionalitet samt nytt utseende på anmälningsskärmar.
+20 juni 2023
+I detta nyhetsbrev kan du bland annat läsa om ny biobankslag från och med den 1 juli, ny remissmall "psykisk hälsa" samt information om IT under sommaren.
+30 maj 2023
+I detta nyhetsbrev kan du bland annat läsa om planerat driftunderhåll för Cosmic, mediahanterare, uppdatering av Cosmic och Nova övningsmiljöer samt patientkortet.
+25 april 2023
+I detta nyhetsbrev kan du bland annat läsa om Personuppgiftstjänsten, Cosmic och Nova övningsmiljö uppdateras den 13 juni och viktig information inför uppgradering av Muse den 30 maj.
+16 mars 2023
+I detta nyhetsbrev kan du bland annat läsa om projektet Säker digital kommunikation, avveckling av gammalt Office-verktyg, ett gemensamt beställningsfönster och uppdateringar för journal som e-tjänst.
+17 februari 2023
+I detta nyhetsbrev kan du bland annat läsa om supportens tillgänglighet, medarbetaruppdrag studenter, sökord våldsutsatthet och behörigheter för undersköterskor.
+24 januari 2023
+Information i detta nyhetsbrev handlar bland annat om driftunderhåll Cosmic, blankett för orosanmälan, delmall för efterlevandestöd och nya beläggningsadministrationen.
+16 december 2022
+I årets sista nyhetsbrev  påminner vi om om förlängning av anställningar/behörigheter samt tips om standardskrivare.
+18 november 2022
+Denna månads nyhetsbrev innehåller bland annat information om driftunderhåll Cosmic, försegling i MittVaccin, dokumentation av våldsutsatthet, nya vårdgivare, infektionsverktyget och uppdatering av Cosmic övningsmiljö.
+14 oktober 2022
+Nyhetsbrevet innehåller denna gång bland annat information om Cosmic driftunderhåll, makulering och utsättningsorsak i läkemedelsmodulen, mallurval och förändringar i MittVaccin.
+16 september 2022
+I nyhetsbrevet den här gången får du bland annat information om Cosmic driftunderhåll, förändringar i MittVaccin och nytt standardiserat vårdförlopp inom cancer.
+10 juni 2022
+I IT:s nyhetsbrev den här gången får du bland annat information om installation av nytt Officeverktyg, ny version av Business Objects, inbjudan till webbinarium, Cosmic driftunderhåll, mappar i journalträdet och besvarade konsultationsremisser från Cosmic i e-tjänsten Journalen och NPÖ.
+13 maj 2022
+I nyhetsbrevet den här gången: inbjudan till webbinarium, information om kommande driftunderhåll av Cosmic, LINK i öppenvården, avsluta remisser i remisstatus, handläggning av misstänkt/bekräftad STI inom primärvården och Specialistläkargruppen Kalmar.
+22 april 2022
+Om Cosmic driftunderhåll, webbinarium, läkemedel, vårddokumentation och Cosmic övrigt.
+18 februari 2022
+Om Cosmic driftunderhåll 26 mars 2022, välkommen att delta på webbinarium, självbetjäningskassor, övningspatienter i Cosmic, behörighet till akutliggaren behöver inte längre beställas i Behörighetsportalen och utbildning av sommarvikarier.
+18 mars 2022
+Om Cosmic driftunderhåll, webbinarium, LINK, läkemedel, vårddokumentation, vårdadministration, webcert och Cosmic övrigt.
+21 januari 2022
+Om generella IT-nyheter, Cosmic driftunderhåll och Cosmic övrigt.
+17 december 2021
+Om generella IT-nyheter, vårddokumentation, remiss, nationella e-tjänster och Cosmic övrigt.
+19 november 2021
+Generella IT-nyheter, Cosmic driftunderhåll, läkemedel, Messenger, vårddokumentation, nationella e-tjänster och Cosmic övrigt.
+22 oktober 2021
+Om Cosmic driftunderhåll, läkemedel, vårddokumentation, vårdadministration, remiss, nationella e-tjänster, utskrifter och Cosmic övrigt.
+17 september 2021
+Om Cosmic driftunderhåll, vårddokumentation, vårdadministration, utskrifter och Cosmic övrigt.
+18 juni 2021
+Om generella IT-nyheter, läkemedel, vårddokumentation, nationella e-tjänster och Cosmic övrigt.
+21 maj 2021
+Om videomötesverktyg för säkra respektive öppna möten, videomöte med patient - endast bokningar i eVisit, beställning och svar, vårddokumentation, vårdadministration och Cosmic övrigt.
+16 april 2021
+Om sammanhållen journalföring Emmaboda kommun, MittVaccin, ny dynamisk mall hälsoskattning för cancerrehabilitering, webcert uppgradering och webbinarium om Cosmic.
+19 mars 2021
+I nyhetsbrevet den här gången: generella IT-nyheter, Cosmic driftunderhåll, läkemedel, beställning och svar, vårddokumentation, remiss, utskrifter, Cosmic övrigt.
+19 februari 2021
+I nyhetsbrevet den här gången: generella IT-nyheter, läkemedel, beställning och svar, vårddokumentation, vårdadministration, remiss, utskrifter och Cosmic övrigt.
+22 januari 2021
+Generella IT-nyheter, läkemedel, vårddokumentation, remiss och Cosmic övrigt.

@@ -1,0 +1,1249 @@
+Läkemedelsnytt
+Läkemedelsnytt är Läkemedelskommitténs nyhetsbrev.
+2026
+Nr 3 - oktober - Tema dosförskrivning och Pascal
+Utskriftsversion
+Vad är Pascal och vilka patienter är lämpliga?
+Pascal är ett webbaserat förskrivningsverktyg för att förskriva, ändra, förnya och avsluta recept, samt beställa läkemedel till patienter som får sina läkemedel maskinellt dosdispenserade.
+För att en patient ska vara aktuell för dosförskrivning ska följande kriterier vara uppfyllda:
+Samtycke till att vård och apotek utbyter information om patientens läkemedel.
+Regelbunden och stabil grundmedicinering.
+Oförmåga att själv hantera sina läkemedel på grund av fysiska och/eller psykiska funktionsnedsättningar.
+Mer information på
+sidan om dosförpackade läkemedel.
+Pascal är en receptlista – inte en journal
+Pascal visar patientens aktuella förskrivningar (recept) på apoteket, vilket är samma uppgifter som visas i Nationella läkemedelslistan (NLL). Enligt lag ska all historik i NLL rensas efter 5 år, vilket gör att den även försvinner i Pascal. Eftersom Pascal inte är en journal och historiken gallras,
+behöver förskrivaren dokumentera aktuella läkemedel i Cosmic.
+Bäst är att hålla läkemedelslistan i Cosmic uppdaterad.
+Samtycke krävs för registrering i Pascal
+Var noggrann med patientens samtycke vid registrering av dosdispensering. Samtycket kan tas emot muntligt, exempelvis av en sjuksköterska. Dossamtycket som registreras i Pascal innebär en stor påverkan på personlig integritet, då alla förskrivare, legitimerad hälso- och sjukvårdspersonal och apoteken hädanefter får full tillgång till NLL, inklusive uthämtningshistorik samt spärrad information. Patienten behöver informeras om detta innan samtycket lämnas. All åtkomst loggas och patienten har möjlighet att se i Läkemedelskollen vilka åtkomster som skett. Dossamtycket gäller tills vidare eller tills patienten återkallar sitt samtycke.
+Avsluta dosproduktion i Pascal
+Patient som lämnar dos
+Om en patient inte längre har behov av dospåsar avslutas dosproduktionen i Pascal via fliken Patientinformation – Avregistrera dospatient. När en patient avregistreras sätts alla dosdispenserade recept ut direkt. Innan patienten avslutas, skriv ut Receptutskrift Pascal som underlag för att skicka nya e-recept från Cosmic.
+Avliden patient
+Avregistrera avlidna dospatienter manuellt under Patientinformation – Avregistrera dospatient. Annars skickas nya dosrullar och fakturor till dödsboet fram till den automatiska avregistreringen, vilket kan ta flera veckor.
+Kom ihåg
+att även dokumentera aktuella läkemedel i journalen för historik. Det är mycket svårt att låsa upp Pascal när dödsbeviset har registrerats, och det finns fall där det är viktigt att kunna analysera vilka läkemedelsändringar som gjorts.
+Privat dos rekommenderas inte
+Egenfinansierad dosdispensering – eller privat dos – innebär att patienter själva bekostar dosdispensering genom en tjänst som apotek erbjuder privatpersoner. Dessa patienter ingår därmed inte i Region Kalmar läns upphandlade avtal. Vi avråder från egenfinansierad dosdispensering, av flera orsaker:
+Det tar tid att starta upp och förskriva till en dospatient. Om medicinsk motivering saknas riskerar arbetet att tränga undan mer angelägna patientbehov.
+Det finns risker vid sjukhusinläggning, då läkemedelslistan i journalen inte alltid överensstämmer med Pascal.
+Ansvaret för personer som ansluter sig till privat dos är inte helt tydligt, vilket kan vara problematiskt vid restsituationer.
+Sjukvården saknar rutiner för att hantera flera olika dosleverantörer.
+Läkemedelskostnaden riskerar att bli högre för både patient och region än vid vanliga recept. Detta eftersom inte alla läkemedel är godkända för dosdispensering, vilket minskar konkurrensen och gör att priset ofta blir högre.
+Mer information om
+egenfinansiering dosdispensering
+Tips och fallgropar i Pascal
+Förnya recept i tid – undvik glapp i behandlingen
+Recept är giltiga i högst ett år. Om receptets giltighetstid går ut, får dosapoteket inte expediera läkemedlet. Det innebär i praktiken att alla påsar efter det datumet i rullen kommer att sakna läkemedlet. För att undvika ett glapp i behandlingen behöver receptet förnyas innan sista stopptiden, annars produceras en ofullständig rulle. Om sista stopptiden har passerats, använd ”Ändra” i stället för ”Förnya”. I ändra-vyn får du välja om du vill skapa en akutproduktion eller sätta in en helförpackning för att kompensera för glappet.
+Ändra inställningarna
+Ett tips är att logga in minst en gång via webbinloggning, i stället för uthopp från Cosmic. Det är en annan vy, där du kan se tidigare patienter och lägga in bevakning på utvalda patienters förskrivningar. Det är bra att gå in i Inställningar och ändra historiken från 3 månader till maximalt 60 månader, samt vilka kolumner du vill se och i vilken sortering (t.ex. ATC-kod, datum och förskrivande enhet). Ändringar som sparas vid webbinloggning är sedan giltiga tills vidare, även vid uthopp från Cosmic. Inställningarna kan också ändras via uthopp, men sparas då inte till framtida inloggningar.
+Akutrulle – lär dig vad det innebär
+Många akutrullar hämtas aldrig ut och det finns uppenbara risker med att en patient har flera dosrullar hemma. Därför är det viktigt att du vet vad en akutbeställning innebär. Om du lägger till ett nytt läkemedel kommer en tilläggsrulle, men om du ändrar eller avslutar en förskrivning kommer i regel en ersättningsrulle. Nedan kan du läsa mer om vad de olika rullarna innebär, vilka ledtider du kan förvänta dig och vilka kostnader det kan innebära för kommunen. Kom ihåg att alltid informera patienten eller personalen om att det finns en akutrulle att hämta.
+Glöm inte beslutsstöden
+Samma beslutsstöd som finns i Cosmic finns även i Pascal – Dubblett, Interaktion, Sök biverkan, Graviditet, Amning och Undvik till äldre. Ett tips är att kombinera med formuläret PHASE-20 för en bra läkemedelsgenomgång.
+Alendronat – en vanlig avvikelse
+En av de vanligaste avvikelserna gällande dospatienter är att alendronat (veckotablett) dispenseras vid samma tidpunkt som andra läkemedel. Ta för vana att klicka på klockan för att se patientens intagstider och säkerställa att alendronat särskiljs från andra läkemedel med minst en timme. Klockan kan med fördel användas regelmässigt för att få en överblick över intagstider, så att rätt tider väljs och det inte skapas extra utdelningstillfällen i onödan.
+Nyhet i det dosdispenserade sortimentet
+Ett av Region Kalmar läns kostnadsbesparande läkemedelsmål är att välja Orions fabrikat vid förskrivning av gabapentin, lamotrigin och levetiracetam. Nu går det att välja Orions fabrikat även vid dosförskrivning i Pascal.
+Mer information
+För mer information och resurser, se sidan om
+dosdispenserade läkemedel
+. För kontakt med dosleverantören (Apoteket AB), ring 010-447 75 50 (öppet vardagar klockan 8-17) eller mejla till
+apodos@apoteket.se
+.
+Vanliga missuppfattningar
+Det är dyrt för patienten att ha dosdispenserade läkemedel
+Nej. Själva dosdispenseringen är kostnadsfri för patienten. En fakturaavgift (för närvarande 19 kr) kan tillkomma, men den försvinner om patienten väljer autogiro eller e-faktura. En indirekt merkostnad som kan uppstå är att läkemedlen i dospåsarna kan kosta mer. Det beror på att inte alla läkemedel är godkända för dosdispensering, vilket gör att färre produkter konkurrerar om priset.
+Det kostar pengar för regionen att patienten har dosdispenserade läkemedel
+Inte för själva tjänsten, men i praktiken blir läkemedlen i dospåsarna ofta något dyrare för regionen på grund av snävare sortiment, lägre konkurrens och ibland dyrare förpackningsstorlekar. För enheter med direktleverans tillkommer dessutom leveranskostnader.
+Det kostar inget för kommunen att patienten har dosdispenserade läkemedel
+Det beror på. En del kommuner har avtal för leverans av dospåsar till patienter inom kommunal hälso- och sjukvård, exempelvis på särskilt boende. Då medför varje leverans en kostnad för kommunen. I normalfallet levereras flera patienters rullar samtidigt, men akutbeställda dosrullar eller helförpackningar levereras ofta enskilt och innebär en extra kostnad för kommunen.
+Vilande patient i Pascal får inga läkemedel
+Nej. Status ”Vilande” gäller enbart för dispenserade läkemedel, det vill säga dosapoteket vilar produktionen av dosrullen. Alla recept på helförpackningar är dock giltiga och kan hämtas ut på valfritt apotek.
+En patient som satts som vilande under en sjukhusvistelse måste aktiveras igen före hemgång för att nya rullar ska produceras.
+Om man har flera akuta receptändringar räcker det att markera akut ändring på ett av recepten
+Nej, man måste akutmarkera varje receptrad som man vill ha ändrad akut, annars kommer ändringen med nästa ordinarie leverans. Observera att om man akutmarkerar flera läkemedel på olika sidor av stopptiden (exempelvis klockan 13 och klockan 15), kan flera akutrullar skapas. Gör därför alla förändringar vid ett och samma tillfälle för att undvika flera akutrullar.
+Alla akutrullar i Pascal levereras nästa dag
+Nej, stopptiden avgör. Vid akutförskrivning före stopptiden kl. 14 (vardag 1) levereras nya dospåsar nästa vardag senast kl. 16 (vardag 2) med behandlingsstart dagen därpå (dag 3). Vid akutförskrivning efter stopptiden tillkommer en dag. Förskriver man alltså akut en torsdag förmiddag, levereras påsarna på fredag med startdag lördag. Men förskriver man akut en torsdag efter kl. 14, levereras påsarna på måndag med startdag tisdag.
+Se till att patienten har läkemedel som räcker tills patienten får sina dosdispenserade läkemedel.
+Det kommer alltid en ersättningsrulle vid akutproduktion
+Nej. Vid akutproduktion finns två varianter. Om enbart nya läkemedel tillkommer och övriga är oförändrade, skickas en tilläggsrulle att ta tillsammans med befintlig rulle, s.k. tilläggsdoser. Om styrkan däremot ändras eller ett läkemedel tas bort, kan den gamla rullen inte användas. Då skickas en ersättningsrulle, s.k. utbytesdoser. I ena fallet ska patienten ta från två rullar, i det andra enbart från en rulle. Det är viktigt att patienten informeras om vad som gäller. Dosrullen är markerad med antingen ”tilläggsdoser” eller ”utbytesdoser” beroende på vilken sorts rulle som producerats.
+Det dröjer flera dagar innan patienter kan hämta ut helförpackningar från Pascal på apotek
+Nej, Pascal visar listan över de recept som finns på apotek (NLL). Alla recept på helförpackningar som finns i Pascal kan hämtas omedelbart på valfritt apotek, på samma sätt som ”vanliga” e-recept.
+Akutproduktion är dyrt för patienten
+Nej. Patienten betalar aldrig mer än högkostnadsskyddets tak (3 800 kr per tolvmånadersperiod) för läkemedel inom förmånen. Dosleveransen till avtalat utlämningsställe (vanligtvis ett lokalt apotek) är kostnadsfri. Däremot tillkommer leveranskostnad till kommunen för dem med leveransavtal.
+Innehållsansvarig:
+Emma Hamrin, Leg. apotekare, Läkemedelssektionen
+Notiser
+Beroendeframkallande läkemedel – skarpt läge
+Från den 1 november ska samtliga verksamheter som förskriver beroendeframkallande läkemedel (BFL) ha implementerat ett lokalt arbetssätt baserat på den regiongemensamma riktlinjen som trädde i kraft i årets början. Arbetets bygger på principen Rätt indikation, tydlig plan - vårt gemensamma ansvar och handlar sist och slutligen om att inte skada våra patienter. Sidan för beroendeframkallande läkemedel växer allt eftersom, med nya patientinformationer och en tydligare koppling till smärtprocessen.
+Läs mer på
+sidan om beroendeframkallande läkemedel
+Rybelsus – ny formulering och nya styrkor
+Rybelsus (semaglutid i tablettform) får en ny formulering med förbättrat upptag. Därför behövs lägre tablettstyrkor för att ge samma effekt som tidigare. Observera att Rybelsus inte finns med i REK-listan och att våra rekommendationer inte har förändrats. Följande styrkor av Rybelsus är likvärdiga:
+Tidigare styrka
+Ny styrka
+3 mg
+1,5 mg
+7 mg
+4 mg
+14 mg
+9 mg
+För de patienter som står på Rybelsus krävs nya recept för de nya styrkorna. Gamla och nya styrkor finns parallellt under en övergångsperiod, vilket innebär risk för förväxling och dubbeldosering. Patienterna behöver informeras om bytet och om att gamla och nya tabletter inte ska kombineras.
+Ozempic – max 1 mg och inte för viktnedgång
+Den nya styrkan Ozempic 2 mg marknadsförs intensivt. Vi avråder fortsatt från att förskriva den. Jämfört med 1 mg är behandlingen dubbelt så dyr, men ger bara ungefär 3 mmol/mol lägre HbA1c och 1 kg ytterligare viktminskning. Den dokumenterade skyddseffekten mot hjärt-kärl- och njursjukdom gäller doser upp till 1 mg. Till dagens pris bedöms 2 mg inte vara kostnadseffektivt.
+Vi påminner också om att Ozempic har en förmånsbegränsning. Förskrivning i syfte att uppnå viktnedgång trots god glukoskontroll ryms inte inom förmånen.
+Från primärvården har vi fått signaler om att vissa sjukhuskliniker önskar att dosen höjs till 2 mg hos gemensamma patienter för att uppnå viktminskning. Läkemedelskommittén avråder från detta. Indikationen för Ozempic är typ 2-diabetes, inte viktminskning, och förskrivare kan hänvisa till denna rekommendation.
+Tio tusen färre recept på hostmediciner
+Förra hösten lanserades en Sydöstragemensam avrådan från slemlösande och hostdämpande läkemedel vid akut hosta. Under de tolv månaderna som följt har 10 000 färre recept på hostmediciner förskrivits av vården i Region Kalmar län, jämfört med året innan. Det innebär en minskning med 42 %. Cocillana-Etyfin och liknande har minskat med 53 %, Mollipect och liknande med 64 % och Actylcystein med 14 %. Många biverkningar har sannolikt undvikits och både tid och resurser har frigjorts inom vården. Läkemedelskommittén vill särskilt framhålla rådgivningssköterskorna, som gjort ett enastående arbete i att bemöta och lugna patienterna som kontaktat vården för hosta. En helt ny patientinformation har även tagits fram på önskemål från primärvården.
+Läs mer på sidan
+beslutsstöd - hostmediciner avrådan
+Innehållsansvarig:
+Fredrik Hagerman, ordförande i Läkemedelskommittén.
+Nr 2 april - Tema obesitasläkemedel och Ozempic
+Utskriftsversion av nyhetsbrevet
+Efterfrågan på läkemedel för viktnedgång har ökat explosionsartat, både i Sverige och globalt. Läkemedelskommittén har sedan tidigare tagit fram ett förskrivarstöd om obesitasläkemedel, med en lathund över aktuella läkemedel och kliniska råd om vilken plats i behandlingen läkemedlen har. Förskrivarstödet har nu förbättrats och uppdaterats med bland annat nya BMI-gränser där behandling kan övervägas: BMI ≥ 35 kg/m2 eller BMI 30–35 kg/m2, ökat midjeomfång samt förekomst av risk för obesitasrelaterad följdsjukdom och samsjuklighet.
+Förskrivarstöd obesitasläkemedel Region Kalmar län
+Ny patientinformation – skicka inte remiss
+Det finns en ny patientinformation om de nya viktsänkande läkemedlen. Den är tänkt att ges till patienter som överväger behandlingen, både inom primär- och sekundärvården. Informationen tar bland annat upp vikten av livsstilsåtgärder, att inte alla patienter svarar på behandlingen samt att behandlingen är långvarig och ingen ”quick fix”. Patienten uppmanas själv ta kontakt med sin hälsocentral och således ska inte remisser skickas till primärvården i de allra flesta fall.
+Nationella kunskapsstöd på gång
+Nationellt är ett kliniskt kunskapsstöd på gång, förhoppningen är att det publiceras under andra kvartalet 2026. Där ligger fokus på begränsningar avseende vilka som bör erbjudas sjukvård, kombinerad levnadsvanebehandling samt behandling med läkemedel och kirurgi. Även Läkemedelsverket är på gång med en behandlingsrekommendation, som förväntas komma i slutet av 2026.
+Ingen förmån för Wegovy
+I början av året beslutade TLV att Wegovy (semaglutid) inte ska ingå i högkostnadsskyddet. För regionerna har det varit angeläget att undvika okontrollerbara kostnader och där har regionerna och företaget inte kunnat komma överens i förhandlingarna. Wegovy fortsätter vara tillgängligt utanför högkostnadsskyddet och i dagsläget finns i Region Kalmar län drygt 3000 patienter som står på Wegovy eller Mounjaro, varav hälften förskrivs från primärvården och hälften via nätläkare. Wegovy har nu blivit godkänt för doser upp till 7,2 mg/vecka. I praktiken innebär det tre doser på 2,4 mg efter varandra och alltså tre gånger kostnaden. I studien Step Up gav 7,2 mg i genomsnitt en ytterligare viktnedgång på 3,6 kg, jämfört med 2,4 mg (-20,9 kg jämfört med -17,3 kg).
+Ozempic endast vid diabetes och max 1 mg
+En närliggande fråga är GLP-1-analoger för behandling av diabetes (Ozempic, Trulicity, Victoza). Rekommendationen kvarstår att endast förskriva dessa inom godkänd indikation, det vill säga till typ 2-diabetiker vid otillräcklig glukoskontroll, eller vid samtidig hjärtsvikt, hjärt-kärlsjukdom eller njursjukdom oavsett HbA1c.
+Se bild behandlingsalgoritm diabetes typ-2
+. Den rekommenderade maxdosen av Ozempic är 1 mg, vilket är vad som finns i ordinationsmallarna i Cosmic. Det finns en högre styrka på 2 mg, men tilläggseffekten på HbA1c är blygsam (i genomsnitt endast 2 mml/mol) och eftersom priset är dubbelt så högt bedöms behandlingen ej vara kostnadseffektiv och rekommenderas inte. Dosen 2 mg är inte heller effektiv för viktnedgång hos patienter med diabetes (i genomsnitt mindre än ett kg ytterligare viktnedgång). Sist men inte minst ökar risken för biverkningar med ökad dos.
+Läs mer
+Obesitasläkemedel - förskrivarstöd Region Kalmar län
+Obesitasläkemedel - förskrivarstöd Region Kalmar län - bilaga 1 Pennkanyler
+Patientinformation - Läkemedel mot fetma
+Vägledning för arbetet med levnadsvanor vid förskrivning av läkemedel för viktminskning
+Rekommenderade läkemedel - Endokrinologi
+Innehållsansvarig läkemedelsnytt:
+Fredrik Hagerman
+, ordförande i Läkemedelskommittén
+Nr 1 februari - Nyheter i REK och läkemedelsmål
+Utskriftsversion av nyhetsbrevet
+Utvalda nyheter i REK-listan 2026
+Astma - KOL
+Byte till spray i spacer vid otillräcklig effekt av pulverinhalator.
+Ej trippelinhalator till astma i normalfall. Behöver kunna justera dos ICS och FABA.
+Pulverinhalator Trimbow läggs till som alternativ vid KOL till de patienter som inte behöver spray.
+Förskriv två spacers, så de kan rengöras växelvis.
+Diabetes
+Restsituation Insulin lispro Sanofi – vid nyinsättning välj Humalog för närvarande.
+Endokrinologi
+Obesitas förskrivarstöd uppdaterat med rekommenderade BMI-gränser på ≥ 35 eller ≥ 30 med riskfaktorer/följdsjukdomar.
+Ny patientinformation om Wegovy och Mounjaro. För användning inom både primär- och sekundärvård.
+Obesitasläkemedel - förskrivarstöd
+Till dig som överväger läkemedel mot fetma - patientinformation
+Gynekologi
+COX-hämmare tillagt som alternativ vid rikliga blödningar.
+Hjärta - Kärl - Blod
+DOAK vid VTE ska inte dosjusteras initialt. Eventuellt om behov av fortsatt sekundär-profylaktisk behandling.
+Tromboflebit: Helt nytt avsnitt. Om ovanför knä eller större än 5 cm ska ultraljud starkt övervägas. Ny behandlingsalgoritm är på gång.
+Hud
+Tolak enda rekommenderade krämen vid aktinisk keratos. Kombinera gärna med mjukgörare.
+Hyperhidros: Helt nytt avsnitt.
+Infektion
+Pneumonier i slutenvård: Ny riskskattning av CRB-65, överväg tablett vid låg risk. Uppdaterade doseringar och preparatval utifrån STRAMA.
+Pyelonefrit och bukinfektion i slutenvård: Uppdaterade preparatval utifrån STRAMA.
+”Okänt fokus” tas bort ur algoritmen.
+Mage - tarm
+IBS: Ny algoritm utifrån dominerande symtom.
+Obstipation: Microlax helt utan förmån. Resolor prissänkt (men fortsatt med begränsad subvention).
+Neurologi
+Migrän: Ondansetron nytt mot illamående, om inte metoklopramid har effekt.
+Trigeminusneuralgi: Gabapentin nytt alternativ.
+Essentiell tremor: Propranolol rekommenderas.
+Njure - urologi
+Njursjukdomar: Helt nytt avsnitt.
+U-albumin/krea-kvot avgör behandlingen vid kronisk njursjukdom.
+Finasterid tillagt vid benign prostatahyperplasi.
+Osteoporos
+Denosumab lägre pris pga patentutgång. Rekvireras. Dock fortsatt bisfosfonat i första hand.
+Psykiatri
+Paroxetin alternativ vid ångestsyndrom.
+Cytisin rekommenderat för rökavvänjning.
+Smärta - Inflammation
+Malign smärta: Nytt avsnitt.
+Gabapentin i andra hand vid neuropatisk smärta.
+Ögon
+Oculentum simplex vid behov av ögonsalva inom förmån. Receptfria alternativ Hylo Night och EYZ Night.
+Receptfria läkemedel
+Receptfria läkemedel rekommenderas vid:
+Egenvårdstillstånd max 90 dagar/år
+Långvariga tillstånd som inte beror på sjukdom (exempelvis torr hud utan eksemdiagnos)
+Ny nationell riktlinje om receptfria läkemedel
+Läs mer
+Rekommenderade läkemedel
+Läkemedelsmål Region Kalmar län 2026
+1. Minskad förskrivning av beroendeframkallande läkemedel (opioider, bensodiazepiner, bensodiazepinliknande sömnmedel och pregabalin)
+Förskrivningen fortsätter minska i regionen, med
+12 % under 2025. Målet att nå rikssnittet kvarstår, vilket innebär en ytterligare minskning med 20 %.
+Morfin rekommenderas före oxikodon om njurfunktionen tillåter. En tydlig förändring visar att ca 50 % av patienter står på morfin, jämfört med endast 20 % år 2022. En viss tillbakagång har skett under 2025, sannolikt på grund av en nylig restsituation på morfin i små förpackningar. Målet kvarstår: 80 % av individer bör ha morfin förskrivet.
+Tramadol ska inte nyförskrivas pga biverkningsprofil och utsättningsproblematik. Nyförskrivningen fortsätter stadigt minska, där endast 139 individer fick tramadol nyförskrivet 2025, jämfört med 217 individer 2024. Vi fortsätter arbetet mot en nollvision.
+2. Följsamhet till Stramas rekommendationer för antibiotika
+Förskrivning av antibiotika har minskat ordentligt i Kalmar från 278 till 267 recept/1000 invånare mellan 2024 och 2025. Samma minskning ses i övriga riket och Kalmar ligger fortfarande över snittet. Målet på 250 recept/1000 invånare kvarstår, dvs en minskning med cirka 6 %.
+Användningen av kinoloner ökade med knappt 0,8 % jämfört med 2024. Vi behåller därmed minskningen vi ser jämfört med 2023. Vi vill jobba för att hålla denna lägre nivå även under 2026. Kanske kan vi lyckas med en liten minskning för att kompensera för detta års marginella ökning. Följ STRAMAs rekommendationer om indikation, dosering och behandlingslängd.
+Strama nationella rekommendationer
+3. Benspecifika läkemedel till patienter med osteoporosfraktur
+Andelen patienter med benspecifika läkemedel inom ett halvår har stadigt ökat jämfört med 2024. För första gången på många år närmar vi oss 40 % i slutet av 2025. Vi hoppas spränga det delmålet under 2026, på vår väg mot det nationella målet på 60 %.
+4. Minskad förskrivning av protonpumpshämmare.
+Förskrivningen av omeprazol har fortsatt minska något med 2 %. Vi ser även en svag minskning av förskrivning av esomeprazol. Trots att vi fortfarande ligger högt i riket, står vi för den största minskningen. Målet att nå rikssnittet kvarstår, men målnivån kan revideras ned till 15 %. Vi vill fortsatt förtydliga att esomeprazol bör förbehållas särskilda indikationer och oftast kan ersättas med omeprazol. Esomeprazol motsvarar 1,5 gånger dosen av omeprazol (40 mg motsvarar ca 60 mg). Direktbyte till omeprazol i samma styrka går ofta bra, även om det innebär en dosminskning. Onödig användning kan bidra till infektioner och bristtillstånd samt påverka läkemedelsupptag.
+5. Omprövning av stående paracetamolbehandling
+Sedan målets lansering 2024 ligger förskrivningen lika högt som tidigare år. Kalmar ligger högt i riket, med recept till var sjunde invånare i länet och till varannan dospatient. Paracetamol har ingen effekt mot kroniska ryggsmärtor och marginell effekt på artros, men bidrar till tablettbördan och kan höja blodtrycket vid hypertoni.
+Mer information i läkemedelsnytt 2024-04-29
+.
+Har patienten stående paracetamol i läkemedelslistan, överväg att minska antalet dostillfällen eller att byta till vid behovsbehandling. Målet är en minskning med 20 % för att nå rikssnittet.
+6. Minskad förskrivning av hostmediciner - NYTT
+Hostmediciner fungerar dåligt men kan fördröja utredning, tar resurser från vård och hushåll och kan leda till biverkningar och i vissa fall dödsfall. Sydöstra sjukvårdsregionen avråder från förskrivning vid akut eller kronisk hosta vid icke komplicerade fall. Förskrivningen av hostmediciner bör minska under 2026.
+Läkemedelsnytt 2025 - tema hostmediciner avrådan
+Sydöstra sjukvårdsregionens avrådan från hostdämpande eller slemlösande läkemedel vid hosta
+7. God hushållning: följ spartipsen!
+Makrogol Junior endast för barn under 1 år
+Välj Orion vid förskrivning av
+pregabalin
+gabapentin
+levetiracetam
+lamotrigin
+mesalazin
+Biosimilar Uzpruvo eller Steqeyma vid förskrivning av ustekinumab.
+Biosimilar Erelzi vid förskrivning av etanercept
+Ingen förskrivning av rivastigmin tabletter (depotplåster går bra)
+Utgå från ordinationsmallarna i Cosmic.
+Bufomix, Braltus och Abasaglar är nu etablerade val och har därför utgått. Bra jobbat! Insulin lispro Sanofi har en pågående restsituation och ska inte förskrivas under 2026. Även insulin aspart Sanofi riskerar att gå i rest om nyförskrivningen ökar stort.
+Innehållsansvarig läkemedelsnytt:
+Fredrik Hagerman
+, ordförande i Läkemedelskommittén
+2025
+Nr 3 december - Tema hostmediciner - avrådan
+Utskriftsversion av nyhetsbrevet
+Temanummer hostmediciner - avrådan
+Hosta är en vanlig orsak till att patienter kontaktar sjukvården, särskilt under vintern. Hosta kan vara en del av akuta tillstånd, såsom virusorsakad övre luftvägsinfektion eller pneumoni, eller kroniska tillstånd, såsom astma, allergi, KOL, hjärtsvikt, lungcancer eller refluxsjukdom. Hostan upplevs ofta besvärlig, men är en funktionell reflex för att få upp slem och partiklar från luftvägarna, och i samband med luftvägsinfektioner utgör hostan en viktig del av immunförsvaret.
+Region Kalmar län har i Sydöstra sjukvårdsregionen – tillsammans med Jönköping och Östergötland – beslutat om en gemensam avrådan från förskrivning av hostmediciner. Det gäller både hostdämpande och slemlösande läkemedel. Flera andra regioner har tidigare gått ut med liknande rekommendationer.
+Avrådan från hostdämpande eller slemlösande läkemedel vid hosta - Sydöstra sjukvårdsregionen
+Varför en avrådan?
+Orsakerna till denna avrådan från hostmediciner är att de aktuella läkemedlen sällan bedöms ha en nytta-riskvärdering som motiverar förskrivning:
+Symtomatisk behandling av hosta riskerar fördröja utredning och behandling av underliggande tillstånd.
+Hostmediciner kan ha potentiellt allvarliga biverkningar och vissa medför en risk för missbruk. Risken för biverkningar är mer uttalad hos barn och sköra äldre patienter.
+Den vetenskapliga evidensen för hostmediciner är svag och effekten sällan bättre än placebo.
+Utöver ovanstående är hostmediciner ofta dyra för patienterna och saknar för det mesta förmån.
+En viktig aspekt är att frigöra tid och resurser för vården. Bara i Region Kalmar län förskrevs under förra året 18.000 recept på hostdämpande och slemlösande hostmediciner, för drygt 6 miljoner kronor. Hanteringen av de förskrivningarna tar tid och resurser, som vården i stället skulle kunna lägga på högre prioriterade och mer evidensbaserade insatser som ger större patientnytta.
+Gemensam rekommendation:
+Förskriv inte hostmediciner - varken hostdämpande eller slemlösande - till akut eller kronisk hosta i de flesta fall.
+Bedömningen är alltid individuell och undantag kan göras, till exempel vid vård i livets slutskede eller andra särskilda fall. Bakomliggande orsaker ska givetvis utredas vid behov.
+Råd till patienter
+Egenvårdsråd som kan prövas vid akuta besvär är att dricka rikligt med vätska, gärna varma drycker, eventuellt med honung i (dock ej till barn under ett år). Fysisk aktivitet kan bidra till att mobilisera slem och höjd huvudända kan vara gynnsamt nattetid.
+På 1177 finns patientinformation som kan skrivas ut, sparas ner eller skickas som länk
+.
+Exempel på receptbelagda läkemedel
+Hostdämpande:
+Etylmorfin (Cocillana-Etyfin, Lepheton) påverkar opioidreceptorer i centrala nervsystemet. Metaboliseras via enzymerna CYP2D6 och 3A4, vilket innebär oförutsägbar effekt och risk för läkemedelsinteraktioner. Vanliga biverkningar är illamående, kräkningar, förstoppning och kramp i gallvägarna. Missbruk förekommer och oavsiktliga dödsfall har skett.
+Noskapin (Nipaxon) och Pentoxiverin (Biseltoc): Enligt FASS central icke-narkotisk hostdämpande effekt, men övertygande evidens saknas.
+Slemlösande:
+Ett problem med perorala slemlösande läkemedel är att koncentrationen i luftvägarna blir för låg för att utöva någon signifikant slemlösande effekt där:
+Acetylcystein: Saknar dokumenterad effekt vid hosta och anses inte längre vara indicerat vid KOL i normalfallet. Enligt FASS saknar den orala lösningen mukolytisk effekt i luftvägarna. Varje brustablett innehåller dessutom mellan 100 och 200 mg natrium, vilket kan vara negativt för vissa patientgrupper.
+Bromhexin (Bisolvon): Ska minska slemmets viskositet, men mekanismen är inte helt belagd och evidensen tveksam. Mollipect, Etrilect och Mollisupradin innehåller förutom bisolvon även efedrin, med centralstimulerande effekt på adrenerga alfa- och betareceptorer och biverkningar som hjärtklappning, högt blodtryck, sömnlöshet och miktionsbesvär.
+Guaifenesin (Nipenesin, Theracough): Liknande mekanism som bromhexin. Svag och motstridig evidens.
+För ytterligare läsning och källor, se
+Avrådan från hostdämpande eller slemlösande läkemedel vid hosta - Sydöstra sjukvårdsregionen
+Notiser
+Höjt högkostnadsskydd
+Sedan 1 juli 2025 har högkostnadsskyddet höjts till 3800 kr. Viktigt att notera är att rabatterna inte träder in förrän efter 2000 kr. Tidigare har det varit 1100 kr. Observera att samtliga apotek ska kunna erbjuda avbetalning till patienter utan betalnings-anmärkningar.
+Avrådan från privat dos
+Läkemedelskommittén avråder från att ansluta en patient som vill ha dosdispensering från privat aktör. Om medicinskt behov finns, anslut till regionens upphandlade dosdispensering.
+Ökat antal samtal om lustgasförgiftningar
+Giftinformationscentralen har noterat fler samtal om lustgasintoxikationer, med risk för permanenta neurologiska skador (till följd av B12-brist). En ny lag har trätt i kraft som förbjuder försäljning i berusningssyfte, samt begränsar försäljningsmängden till två mindre behållare. Observera att B12-bristen är funktionell och att homocystein ska väljas vid provtagning, inte kobalaminer.
+Nya kunskapsunderlag i janusmed fosterpåverkan
+Janusmed fosterpåverkan har fått ytterligare kunskapsunderlag. Tidigare har rekommendationer baserats på intervjuer från mödravården samt litteraturdata. Från och med 2025 kan janusmed även hämta data från läkemedel uttagna under senare delen av graviditeten och knyta till utfall vid förlossning. Kunskapsunderlagen uppdateras successivt.
+Exponering av hormonbehandling hos anhöriga
+Barn och husdjur kan oavsiktligt exponeras för lokal könshormonbehandling genom beröring, enligt en rapport från Läkemedelsverket, som sammanfattas i Läkartidningen. Flera fall beskrivs av pubertala förändringar hos barn med föräldrar som behandlats. Det är viktigt att informera om korrekt läkemedelshantering i samband med insättning.
+Risker vid sekundär exponering för hormonläkemedel - Läkartidningen
+Nytt FASS.se
+FASS.se har ändrat utseende. Det är nu lättare att söka fram läkemedel utifrån styrka och beredningsform. Den nya grund-vyn kallas för FASS-vy och där finns bland annat information om pris och miljöpåverkan, samt instruktionsfilmer för patienter. Funktionen för lagerstatus har förbättrats och visar fler apotek i fallande ordning. Det går även lättare att söka efter utbytbara förpackningar.
+Utgå från produktresumé när du vill hitta information om ett läkemedel. Den gamla FASS-texten finns än så länge kvar som en egen flik, men planeras att fasas ut så småningom.
+Innehållsansvarig för nyhetsbrevet:
+Fredrik Hagerman, ordförande i Läkemedelskommittén
+Nr 2 maj - Tema läkemedel och njurfunktion
+Utskriftsversion av nyhetsbrevet
+Temanummer Läkemedel och njurfunktion
+Beslutsstödet Janusmed Njurfunktion är tillgängligt över hela landet sedan 2023. Förhoppningsvis integreras det i Cosmic på sikt, men än så länge når vi det genom
+webbsidan janusmed.se/njurfunktion
+.
+Janusmed njurfunktion innehåller rekommendationer för behandling och dosjustering utifrån absolut njurfunktion (mL/min). Det finns även information om läkemedelsbehandling vid dialys. I bakgrundsinformationen finns sammanfattningar med referenslista som ligger till underlag för rekommendationen.
+Du behöver inte fylla i patientdata.
+Även om beslutsstödet efterfrågar patientinformation såsom ålder, kön och labbvärden, behöver du inte fylla i det för att få tillgång till rekommendationerna. Genom att utgå från
+eGFR Läkemedel i labblistan
+, kan du klicka direkt på respektive flik (se bild) för olika njurskattningar för att få aktuella rekommendationer. Ett tips är att även klicka på närliggande flikar för att få en bild av hur läkemedlen beter sig vid snabba njurfunktions-förändringar, exempelvis vid dehydrering och återvätskning.
+Varningsrutan visar läkemedel som kan ge njurpåverkan och försämra njurfunktionen. Fördjupad information finns i varje enskilt fall.
+Klicka direkt på flikarna för att snabbt få rekommendationer för olika njurfunktioner. Varningstriangeln varnar för njurpåverkande läkemedel.
+Ny funktion: Läs in läkemedelslistan i Janusmed
+En ny funktionalitet har lagts till i Cosmic. I menyn för interaktioner i Cosmics läkemedelslista går det att med en knapptryckning föra över alla aktuella läkemedel i läkemedelslistan till Janusmed. Där finns tillgång till fler beslutsstöd än i Cosmic, exempelvis njurfunktion och riskprofil. Funktionen är idag endast tillgänglig när det finns en aktuell C-/ eller D-interaktion i Läkemedelslistan. Läkemedelskommittén arbetar för att den ständigt ska vara tillgänglig, men det kan dröja.
+Kreatinin eller Cystatin C – vad är skillnaden?
+Traditionellt har vi använt kreatinin för att skatta njurfunktionen. Metoderna har förbättrats under åren och standardiserats, men man måste också vara medveten om kreatininets svagheter. Kreatinin är beroende av muskelmassans storlek. Muskulösa personer har förhöjda nivåer av kreatinin, medan äldre med låg muskelmassa har lägre nivåer av kreatinin. Vidare medför intag av kokt kött eller kosttillskottet kreatin ökade nivåer av kreatinin. Kreatinin har nackdelar som markör för GFR i situationerna ovan, och vid låg muskelmassa ses således överskattning av GFR (och vice versa). GFR-ekvationerna med kreatinin tar hänsyn till etnicitet. Vidare förekommer viss tubulär sekretion av kreatinin, så det är inte en ideal markör för GFR.
+Cystatin C är en annan filtrationsmarkör som har många fördelar. Eliminationen sker enbart via glomerulär filtration och plasmanivån avspeglar väl GFR. Ingen tubulär sekretion sker och markören påverkas ej av etnicitet. Cystatin C utsöndras med konstant hastighet från alla kärnförande celler och är således ej beroende av muskelmassan. Cystatin C påverkas ej av dieten.
+Cystatin C är bättre än kreatinin i de fall då GFR är lätt sänkt. Man upptäcker alltså tidigare nedsatt njurfunktion med cystatin C. GFR som bestäms med cystatin C fungerar utmärkt även på barn.
+Cystatin C är också mer lämpligt hos äldre, speciellt de som är mestadels sittande eller liggande, där sänkt muskelmassa gör GFR-bestämning med kreatinin osäker.
+Det finns också nackdelar med cystatin C. Produktionen från cellerna ökar vid behandling med höga doser steroider och cystatin C blir därmed falskt förhöjt. Cystatin C påverkas även vid hypotyreos och hypertyreos men dessa förändringar reverseras när patienten åter är eutyreoid. Vid spridd cancer, bör man vara försiktig med cystatin C, då omfattande cellsönderfall kan ge förhöjda nivåer av cystatin C.
+Provtagning för cystatin C är något dyrare än kreatinin. I Region Kalmar län används företrädesvis kreatinin för att skatta GFR, men cystatin C användningen bör öka. I vissa kliniska sammanhang är det extra viktigt att få en korrekt bedömning av GFR och det gäller vid behandling med de läkemedel som utsöndras via njurarna. Med analysen eGFR medel beräknas GFR med både kreatinin och cystatin C. GFR-bestämningen är tillförlitlig om skillnaden är liten mellan eGFR cystatin C och eGFR kreatinin, men skiljer det mycket och det finns ett starkt behov av ett helt korrekt GFR, måste GFR bestämmas med Iohexolclearance.
+Innehållsansvarig:
+Tom Lundahl, överläkare Klinisk kemi och Transfusionsmedicin
+Dosering av läkemedel utifrån njurfunktion (eGFR)
+Använd Janusmed Njurfunktion eller regionens beslutsstöd som stöd kring läkemedel som påverkas av nedsatt njurfunktion.
+Beställ eGFR Läkemedel (absolut eGFR, mL/min) när du ska dosera läkemedel mot FASS. Patientens vikt och längd måste anges.
+Det finns många källor till osäkerhet för eGFR i Cosmic. Om patientens eGFR ligger nära ett gränsvärde, ta höjd för att patientens eGFR är annorlunda än vad Cosmic visar.
+Kreatininbestämd eGFR är inte alltid lämplig för vissa specialgrupper. Använd med fördel cystatin C hos barn och äldre som inte är mobiliserade.
+Var redo att pausa eller aktivt justera dosering vid tillfälligt nedsatt njurfunktion.
+Vad behöver jag tänka på?
+I FASS eller riktlinjer finns ofta ett eGFR angivet för dosering av läkemedel. Innan man doserar därefter, bör man beakta vissa saker. Här listar vi de vanligaste fallgroparna.
+Står det mL/min eller mL/min/1,73 m2?
+För att göra beräkningar av eGFR jämförbar mellan individer och hos samma individ över tid, ytnormeras värdet mot kroppsytan, relativ eGFR (mL/min/1,73 m2). Detta återspeglar dock inte patientens egen (absoluta) njurfunktion, absolut eGFR (mL/min).
+Vid kraftigt avvikande kroppsyta (från 1,73 m2) kan detta innebära stora skillnader mellan absolut och relativt GFR. För en patient som mäter 150 cm och väger 50 kg, är eGFR relativt cirka 20 % högre än eGFR, absolut. Om patienten i stället är 190 cm lång och väger 100 kg är eGFR relativt cirka 32% lägre än eGFR absolut. Var observant på om det är absolut eGFR (mL/min) eller relativt eGFR (mL/min/1.73 m2) som används vid doseringsrekommendationer i FASS eller i PM.
+Läkemedelskommittén rekommenderar att beställa eGFR Läkemedel (mL/min) på labblistan.
+Då erhålles både eGFR absolut läkemedel och eGFR relativt. Om det i FASS står mL/min, beställ eGFR absolut läkemedel. Om det står mL/min/1,73 m2 krävs ingen extra beställning. Nu finns även möjlighet att beställa eGFR medel relativ och absolut, som beräknar såväl relativ och absolut eGFR utifrån kreatinin och cystatin C.
+Hur kan jag tänka om patientens eGFR ligger nära ett gränsvärde?
+Ett eGFR i Cosmic
+är endast ungefärligt.
+Ungefär var femte person med nedsatt njurfunktion har ett sant GFR som ligger utanför 30 % av det beräknade värdet (p30). För ett beräknat eGFR på 50 mL/min/1,73 m2, har var femte patient antingen ett GFR under 35 mL/min/1,73 m2 eller över 65 mL/min/1,73 m2.
+Önskas ett något säkrare mått, kan man beställa ett beräknat eGFR utifrån medelvärdet av eGFR baserat på kreatinin och cystatin C. Så länge de inte markant skiljer sig åt, ger det ett något bättre estimat av patientens verkliga GFR. Endast var tionde patient faller då utanför 30%-intervallet, jämfört med var femte.
+eGFR-värden i FASS beräknas inte på samma sätt som i journalen.
+I FASS har eGFR av tradition beräknats enligt Cockcroft-Gault. Även om mer moderna formler för beräkning av eGFR kan användas för nyare läkemedel, används i FASS inte den formel som finns i Cosmic, den reviderade Lund-Malmö-formeln. För samma patient och kreatininvärde, kan skillnaden mellan olika ekvationer vara upp emot 30%. Även om vi skulle fastställa njurfunktionen med iohexol så kvarstår samma problem, eftersom läkemedelsbolagens riskbedömningar och beslutsgränser (cut-off) är baserade på gamla formler (i regel Cockcroft-Gault).
+Kliniska tillämpningar
+Den kliniska betydelsen av denna osäkerhet vid dosering av läkemedel är inte fastställd. Däremot måste den tas i beaktande, inte minst vid ordination av potentiellt njurtoxiska läkemedel, eller då effekten är beroende av njurfunktionen.
+eGFR som ligger nära en cut-off-gräns kan vara skäl för
+utökad uppföljning, eventuell preventiv dosjustering eller att säkerställa uppvätskning
+innan läkemedel ges.
+Kom ihåg att om patienten har en historik av kreatininstegring vid tillfällig dehydrering eller sjukdom, behöver en extra risk-/nytta-bedömning göras vid läkemedelsval eller dosering. Vad skulle hända om eGFR sjunker igen? Är behandlingen värd risken? Janusmed njurfunktion kan vara till stöd för sådana bedömningar, se ovan.
+Speciella patientgrupper
+Kroppsvikt – när kan vi lita på eGFR?
+Mellan BMI 20-39 kg/m2 bedöms relativt eGFR vara tillförlitligt enligt SBU. Om BMI ligger >40 kg/m2 är eGFR ett osäkert mått och kan inte tolkas. Vid BMI <20 kg/m2 ligger nästan varannan patient utanför 30 %-intervallet, ofta underskattat. Att använda idealvikt i eGFR-ekvationer rekommenderas inte, då det ofta varit mer osäkert än att använda totalvikt.
+Barn – vad ska användas?
+All beräkning av eGFR för barn bör ske med cystatin C. Nuvarande kreatininbaserade eGFR-beräkningar i Cosmic är inte tillförlitliga. Nyligen har en procedur för beräkning av eGFR hos barn baserat på kreatinin publicerats i Läkartidningen men denna har ännu inte blivit kliniskt implementerad.
+Så kan formel för vuxna skatta glomerulär filtration hos barn - Läkartidningen
+Kritiskt sjuka
+eGFR-bestämning vid akut njursvikt är svårtolkat. P-kreatinin hinner inte spegla de snabba växlingar som sker i njurfunktion, utan har åtminstone en 1-2 dagars latens. Kritiskt sjuka patienter kan även ha en ökad GFR (augmented renal clearance) med en ökad läkemedelsutsöndring av njurutsöndrande läkemedel. Lund-Malmö-formeln tenderar att underskatta normal eller förhöjd eGFR, vilket gör att eGFR-värdet i Cosmic inte speglar den aktuella ökade utsöndringen. Andra ekvationer kan möjligen användas, men ingen har god träffsäkerhet i att korrekt upptäcka ökad utsöndring (förhöjt GFR).
+Graviditet
+Redan vid slutet av första trimestern uppvisar kvinnor en cirka 50 % ökning i GFR mätt med inulin-, kreatinin- eller iohexolclearance, som sedan normaliseras post-partum. Detta avspeglas i regel inte i eGFR, eftersom Lund-Malmö-formeln för beräkning av eGFR underskattar normal eller förhöjd GFR.
+Inte alla läkemedel påverkas av en förändrad njurfunktion.
+Flera tabeller på njurutsöndrade läkemedel har tagits fram, exempelvis från Janusinfo:
+Beräkna och beakta njurfunktionen vid val och dosering av läkemedel
+,se fakturaruta 1.
+Mest evidenssäkert är att använda Janusmed Njurfunktion, se ovanstående artikel. I ordinationsmallarna i Cosmic har terapigrupperna ofta lagt in information om eventuell dosjustering vid njurfunktionsnedsättning.
+Vid intorkning är det främst njurfunktionsnedsättning som kan orsaka läkemedelsproblem. Använd därför gärna en lista över läkemedel som kräver uppehåll vid intorkning som vägledning för åtgärder vid akut njursvikt eller risk för sådan. Den sammanfattar vanliga läkemedel som kräver åtgärd vid en försämrad njurfunktion, samt vilka läkemedel som inte nödvändigtvis måste eller ska pausas men som kräver ökad observation.
+Se lista över läkemedel som kräver uppehåll vid intorkning
+Hantering vid tillfälligt nedsatt njurfunktion
+Pausa tidigt läkemedel som påverkar njurfunktionen negativt
+Säkerställ uppvätskning
+Överväg byte till levermetaboliserande läkemedel med inaktiva metaboliter, om sådana finns.
+Minska dosen eller förläng dosintervallet.
+Kom ihåg att koncentrationen av vissa läkemedel direkt följer GFR. Till exempel för enalapril kommer förändringar i njurfunktion proportionellt även förändra koncentrationen i blodet trots samma dos. För sådana läkemedel blir korrekt patientinformation om behov av uppehåll eller adekvat vätskeintag extra viktig. Om rätt ordinationsmall används har vissa läkemedel information om uppehåll vid risk för intorkning på receptet eller i läkemedelslistan.
+Innehållsansvariga:
+Tobias Damgaard, leg. apotekare, Läkemedelssektionen, doktorand samt Anders Isaksson, överläkare Klinisk kemi och transfusionsmedicin, docent
+Uppdaterade anafylaxidokument
+Våra anafylaxidokument har uppdaterats, utifrån ett nytt nationellt vårdprogram för anafylaxi med nya behandlingsriktlinjer från Svensk förening för allergologi (SFFA). I korthet:
+Adrenalin intramuskulärt, upprepas var 5:e minut vid behov.
+Salbutamol (luftrörsvidgande ): Alternativ även för spray administrerat med spacer.
+Kortison rekommenderas inte längre till alla vid anafylaxi, utan endast till patienter med astmasymtom, när de är stabila i övrigt.
+Antihistamin i tre dagar efter anafylaxi. Läkemedelsmall finns.
+Kortison ges endast som astmabehandling och inte som behandling av allergi/anafylaxi, dvs endast till en astmapatient med astmasymtom när patienten stabiliserats i övrigt. Behandling med kortison är inte en del av den akuta behandlingen och det är därför inte bråttom med behandlingen.
+Om patienten är obstruktiv behandlas detta vid anafylaxi med adrenalin intramuskulärt i första hand och salbutamol inhalation i andra hand.
+Det finns precis som tidigare två anafylaxi-dokument, ett ordinarie och ett förenklat, då viss utrustning saknas exempelvis i patienthem och vid poliklinisk verksamhet.
+Anafylaxi flödesschema
+Anafylaxi förenklat flödesschema
+Anafylaxi Nationellt vårdprogram - Svensk förening för allergologi (SFFA)
+Notiser
+Insulin
+Flera kortverkande insuliner avregistreras under 2025, bl a Insulatard. Automatiskt byte sker inte på apotek. För förslag på lämpliga preparat att byta till, se sidan för restsituationer, ordinationsmallar i Cosmic eller REK-listan.
+Restsituationer
+Rekommenderade läkemedel
+Ozempic nu åter tillgängligt för diabetiker
+Ozempic finns nu tillgängligt i samtliga styrkor, med god prognos. Utgå från behandlingsalgoritmen för att utvärdera om GLP-1-analog kan vara aktuell för en diabetespatient. Överväg byte från Rybelsus till Ozempic, nu när tillgången åter är god. Observera att Ozempic inte ska förskrivas vid indikation obesitas. Se uppdaterat förskrivarstöd obesitasläkemedel för alternativ vid den diagnosen.
+Rekommenderade läkemedel endokrinologi
+Obesitasläkemedel - förskrivarstöd Region Kalmar län
+Leverskada fezolinetant (Veoza)
+Läkemedelsverket varnar för att Veoza, ett nytt läkemedel vid vasospasm i samband med menopaus, har påvisats ha en ökad risk för leverskador. Vid eventuell förskrivning, kontrollera leverprover före behandling och månadsvis de första tre månaderna.
+Furosemid subkutant i palliativt paket i Cosmic
+För att underlätta vid ordination av palliativa läkemedel i hemsjukvård, ligger subkutan administrering förvald i ordinationspaketet i Cosmic, då det inte alltid är möjligt att sätta en infart. Önskas intravenös administrering, bocka ur förvald mall och välj mall för intravenös administrering i stället.
+Infusionsvätskor tillbaka
+Tillgången till infusionsvätskor är nu normaliserad. Tidigare begränsningar är därmed inte längre aktuella.
+Innehållsansvarig för nyhetsbrevet:
+Fredrik Hagerman, ordförande i Läkemedelskommittén
+Nr 1 februari - Höjdpunkter i REK-listan och läkemedelsmål  2025
+Utskriftsversion av nyhetsbrevet
+Höjdpunkter i REK-listan 2025
+Allergi
+Anafylaxi
+– nya algoritmer: Kortison endast vid astma, adrenalin var 5:e minut, antihistamin i 3 dagar efteråt, alternativa inhalationer för spacer.
+Flödesschema anafylaxi
+Adrenalinpenna:
+Välj Jext före Epipen. Bättre pris.
+Lecrolyn
+vid val av natriumkromoglikat
+Astma – KOL
+ICS/LABA
+har delats upp i ICS + LABA/FABA samt ICS + LABA för att göra det lättare att hitta FABA.
+Behandlingsplaner astma/KOL
+finns nu i Cosmic.
+Barn och läkemedel
+Nya avsnitt
+om smärtsamma procedurer, förstoppning, urinvägsinfektion, springmask och krupp. Nya lathundar i bakgrundsmaterialet.
+Demens
+Donepezil
+när peroral kolinesterashämmare önskas. Undvik rivastigmin i tablettform.
+Diabetes
+Insulatard
+utgår under 2025. Humulin NPH kvar.
+Patientinformation
+för SGLT2-hämmare och Metformin i bakgrundsmaterialet.
+Endokrinologi
+Obesitas
+: Ny indikation i kapitlet med länk till förskrivarstödet, som är uppdaterat.
+Förskrivarstöd obesitasläkemedel
+Gynekologi
+Depo-provera
+tillagt som antikonception.
+PMDS:
+Drospirenoninnehållande p-piller tillagt.
+Hjärta – kärl
+Rivaroxaban
+nytt endosalternativ vid förmaksflimmer och venös tromboembolism.
+Hjärtsvikt
+: Glöm inte titrera upp basläkemedlen.
+Nytt bakgrundsmaterial
+om exempelvis osäker nytta av SGLT2-hämmare vid hjärtsvikt och normoglykemi.
+Hud
+Tolak
+i första hand vid aktinisk keratos. Kombinera gärna med mjukgörare.
+Nagelsvamp
+: Amorolfin nagellack i första hand och terbinafintabletter vid mer utbredda infektioner.
+Infektion
+Doxycyklin
+: åldergräns borttagen för barn med PC-allergi vid behandling av erytema migrans. Än så länge kvar vid pneumoni och bettinfektioner.
+Osteoporos
+Uppdaterat vårdprogram:
+Tydligare algoritm, till exempel uppföljning efter avslutad behandling.
+Vårdprogram osteoporos
+Patientinformation
+för zoledronsyra och denosumab.
+Denosumab
+endast då bisfosfonat är kontraindicerat (förtydligande).
+Psykiatri
+Duloxetin
+nytt alternativ vid ångestsyndrom.
+Smärta – inflammation
+B
+rufen retard
+ersätter Orudis retard vid behov av långverkande COX-hämmare.
+Celecoxib
+hellre än etoricoxib vid behov av COX 2-hämmare, på grund av lägre kardiovaskulär risk.
+Giktprofylax
+: febuxostat möjligt alternativ om allopurinol är kontraindicerat. Högre kostnad.
+Tänder – munhåla
+TePe
+ersätter Proxidents produkter mot muntorrhet. Fria handelsvaror, förskrivs ej.
+Äldre och läkemedel
+Melatonin
+depottablett nytt alternativ vid sömnbesvär. Ingår inte i förmånen.
+Ögon
+Tårsubstitut
+rekommenderas receptfritt då sjukdom ej föreligger. Vid förskrivning, välj ögondroppar utan konserveringsmedel.
+Öron, näsa, hals
+Extern otit:
+Terracortril med Polymyxin B endast vid infektionstecken. Annars rena kortisondroppar, exempelvis Otazem.
+Läkemedelsmål Region Kalmar län 2025
+1. Minskad förskrivning av beroendeframkallande läkemedel
+(opioider, bensodiazepiner, bensodiazepinliknande sömnmedel och pregabalin).
+Förskrivningen fortsätter minska i regionen, med 6% under 2024. Eftersom övriga regioner ser liknande minskning ligger vi fortfarande högre än riket. Målet att nå rikssnittet kvarstår, vilket innebär en ytterligare minskning med 20 %.
+a.
+Morfin rekommenderas före oxikodon om njurfunktionen tillåter. En tydlig förändring har skett sedan 2022. År 2024 hade över 50 % av patienter morfin, jämfört med endast 20 % år 2022. Samtidigt står oxikodon för ca 78% av DDD, vilket talar för att patienter med oxikodon står på längre behandlingar och högre doser. Målet höjs så att 80 % av individer står på morfin.
+b.
+Tramadol ska inte nyförskrivas. pga biverkningsprofil och utsättningsproblematik. Nyförskrivningen fortsätter minska stadigt, med 219 individer 2024, jämfört med 323 individer 2023. Vi fortsätter arbetet mot en nollvision.
+2. Följsamhet till Stramas rekommendationer för antibiotika
+a.
+Kalmar fortsatte öka sin antibiotikaförskrivning 2024 och ligger strax över riket på 278 recept/1000 invånare. Målet på 250 recept/1000 invånare kvarstår, dvs en minskning med cirka 9 %.
+b.
+Kinolonanvändningen har minskat med cirka 8 % jämfört med 2023, vilket är glädjande. Dessa läkemedel är miljöbelastande och behöver fortsatt användas selektivt. Förskrivning och rekvirering av kinoloner bör därför inte öka under 2025.
+3. Benspecifika läkemedel till patienter med osteoporosfraktur
+Andelen patienter med benspecifika läkemedel inom ett halvår har tyvärr minskat jämfört med 2023. I slutet av 2024 låg vi på endast 30 %, där den tydligaste minskningen sågs bland män med osteoporosfraktur. Det nationella målet på 60 % kvarstår även i regionen, men det krävs ett stort gemensamt arbete för att nå dit.
+4. Minskad förskrivning av protonpumpshämmare (PPI)
+Förskrivningen av omeprazol har endast minskat marginellt med 1,4 %, men dessvärre ser vi en ökande andel av förskrivet esomeprazol. Esomeprazol bör endast förbehållas särskilda indikationer och kan ofta ersättas med omeprazol. Då onödig förskrivning kan orsaka infektioner, bristtillstånd och påverka läkemedelsupptag, behåller vi målet för 2024 att förskrivningen av PPI ska minska till rikssnittet, för närvarande en minskning på 20 %. Glöm inte att använda de hjälpmedel som finns i form av ordinationsmallar för utsättning i Cosmic samt
+patientinformation om protonpumpshämmare.
+5. Omprövning av stående paracetamolbehandling
+Sedan målets lansering 2024 ligger förskrivningen lika högt som tidigare år. Kalmar ligger högt i riket, med recept till var sjunde invånare i länet och till varannan dospatient. Paracetamol har endast påvisad effekt vid vissa indikationer. Det kan samtidigt höja blodtrycket (se Läkemedelsnytt nr 2 2024). Utöver detta tillkommer tablettbörda, onödiga utdelningstillfällen och stora läkemedelskostnader. Ser ni stående paracetamol i läkemedelslistan, överväg utsättning, dosminskning eller byte till vid behovsbehandling. Målet är en minskning med 20% för att nå rikssnittet.
+6. God hushållning: följ Läkemedelskommitténs spartips!
+Alla läkemedel byts inte på apotek utan kräver aktivt byte av förskrivaren. Se över vad som förskrivs på er enhet. Glöm inte heller att ordinera rätt preparat på avdelningarna, eftersom de ofta följer med som recept vid utskrivning.
+Använd ordinationsmallarna i Cosmic
+. Några spartips:
+Bufomix istället för Symbicort
+Braltus istället för Spiriva Handihaler
+Insulin lispro istället för Humalog
+Insulin aspart istället för Novorapid
+Abasaglar istället för Lantus
+Makrogol Junior endast för barn under 1 år
+Välj Orion vid förskrivning av
+pregabalin
+gabapentin
+levetiracetam
+lamotrigin
+Biosimilar Hykundra, Hyrimoz, Imraldi eller Idacio vid förskrivning av adalimumab
+Ingen förskrivning av acetylcystein vid KOL
+Ingen förskrivning av rivastigmin tabletter (depotplåster går bra)
+Användningen av biosimilarer har ökat mycket, vilket är lovvärt. För exempelvis adalimumab har det inneburit att kostnaden minskat med 3 miljoner på 3 år, samtidigt som 25% fler får behandling.
+2024
+2024-12-20: Reflektion över 2024, önskelista apotek
+2024 – ett utmanande år
+2024 har varit ett utmanande år för oss förskrivare, med restsituationer som kommit och gått, en flod av nya kunskapsstöd och sparkrav som påverkat många verksamheter. Läkemedelskommitténs sida om restsituationer har seglat upp som en av våra mest besökta, och vi utvecklar innehållet löpande. Läkemedelsverket har också under året lanserat en ny webbplats för restanmälda läkemedel. En viktig restsituation, som nu tack och lov är avslutad, är de propplösande läkemedlen Actilyse och Metalyse, där ett stort arbete har gjorts både nationellt, regionalt och lokalt ute på de aktuella klinikerna.
+Läkemedelskommitténs sida om aktuella restsituationer
+Restsituationer - Läkemedelsverket
+Läkemedelskommittén har under året arbetat aktivt med de opererande klinikerna i Kalmar och Västervik när det gäller smärtbehandling, och där sett stora förändringar i förskrivningen när det gäller val av opiod och behandlingstid. För våra patienter innebär det minskad risk för biverkningar och beroendeutveckling. Bra jobbat!
+Vi har under året tillsammans med 11 andra regioner tagit fram en uppdaterad broschyr om läkemedelsbehandling av de mest sjuka och sköra äldre. I ett läkemedelsnytt konstaterade vi att Kalmar är en av de bästa regionerna i Sverige när det gäller att undvika polyfarmaci och mindre lämpliga läkemedel till denna patientgrupp. Glädjande läsning!
+Läkemedelsbehandling av de mest sjuka och sköra äldre - broschyr
+En fråga som många förskrivare stött på under året är obesitasläkemedel. Stort medialt intresse har väckts av GLP-1-analogerna, som inneburit en smärre revolution i behandlingen av diabetes och övervikt. Tyvärr har en global restsituation gjort att Läkemedelsverket flera gånger gått ut och vädjat att de läkemedel som är avsedda för diabetes inte bör förskrivas off-label för viktnedgång. För att stötta i beslutsfattandet lanserade vi i somras ett förskrivarstöd för obesitasläkemedel, som varit uppskattat och snart kommer uppdateras med nya läkemedel.
+Förskriv inte diabetesläkemedel mot viktnedgång - Läkemedelsverket
+Obesitasläkemedel - förskrivarstöd Region Kalmar län
+Vi har under året genomfört diverse utbildningar, bland annat
+Verktygslåda för förskrivare
+, som fick höga betyg av allmänläkarna på FAM och Träffpunkt allmänmedicin. Det handlar om konkreta tips i Cosmic och Pascal, som gör det dagliga arbetet lite lättare och effektivare. Näst på tur är medicinkliniken, geriatriken och infektion i Kalmar och vi planerar för en videoversion av utbildningen.
+Sist men inte minst har kollegorna i både kommittén och i våra terapigrupper gjort ett fantastiskt arbete under året. Stort tack för ert engagemang! Vi håller som bäst på att färdigställa 2025 års REK-lista och ser fram emot att berätta mer på Kliniken informerar den 31 januari.
+Till dess önskar vi från Läkemedelskommittén er alla en God Jul och ett Gott Nytt År!
+/Fredrik Hagerman, ordförande Läkemedelskommittén och specialist i allmänmedicin
+Önskelista från apoteket
+Makulera gamla recept via Cosmic innan du skickar nya samt vid avslutad behandling och vid byte av styrka
+Ett recept är inte att betrakta som patientens egendom. Det krävs inget samtycke från patienten för att makulera recept men patienten ska informeras om vilket recept som makuleras.
+Förskrivare får makulera en annan förskrivares recept, så länge man har förskrivningsrätt för det aktuella läkemedlet. Observera att pop-rutan inte kommer upp vid byte av styrka, utan det krävs att högerklicka såsom bilden visar.
+Skriv ut ordinationslistan vid besök och ge patienten
+Apoteket kan då stämma av så att aktuella recept stämmer överens med aktuella ordinationer.
+Använd Förskrivningskollen i stället för att kontakta apoteken vid frågor om uttag kvar på recept
+Information om förskrivning och uthämtade läkemedel på apotek syns i Förskrivningskollen, om du är legitimerad vårdpersonal eller AT-läkare och har tillgång till ett SITHS-kort. Informationen hämtas från registret Nationella läkemedelslistan och är alltså inte journalinformation.
+Observera att samtycke krävs innan du går in i förskrivningskollen!
+Om patienten har dosdispenserade läkemedel, syns antal uttag kvar i Pascal när det gäller helförpackningar.
+Meddela apoteket när C- eller D-interaktion beaktats
+Apoteken får samma interaktionsvarning i sitt system som Cosmic, men ingen information om hänsyn har tagits till interaktionen. Om du på receptet skriver en kort notering (t ex Interaktioner OK) kan det spara telefonsamtal från apoteket.
+Notiser
+Subkutan furosemid i palliativa paketmallar
+Subkutant administrerat furosemid är nu förvalt i Cosmic när man ordinerar palliativa läkemedel (”palliativa kitet”). Om IV administrering önskas krävs manuell hantering vid val av ordination. Var noggrann att inte ordinera dubbelt. Vid subkutan administrering ges läkemedlet på två separata platser, instruktion till sköterska finns i mallen.
+Hantering av brist på flutikasonspray till barn
+Läkemedelskommittén har bett apoteken att beställa hem licenspreparat. Vi rekommenderar att ni använder mallen för originalpreparatet när ni skickar recept, då den innehåller information till apoteket om att det går bra att byta till valfritt licenspreparat. Ompröva samtidigt om patienten är gammal nog att kunna klara pulverinhalator, vanligtvis från 6 års ålder.
+Insulatard, Levemir och Actrapid avregistreras
+Novo Nordisk kommer att sluta tillverka Insulatard, Levemir och Actrapid, och justera sortimentet av Fiasp, Novorapid och Tresiba. Se REK-listan för behandlingsalternativ.
+Brist på infusionsvätskor
+Det är global brist på infusionsvätskor, pga produktionsstopp orsakade av extremväder i både Europa och USA. Vätskevagnarna på sjukhusen har märkts upp och samtliga berörda enheter jobbar aktivt med att få infusionsvätskorna att räcka till. Än så länge räcker våra vätskeförråd och marknadsläget ser ljusare ut inför 2025. Bristsituationen är dock inte över ännu och vi ber berörda enheter att fortsätta ert fina arbete med att minska förbrukningen när det är möjligt.
+Läs mer om restsituation infusionsvätskor
+Victoza avregistreras hösten 2025
+Liraglutid (Victoza) kommer långsamt fasas ut till förmån för sin veckoberedning semaglutid (Ozempic). Det finns inga planer på att sluta sälja Saxenda. Patentet för Victoza går ut, men inga biosimilarer är registrerade för försäljning i Sverige.
+Utskriftsversion Läkemedelsnytt 2024 - Önskelista apotek.pdf
+2024-06-27: Förskrivarstöd om obesitasläkemedel, värmetips, Rivaroxaban, Cosmictips
+Utskriftsversion av läkemedelsnytt
+Obesitasläkemedel – nytt förskrivarstöd
+Efterfrågan på läkemedel för viktnedgång har ökat explosionsartat, både i Sverige och globalt, med långvariga bristsituationer som resultat. Vården möter allt oftare patienter som efterfrågar läkemedel för viktnedgång och det är inte alltid lätt att veta vad som gäller. Läkemedelskommittén har därför tagit fram ett förskrivarstöd om obesitasläkemedel, som vi hoppas kunna vara till nytta i patientmötet. I stödet finns bland annat en lathund över de aktuella läkemedlen och kliniska råd om vilken plats i behandlingen som läkemedlen har.
+Obesitasläkemedel - förskrivarstöd
+Levnadsvanearbete är grunden
+Den mest beprövade, hälsosamma och biverkningsfria åtgärden för viktnedgång är levnadsvanearbete, i form av minskat kaloriintag och ökad fysisk aktivitet. Det är också grunden för all tilläggsbehandling. Länge var fetmakirurgi det enda effektiva alternativet.
+Numera finns flera läkemedel som visat effekt på viktnedgång och i vissa fall även på associerade riskfaktorer, såsom blodsocker och blodtryck. Läkemedelsbehandlingen bygger alltid på levnadsvanearbete, och olika individer svarar väldigt olika på läkemedlen. Behandlingen behöver därför utvärderas strukturerat och avslutas om behandlingsmålen ej uppnås. Studier visar att majoriteten av patienterna går upp i vikt igen om behandlingen avbryts, så det är ingen ”quick fix” utan i de flesta fall är läkemedelsbehandlingen långsiktig.
+Behandlingsarsenalen
+Det finns i Sverige fyra godkända läkemedel som stöd vid viktminskning för vuxna med fetma. Endast ett av läkemedlen (fettupptagshämmaren orlistat) ingår i förmånen och rekommenderas av Socialstyrelsen. De tre andra läkemedlen har en aptithämmande effekt, men rekommenderas alltså i nuläget inte av Socialstyrelsen. Det beror på att läkemedlen inte har bedömts som kostnadseffektiva av Tand- och läkemedels-förmånsverket (TLV).
+Fördubblad förmånskostnad
+Att TLV och Socialstyrelsen bedömt som de gjort beror på prisbilden, framför allt när det gäller den mest effektiva läkemedelsgruppen, GLP-1-analogerna. Just nu kostar till exempel liraglutid (Saxenda) cirka 31 000 kr per år och parallellimporterat semaglutid (Wegovy) cirka 43 000 kronor per år. Om GLP-1-analogerna ingick i förmånen skulle vi potentiellt få mer än en fördubbling av den kostnad som samhället i dagsläget betalar för samtliga läkemedel inom förmånen. Som systemet ser ut i dag har vi helt enkelt inte råd att subventionera de dyra viktminskningspreparaten.
+Tiden får utvisa om fler läkemedel mot obesitas kan komma att subventioneras och inkluderas i riktlinjerna.
+Intyg bör sällan prioriteras
+Fetma kan för vissa patienter ge en funktionsnedsättning och de har då möjlighet att ansöka hos Försäkringskassan om ekonomisk ersättning för merkostnader över 14 325 kronor per år. För ansökan krävs ett omfattande läkarintyg. Majoriteten av ansökningarna avslås och många intyg kräver komplettering. Således riskerar mycket läkartid att läggas på intyg som inte leder någon vart.
+Det finns inget lagstadgat krav på att utfärda dessa intyg och i förskrivarstödet är vi tydliga med vår bedömning att intygen inte bör prioriteras av den offentligt drivna sjukvården. Med det sagt kan det finnas enstaka fall där intyg är motiverat, utifrån funktionsnedsättningar och aktivitetsbegränsningar orsakade av fetman. I slutändan är det upp till varje verksamhet och förskrivare.
+Ytterligare läsning:
+Förskrivarstöd obesitasläkemedel Region Kalmar län
+Nationella riktlinjer: obesitas - Socialstyrelsen
+Förtydligad formulering av subventionsbegränsningen för GLP-1-receptoragonister - Tandvårds- och läkemedelsförmånsverket TLV
+Läkemedel och värme – råd för vården
+Förvaring av läkemedel i för höga temperaturer kan påskynda nedbrytningen av den aktiva substansen, vilket kan leda till en försämrad effekt.
+Vid risk för höga temperaturer i läkemedelsförråd:
+Övergå från veckovis till daglig avläsning och dokumentation av temperatur i läkemedelsförråd under varma perioder. Dokumentera temperaturen för att ha en möjlighet att göra en sammanfattande bedömning. Temperaturkontroll ska även utföras på andra ställen där läkemedel förvaras, exempelvis i akutvagnar eller behandlingsrum.
+Ta kontakt med Fastighetsdrift för eventuell installation av portabelt kylaggregat.
+Överväg att flytta läkemedel som är känsliga för höga temperaturer till ett annat rum med lägre temperatur (rummet måste uppfylla övriga krav på läkemedelsförråd).
+Besikta läkemedlen före användning
+Tecken till att läkemedlet kan ha påverkats:
+Fällningar (kan orsaka blodpropp). Granska gärna mot både mörkt och ljus bakgrund, exempelvis ett vitt och svart papper.
+Missfärgningar (tecken på att substansen börjat brytas ned).
+Andra avvikelser, till exempel konsistens och doft.
+Inspektionen bör även fortsätta efter en värmebölja: Inspektera känsliga läkemedel och kassera dessa vid tecken på fällning, missfärgning eller andra avvikelser.
+Effekter på läkemedel
+Vilka läkemedel som tål respektive inte tål förhöjda temperaturer är väldigt varierande, men följande gäller generellt för olika läkemedelsformer:
+Konventionella tabletter är generellt hållbara och klarar av både värme och kyla. Hög värme kan förkorta hållbarheten något.
+Brustabletter, munsönderfallande och buckala tabletter är känsliga för fukt och värme och det är extra viktigt att dessa förvaras i originalförpackning i rumstemperatur.
+Kapslar är generellt mer fuktkänsliga än tabletter.
+Lösningar, såsom orala lösningar, droppar och injektionslösningar är mest känsliga för värme och skall inspekteras extra noga före administrering om de förvarats i höga temperaturer. Kassera lösningen vid missfärgning, utfällning eller kristallbildning. All form av nedbrytning syns dock inte.
+Suppositorier är känsliga för värme. Smälta suppositorier är inte lämpliga att använda. Den aktiva substansen kan kristallisera och även reta slemhinnan i rektum.
+Krämer, lotioner, droppar och lösningar är mer känsliga än salvor för bakteriell och annan mikrobiologisk tillväxt, som kan öka vid högre temperaturer. Salvor och krämer kan få mer lättflytande konsistens vid värme, vilken återgår när temperaturen normaliseras.
+Vissa läkemedel som normalt förvaras i kylskåp är extra känsliga för temperaturavvikelser. Sådana läkemedel skall administreras så snart som möjligt efter uttag från kylskåp. Exempelvis biologiska läkemedel, vacciner, blodprodukter, antiserum, antikroppar, enzymer och interferoner.
+(Hämtad från Mittmedel nr 2 2024, anpassad för Region Kalmar län.)
+Notiser
+De flesta skolbarn klarar inhalationspulver
+Det finns en restsituation på flutikason i sprayform, som väntas fortsätta hela året för vissa styrkor. Det är därför extra viktigt att inte förskriva inhalationsspray till barn som klarar av pulverinhalator, vilket brukar vara ungefär vid skolstart, runt 6-7 års ålder. Sprayerna behöver gå till de patienter som inte klarar pulver, och sprayernas drivgas är dessutom klart mer miljöbelastande.
+Se vår restsida för information om licensalternativ och annat
+.
+Rivaroxaban med på REK-listan
+I och med att generiska alternativ nu finns för rivaroxaban (Xarelto), läggs det in på REK-listan som ett DOAK-alternativ som doseras en gång dagligen. Apixaban (Eliquis) är fortsatt förstahandsval på grund av en mer gynnsam blödningsprofil, särskilt hos sköra äldre, men rivaroxaban är ett bra alternativ till yngre, friskare patienter som önskar ta tabletten en gång om dagen. Observera att rivaroxaban tas till måltid, samt kräver dosreduktion redan vid måttligt nedsatt njurfunktion.
+Resa med läkemedel
+Inför sommaren kommer många frågor vad som gäller vid resa med läkemedel. Läkemedelsverket har tagit fram tre tips inför resan:
+Medicinen måste vara din
+Kolla upp vad som gäller
+Fråga i tullen. Om du är osäker – ”gå på rött”
+Mer information för patienten finns på
+Läkemedelsverkets hemsida
+samt
+Resa med läkemedel på 1177
+.
+Beställning av pappersrecept
+Även om förskrivning ska ske digitalt som huvudregel, finns det tillfällen där pappersrecept behövs som reservrutin. Varje enhet som förskriver läkemedel behöver ha
+giltiga pappersrecept enligt 2020 års utformning
+, där både vanliga och särskilda läkemedel förskrivs på samma blankett. Observera att blanketten ska vara gul. Det är upp till varje enhet att säkerställa att recept och etiketter med streckkod finns.
+Beställning görs hos Adda
+. Se sidan
+Riktlinjer och rutiner läkemedel
+för mer information och länkar. Är ni osäkra, kontakta
+lakemedel@regionkalmar.se
+.
+Diltiazem (Cardizem avregistreras)
+Diltiazem, en oselektiv kalciumantagonist, avregistreras under juni 2024. Information om behandlingsalternativ finns på
+sidan om restsituationer
+.
+Patientbroschyr om kassation av läkemedel
+I Region Kalmar läns Verksamhetsplan hållbarhet 2024-2026 ingår mål för att minska mängden läkemedel i miljön. Ett viktigt steg är att se till att överblivna läkemedel lämnas tillbaka till apotek. En informationsbroschyr har tagits fram för invånarna och är översatt till flera språk, för att underlätta att budskapet når fram till våra patienter.
+Broschyr - Lämna överblivna läkemedel (intranät, behörighet krävs)
+Makulera recept vid byte av styrka
+Kom ihåg att makulera det gamla receptet när du använder funktionen ”Byt styrka” i Cosmic. Det kommer ingen påminnelse om att makulera det gamla receptet, som när man sätter ut läkemedel. Flera recept med olika styrkor skapar en osäkerhet på apoteket, och kan leda till att patienten får fel styrka, eller ännu värre, att patienten tar dubbla behandlingar av samma läkemedel.
+Allt syns inte i dosfliken i Cosmic
+Avstämning mellan läkemedelslistan i Cosmic och Pascal görs ofta i dosfliken i Cosmic. Det är ett smidigt verktyg vid läkemedelsgenomgångar och in- och utskrivningar. Det finns dock fallgropar: Läkemedel vars recept nyligen gått ut eller där allt hämtats på receptet kan vara borta från denna lista, trots att patienten fortfarande tar läkemedlen. Kom därför ihåg att alltid klicka på Pascal-knappen för att säkerställa att du inte missar något viktigt.
+Innehållsansvarig för nyhetsbrevet är:
+Fredrik Hagerman
+, ordförande i Läkemedelskommittén.
+2024-04-29: Äldre, paracetamol, läkemedelslistor
+Utskriftsversion av läkemedelsnytt
+Uppdaterad broschyr om de mest sjuka och sköra äldre
+Läkemedelsbehandling till sjuka och sköra äldre är komplex och ofta dåligt studerad. Som stöd finns rekommendationer för de vanligaste diagnoserna samlade i en broschyr, som nyligen uppdaterats. Broschyren är resultatet av ett samarbete mellan 12 regioner, där Region Kalmar län varit representerad.
+Broschyrens fokuserar på handfasta råd utifrån evidens och klinisk erfarenhet. Varje kapitel är indelad i avsnitten:
+Vad bör behandlas
+Icke-farmakologisk behandling
+Vilka läkemedel kan användas
+Vilka läkemedel/kombinationer bör undvikas/ särskilt beaktas
+När/hur avsluta läkemedelsbehandling
+I inledningen beskrivs grundläggande principer vid läkemedelsbehandling av sköra äldre, såsom ”start low, go slow”, utsättning, njurfunktion, fallrisk, läkemedelshantering och symtomskattning.
+Några utvalda nyheter i denna upplaga:
+SGLT-2-hämmare bör användas med försiktighet och noga utvärderas till sköra äldre på grund av biverkningsprofilen.
+Se artikel i Läkartidningen om normoglykem ketoacidos.
+Smärtanalys bör alltid göras. Börja med låga doser och följ upp. Undvik opioider vid långvarig nociceptiv smärta utan noggrann och regelbunden uppföljning.
+COX-2-hämmare (t ex celecoxib) kan, i kombination med PPI, vara ett alternativ till sköra äldre patienter med behov av COX-hämmare och särskilt hög risk för ulcus.
+Beakta att insulin degludek (Tresiba) kan ge långdragen och svårbehandlad hypoglykemi. NPH-insulin är lämpligast vid samtida kortisonbehandling.
+Rivaroxaban bör särskilt beaktas, då studier talar för en ökad blödningsrisk. Nyinsättning vid eGFR<30 rekommenderas ej.
+Melatonin kan övervägas vid sömnstörning. Ingår inte i förmånen.
+Läs den uppdaterade broschyren Läkemedelsbehandling av mest sjuka och sköra äldre.
+Önskar ni egna tryckta exemplar, kan någon i verksamheten lägga en gemensam beställning till
+lakemedel@regionkalmar.se
+.
+Fördjupning läkemedel och äldre
+Region Stockholm har ett förnämligt temanummer om äldre i tidningen Evidens. Där kan man läsa om tablettens väg genom den åldrade kroppen samt få tips på hur man kan ta ett helhetsperspektiv i behandlingen.
+Läs tidningen Evidens nr 3-4 2023
+Kalmar i topp när det gäller förskrivning till äldre
+Region Kalmar län ligger bra till jämfört med andra regioner när det gäller flertalet indikatorer för god förskrivning till äldre. Jämfört med riket har vi både färre äldre med stort antal läkemedel och lägre nivå av mindre lämpliga läkemedel.
+Socialstyrelsen har sedan 2010 satt upp flera indikatorer för att visa på en god läkemedelsbehandling hos äldre, definierat som 75 år och äldre. I jämförelse med andra regioner ligger Region Kalmar län bra till.
+Kalmar har lägst andel äldre patienter som hämtat ut 10 eller fler läkemedel, ca 12,7 % jämfört med ett rikssnitt på 15 %. Regionen ligger också regelbundet bland de lägsta i Sverige avseende andel patienter som hämtat läkemedel som är mindre lämpliga till äldre (3-6:e plats), och användning av antipsykotika till äldre (3-5:e plats).
+Andelen äldre som hämtat ut ett mindre lämpligt läkemedel har sjunkit från 7,6 % år 2014 till 6,2 % år 2023. Under denna tidsperiod har fler substanser lagts till som mindre lämpliga (t ex kodein), och antalet äldre ökat med 31%. Men den största minskningen skedde mellan 2012 och 2014 i samband med att indikatorerna infördes. Under den perioden halverades förskrivningen.
+Skälen för de goda resultaten är många. Regionen har haft Socialstyrelsens indikatorer som målsättning i över ett decennium med utbildningsinsatser och uppföljning. Men det viktigaste arbetet har skett lokalt i primärvården, på sjukhusen och i länets kommuner. De goda resultaten talar för en fortsatt medvetenhet och ansträngning när det gäller att följa upp och sätta ut mindre lämplig behandling. I slutänden är det ett lagarbete som gjort att vi nått hit, och där vi kunnat hjälpa många äldre att undvika onödiga risker.
+Klicka på bilden för att se större.
+Källa: Sveriges kommuner och regioner, Vården i siffror samt regiondata hämtat från Qlikview.
+Nytt mål: ompröva stående paracetamol
+Paracetamol överförskrivs sannolikt som stående behandling. Förutom ökad tablettbörda för patienten, merarbete för vården och kostnader för regionen, finns vissa risker med behandlingen. Den är dessutom sällan effektiv vid långvarig smärta.
+Ett nytt läkemedelsmål för 2024 är att ompröva kontinuerlig behandling med paracetamol. I länet har var tredje patient över 75 år hämtat ut paracetamol på recept under första kvartalet 2024 och var tredje patient med dosförpackade läkemedel har stående paracetamol i dosrullen.
+Varför ompröva stående paracetamol?
+Evidensen för paracetamol är svag vid långvarig smärta. Till exempel har man i Cochrane-studier sett att paracetamol inte har bättre effekt än placebo vid lumbago och endast minimal effekt vid artrossmärtor.
+(Källa: Pharmacological treatments for low back pain in adults: an overview of Cochrane Reviews)
+Incidensen av paracetamolintoxikationer har ökat nationellt, vilket lett till att det inte längre säljs receptfritt i tablettform. Men även i terapeutiska doser visar nyare studier att blodtrycket kan stiga och att det kan finnas en viss ökad risk för njursvikt och GI-blödningar.
+(Källa:
+Long‐term adverse effects of paracetamol – a review
+).
+Det finns också tecken till central sensitisering, till exempel kan långvarig användning i hög dos mot huvudvärk leda till att värken blir läkemedelsutlöst.
+Andra orsaker till att ompröva behandlingen är merarbete för vårdpersonal samt en ökad risk att blanda ihop läkemedel. Behandlingen medför också en ökad tablettbörda, till exempel innebär full dos till en äldre patient 42 tabletter i veckan.
+Sist men inte minst, trots att paracetamol är relativt billigt, är det vårt 22:a dyraste läkemedel och kostar regionen över 8 miljoner kronor årligen.
+När är paracetamol lämpligt mot smärta?
+Det finns måttlig evidens för paracetamol vid akut nociceptisk smärta, såsom huvudvärk och öronvärk1. Det finns även en synergistisk effekt med COX-hämmare, som tillsammans kan minska behovet av opioider vid exempelvis postoperativ smärta. (Källa:
+Effect of Combination of Paracetamol (Acetaminophen) and Ibuprofen vs Either Alone on Patient-Controlled Morphine Consumption in the First 24 Hours After Total Hip Arthroplasty
+)
+Sammanfattningsvis
+Förnya inte bara receptet rutinmässigt på stående paracetamol, utan ompröva indikationen och följ upp aktivt med smärtskattning före och efter provutsättning eller dosminskning. Ändra gärna till behandling vid behov, som troligen dessutom ger en bättre upplevd effekt när läkemedlet väl behövs. Ställ frågan: Finns behandlingen där för att patienten behöver den, eller för att den alltid funnits där?
+Vilken läkemedelslista gäller? – kampanj i maj
+Det finns en stor förvirring bland patienter om vilken läkemedelslista som egentligen gäller – den från vården eller den från apoteket. Risken är att patienter utgår från fel läkemedelslista när de tar sina läkemedel.
+Under maj månad genomförs i Region Kalmar län en kampanj riktad till allmänheten för att informera om vilken läkemedelslista som gäller. Kampanjen består av information på väntrumsskärmar, på bussar i lokaltrafiken och i sociala medier. Det finns även foldrar som levereras till hälsocentralerna och som under maj månad gärna får lämnas ut tillsammans med aktuell läkemedelslista under besöket. Specialistmottagningar som önskar ha foldern kan kontakta oss via
+lakemedel@regionkalmar.se
+. Foldern är även utskrivbar och hittas i webbutiken och på vårdgivarwebben.
+Notiser
+Ny digital version av REK-listan
+Nu finns regionens lista Rekommenderade läkemedel tillgänglig i ett nytt digitalt format på vårdgivarwebben. Innehållet går att ta del av oavsett om man använder dator, surfplatta eller mobiltelefon. Bakgrundsmaterial, användbara länkar och resurser är inbyggt och lättillgängligt i varje kapitel. Den tidigare pdf-versionen ligger kvar och det tryckta häftet går att beställa som vanligt.
+Rekommenderade läkemedel 2024
+Tidsbegränsade opioidmallar i Cosmic
+Läkemedelskommittén har beslutat att ordinationsmallar i Cosmic för morfin och oxikodon kommer vara förinställda på 1 veckas behandling. Justera önskad längd på behandlingen med hjälp av Ordinationsdetaljer. Detta för att påminna om behovet av en individuell behandlingsplan.
+Metalyse vid ischemisk stroke
+Från den 1 maj används Metalyse (tenekteplas) som antitrombotisk behandling i stället för Actilyse (alteplas) vid akut ischemisk stroke i regionen. Bakgrunden är en långvarig bristsituation på Actilyse och ny behandlingsindikation för Metalyse. Metalyse fördelas enligt centralt beslut till de tre sjukhusen i länet och ordinationsmallarna i Cosmic är ändrade. Actilyse ska fortsatt användas mycket restriktivt och förbehållas exempelvis massiva lungembolier, vissa kärlkirurgiska interventioner och utvalda fall såsom central dialyskateter när övriga åtgärder är uttömda.
+Ketogan Novum försvinner
+Ketobemidon har länge funnits unikt på den skandinaviska marknaden. Pfizer har nu informerat om att de slutar med tillverkningen.
+Se sidan Restsituationer för behandlingsalternativ.
+Administrering i enteral sond – uppdatering
+Nu har regionens riktlinje för läkemedelsadministrering i enteral infart/sond uppdaterats. I den lokala riktlinjen finns råd kring ordination, iordningsställande/administrering, ocklusion samt uppföljning av behandlingen. Det finns även information kring vilka läkemedel som är lämpliga respektive olämpliga att administrera i enteral sond.
+Det uppdaterade kunskapsstödet är mer utförligt än tidigare och betonar bland annat en tydligare roll för ordinatören och behovet av en läkemedelsgenomgång vid byte till enteralt administrerade läkemedel.
+Se riktlinje för läkemedelsadministrering i enteral infart/sond
+Föreläsning om SGLT-2-hämmares plats i terapin
+Sjukvårdsregion Mellansverige planerar en föreläsningsserie om SGLT-2 och dess plats i terapin vid diabetes, hjärtsvikt och njursvikt. Föreläsningarna sker vid två separata dagar den 29/4 och 7/5.
+Information och anmälan finns här, och där kan innehållet även ses i efterhand.
+Fler bra inspelade föreläsningar om läkemedel och annat matnyttigt på Region Sörmlands samverkanswebb.
+Vill du vara med i en terapigrupp?
+Vill du vara med och underlätta för dina kollegor, samtidigt som du får fördjupad kunskap om terapier och läkemedelsarbetet? Var med i en terapigrupp!
+Vi söker just nu särskilt primärvårdsläkare till grupperna:
+Barn
+Neurologi
+Osteoporos
+Gynekologi
+Är du intresserad, kontakta oss via
+lakemedel@regionkalmar.se
+Innehållsansvarig för nyhetsbrevet är:
+Fredrik Hagerman
+, ordförande i Läkemedelskommittén.
+2024-02-13: Höjdpunkter i REK-listan och läkemedelsmål 2024
+Utskriftsversion av nyhetsbrevet
+Höjdpunkter i REK-listan 2024
+Allergi
+Akut urtikari
+a utan allmänpåverkan: Dubbel normaldos antihistamin för alla åldrar.
+Svår allergisk reaktion
+: Dosering 1 x 300 mg av tillgänglig adrenalinpenna för vuxna i öppenvård.
+Lecrolyn sine
+nytt alternativ vid ögonsymtom.
+Astma - KOL
+Omarbetat kapitel
+med gemensam preparatlista.
+Kombination ICS + LABA
+(tex Bufomix) får en större roll vid astma.
+LAMA
+alternativ även vid astma.
+Bevespi
+ny LABA+LAMA-spray, Ultibro utgår.
+Byte till spray
+och spacer övervägs på samma steg vid otillräcklig effekt av pulverinhalator.
+Acetylcystein
+rekommenderas INTE vid KOL.
+Diabetes
+Sitagliptin
+(DPP4-hämmare) alternativ till normalviktiga.
+Repaglinid
+(SU) kan prövas till äldre.
+Abasaglar och Toujeo
+likställs även vid typ 2 diabetes. Tresiba rekommenderas INTE.
+Endokrinologi
+D-vitamin:
+Tabletter i stället för kapslar. Tydlig indikation ska dokumenteras.
+Hjärta - kärl
+Järn intravenöst:
+Förtydligande att det är till symtomatisk hjärtsvikt (vid HFrEF). Observera att järnbrist definieras annorlunda än vid anemi.
+Hud
+Akne:
+Max en kur lymecyklin, överväg därefter remiss för ev isotretinoin (undvik fördröjning).
+Aktinisk keratos:
+Tolak kräm nytt alternativ.
+Svamp intertriginöst:
+Cortimyk i stället för Daktar.
+Infektion
+Regnbågshäftet
+och tabellen uppdaterade.
+Neurologi
+Epilepsi-läkemede
+l byts till synonympreparat vid restsituation. Står i mallarna som kommentar till apoteken. Fungerar inte om Ej utbytbar kryssats i.
+Restless legs:
+Järnbehandling viktig. Pramipexol helst intermittent, annars risk för augmentation.
+Osteoporos
+Nytt vårdprogram
+och nya algoritmer.
+Remiss för ev sekventiell behandling
+tydligare i algoritmen.
+Denosumab
+(Prolia) bör rekvireras på samma sätt som zoledronsyra.
+Psykiatri
+Depression:
+I normalfallet, testa två SSRI samt ett SNRI eller Mirtazapin innan remiss till psykiatrin.
+Nikotinberoende:
+Apo-varenicline finns som regionlicens, samma dosering som Champix.
+Smärta - inflammation
+Omarbetat kapitel
+med ny uppdelning.
+Akut icke-malign smärta:
+NSAID + paracetamol som första steg. Som opioid i första hand morfin kortverkande tablett i liten förpackning.
+Nociplastisk smärta
+(tex fibromyalgi, IBS): samma preparat som neuropatisk smärta men lägre doser.
+Oxikodon
+endast i undantagsfall (tex eGFR <30).
+Ketoprofen gel
+kan prövas vid tex knäartros.
+Paracetamol:
+Ompröva stående ordination.
+Tramadol
+rekommenderas INTE.
+Urologi
+Solifenacin
+ensamt förstahandsval vid överaktiv blåsa.
+Äldre och läkemedel
+Duloxetin
+alternativ vid oro/ångest samt recidiverande depression (ej vid eGFR <30).
+SGLT2-hämmare:
+Försiktighet till sköra äldre, särskilt vid nedsatt allmäntillstånd.
+Barn
+Helt nytt kapitel
+med allmänna råd.
+Barnmallarna
+och ePed rekommenderas.
+Dosera
+enligt vikt.
+Hostmediciner
+rekommenderas INTE.
+Öron, näsa, hals
+Extern otit
+: Otazem kvar, Locoid bort. Använd Cetraxal comp återhållsamt (odlingsverifierat) och undvik peroral antibiotika (resistensrisk).
+Läkemedelsmål Region Kalmar län 2024
+1. Minskad förskrivning av beroendeframkallande läkemedel
+(opioider, bensodiazepiner, bensodiazepinliknande sömnmedel och pregabalin)
+Förskrivningen fortsätter minska i regionen med mellan 3-9%. Eftersom övriga regioner ser samma minskning ligger regionen fortfarande högre än riket. Målet att nå rikssnittet kvarstår, vilket innebär en ytterligare minskning med 20%.
+Morfin rekommenderas före oxikodon om njurfunktionen tillåter. På grund av beroendepotentialen hos oxikodon bör användningen förbehållas patienter där morfin är olämpligt. Målet är att inte förskriva mer oxikodon än morfin.
+Tramadol ska
+inte
+nyförskrivas pga biverkningsprofil och utsättningsproblematik. Sedan tidigare rekommenderas inte heller kodein, pga osäker individuell effekt. Vid uttalad smärta, använd i stället lågdos av stark opioid enligt ovan.
+2. Följsamhet till Stramas rekommendationer för antibiotika
+Sverige har fortfarande ett fördelaktigt resistensmönster internationellt sett, mycket tack vare arbetet med att följa Stramas rekommendationer. Använd ordinationsmallar i Cosmic och Strama Nationell-databasen, som båda innehåller uppdaterat kliniskt stöd.
+Kalmar ökade sin antibiotikaförskrivning 2023 och ligger strax över riket på 274 recept/1000 invånare. Målet på 250 recept/1000 invånare kvarstår, dvs en minskning med cirka 9%.
+Kinoloner är mycket stabila i miljön och behöver användas selektivt. Förskrivning och rekvirering av kinoloner bedöms fortfarande kunna minska med 10%.
+Se Strama Nationell-databasen
+3. Benspecifika läkemedel till patienter med osteoporosfraktur
+Den största refrakturrisken finns under första året efter fraktur. Målet är att patienter över 50 år med osteoporosrelaterad fraktur får benspecifik behandling inom ett halvår. Det nationella målet på 60% bedöms vara lämpligt även i regionen. I nuläget ligger vi endast på 36%.
+4. Minskad förskrivning av protonpumpshämmare (PPI)
+Förskrivningen av omeprazol har minskat, men esomeprazol har ökat något. Esomeprazol är samma molekyl som omeprazol, men spegelvänd, och motsvarar 1,5 gånger högre dos än omeprazol. Esomeprazol bör förbehållas sjukhusvård eller särskilda fall när mycket hög dos PPI är indicerad. I övriga fall ska omeprazol användas, för att underlätta utsättning och av kostnadsskäl. Då även biverkningar är dosberoende, överväg vid varje uppföljning dossänkning eller byte från esomeprazol till omeprazol. Vi behåller målet för 2024 att förskrivningen av PPI ska minska till rikssnittet, för närvarande en minskning på 20%.
+5. Omprövning av stående paracetamolbehandling
+Kalmar ligger högt i riket, med recept till var sjunde invånare i länet och varannan dospatient. Vi bedömer att det sker en överförskrivning av paracetamol på tveksam indikation, med bristande uppföljning. Detta ger ökad tablettbörda, fler utdelningstillfällen och risk för biverkningar, dessutom 9 miljoner per år i förmånskostnad och många akutbeställda dosrullar. Vi rekommenderar att stående behandling regelbundet följs upp genom indikationsprövning och provutsättning, alternativ vid behovsbehandling eller i kurer. Detta bör resultera i en minskad förskrivning. Målet är en minskning med 20% för att nå rikssnittet.
+6. Ingen förskrivning av klemastin (Tavegyl)
+Målet kvarstår att inte förskriva klemastin oavsett ålder, då moderna antihistaminer har god effekt på histaminutlösta symtom utan sederande biverkningar.
+7. God hushållning: följ Läkemedelskommitténs spartips!
+Alla läkemedel byts inte på apotek utan kräver aktivt byte av förskrivaren. Använd ordinationsmallarna i Cosmic. Några spartips:
+Bufomix istället för Symbicort
+Braltus istället för Spiriva Handihaler
+Pregabalin istället för Lyrica
+Insulin lispro istället för Humalog
+Insulin aspart istället för Novorapid
+Abasaglar istället för Lantus
+Makrogol Junior endast för barn under 1 år
+Levetiracetam istället för Keppra
+Lamotrigin istället för Lamictal
+Biosimilar i stället för Humira eller Enbrel
+Ingen förskrivning av acetylcystein vid KOL
+2023
+2023-12-21 Önskelista från apoteket. Levaxin och Rybelsus
+Önskelista från apoteket inför 2024:
+Makulera gamla recept innan nya skickas
+På så sätt minimeras risken att patienten hämtar ut ett inaktuellt recept. Det minskar också risken för dubbletter eller tripletter av recept. Vid ändring av befintlig ordination i Cosmic makuleras inte det gamla receptet per automatik. Patienten kan då ha både ett recept med ny styrka/dosering och tidigare skickat recept med inaktuell styrka/dosering liggande för uthämtning på apotek.
+Ange indikation
+Apoteken måste enligt lag göra en rimlighetsbedömning av förskrivningen, för att minimera möjliga fel. Många känner inte till det arbete som apoteken utför bakom disken för att släta över fel. Eftersom samma läkemedel kan ha olika dosering beroende på indikation, är det viktigt att indikationen finns på receptet.
+Vid begränsad förmån, ange indikation och förmån
+Till exempel melatonin har numera tydliga förmånsbegränsningar och det sker felexpeditioner till följd av felaktiga förskrivningar. Indikation bör framgå samt huruvida läkemedlet är inom förmån.
+Skriv OBS/SIC vid avvikande doseringar
+Om du inte vill ha samtal från apoteket. Gäller särskilt recept till barn. Även om behandlingen anses vedertagen, får apoteket inte lämna ut en dosering som överskrider maxdosen utan att stämma av med förskrivaren.
+Ge skriftlig information till patienten när receptfria produkter rekommenderas
+Inklusive produkt, styrka och dosering. Vid rekommendation över telefon bör patienten anteckna. Om patienten inte vet mer än indikation kan det vara svårt för apoteken att rekommendera något. Tex ögondroppar: har det betydelse om det är med/ utan konserveringsmedel? Droppar eller gel?
+Ge patienten utskriven läkemedelslista vid besök
+Apoteket kan då stämma av så att aktuella recept stämmer överens med aktuell läkemedelslista.
+Undvik förskrivning av förpackningar för sjukhus eller för dosdispensering
+Sådana förpackningar (ofta 250-pack) får inte lämnas ut till patient på ett vanligt apotek. Därför saknar de alltid gröna pluppar i Cosmic även om läkemedlet är rekommenderat.
+Kontrollera receptet innan det skickas
+Detta moment är kritiskt för korrekt läkemedels-behandling. Ha inte för bråttom! Det är alltid viktigt att kontrollera samtliga uppgifter i receptet innan det skickas. Bäst är att utveckla en personlig rutin för att stämma av indikation, dos, antal uttag, lämplig förpackningsstorlek och eventuellt expeditionsintervall innan receptet skickas.
+Detta gäller även när receptet förnyas!
+De förifyllda receptmallarna fungerar som ett stöd, men är inte heltäckande. Utgå gärna från dem och skräddarsy patientens behandling.
+Meddela apoteket när C- eller D-interaktion har tagits i beaktande
+Apoteken får samma interaktionsvarning i sitt system som Cosmic, men ingen information om hänsyn har tagits till interaktionen. Om du i rutan ”information till apoteket” skriver en kort notering kan det spara telefonsamtal från apoteket.
+Kryssa inte i ”Ej utbytbar” i onödan
+Rutan ska endast användas då det är medicinskt olämpligt med vissa fabrikat. Om patienten har ett starkt önskemål om särskilt fabrikat, välj det i receptet så har patienten alltid rätt att hämta ut det. Hen betalar då mellanskillnaden jämfört med periodens vara, men endast kostnaden för periodens vara ingår i förmånen. Om rutan ”Ej utbytbar” väljs kan det bli dyrare för enheten och krångligt vid en restsituation.
+Önskar Apotekspersonal i Kalmar län
+Genom Therese Johansson, apotekare, Läkemedelssektionen
+Levaxin 75 och 125 μg utan förmån
+Styrkorna ingår inte längre i förmånen sedan 1 december 2023. Övriga styrkor ingår i förmånen. Vi rekommenderar att låta patienterna avgöra om de vill betala utan förmån för sin vanliga tablett, eller om de vill ha andra styrkor inom förmånen. Ordinationsmallar finns för att underlätta förskrivning, samt förslag på standardformulering att skicka med vid receptförnyelse.
+Läs mer om förmånen och Levaxin i nyheten på intranätet (behörighet krävs), där finns även förslag på en standardformulering.
+Rybelsus endast i undantagsfall
+Förskrivningen av Rybelsus har ökat under restsituationen av GLP-1-analoger för injektion. Rybelsus har inte har visat samma vinster i hjärt-kärlhändelser, viktnedgång eller HbA1c-sänkning, men kostar lika mycket. Det individuella upptaget kan variera, och tabletten behöver strikt tas på fastande mage. Vi rekommenderar att i första hand pröva DPP4-hämmare (sitagliptin) och/eller SGLT-2-hämmare som ersättning under restsituationen. Rybelsus bör endast förskrivas i undantagsfall med noggrann uppföljning.
+Läs mer om rekommendationer på
+janusinfo.se
+Champix – nytt ersättningsläkemedel
+Regionen har beviljats generell licens för Apo-varenicline, som är samma substans som Champix, finns i samma styrkor och tas med samma dosering. Det finns ingen kombinationsförpackning som Champix, utan styrkorna 0,5 och 1 mg förskrivs separat. Mallar är på väg in i Cosmic och så fort allt är klart kommer uppdaterad information på vår sida om restsituationer.
+FAS UT ny upplaga
+Det finns en ny upplaga av boken FAS UT, som stöd i att utvärdera och avsluta läkemedelsbehandlingar. Regionen har beslutat att inte köpa en digital licens, utan det är upp till varje vårdenhet att beställa fysiska exemplar om man vill. Vi anser att
+medstopper.com
+är ett en bra alternativ i det dagliga kliniska arbetet.
+Samverkansregler läkemedelsindustrin
+Vi har fått signaler om att läkemedelsindustrin är mycket aktiv just nu i att närma sig förskrivare och vissa grupper av sjuksköterskor (tex diabetes). Vi vill påminna om att primärvården har valt en strikt linje när det gäller kontakt med industrin, och rekommenderar att man bekantar sig med reglerna, till exempel genom en webbkurs som SKR tagit fram.
+Läs mer om samverkansregler för vård och industri och webbkursen på SKR webbplats.
+Högkostnadsskyddet höjs
+Från 1 januari 2024 höjs högkostnadsskyddet från 2.600 kronor till 2.850 kronor. Det betyder att patienten betalar hela kostnaden för läkemedel upp till 1.425 kronor innan rabatten träder in.
+Nya restnoteringar:
+Creon 25000 enheter är restnoterad till 2025. Övriga styrkor finns just nu.
+Flutikason spray är restnoterad i olika styrkor.
+Intuniv 4 mg restnoterad. Övriga styrkor förväntas att restnoteras längre fram.
+Avslutade restnoteringar:
+Lederspan finns åter att beställa.
+Lergigan finns åter att beställa.
+Se uppdaterad information om utvalda restsituationer
+För läkemedelskommittén
+Fredrik Hagerman, ordförande
+Utskriftsversion av nyhetsbrevet
+2023-10-04 QT-algoritm, restsituationer, stelkramp, eFYSS
+Utskriftsversion av nyhetsbrevet
+QT-algoritm
+I maj lanserade vi en algoritm som beslutsstöd vid insättning av QT-förlängande läkemedel. Det finns även exemplifierande patientfall för att belysa principerna. Alla läkare bör vara observanta på QT-förlängning vid förskrivning av läkemedel samt vid bedömning av patienter med yrsel eller svimning.
+QT-förlängning ökar risken för torsades de pointes, en ventrikeltakykardi som kan leda till svimning och i sällsynta fall plötslig död. Den ärftliga varianten debuterar ofta i tonåren och ligger bakom flera uppmärksammade hjärtstopp bland elitidrottare. Vanligare är dock en sammanvägning av riskfaktorer, såsom hög ålder, hjärtsjukdom, elektrolytrubbning och ett eller flera QT-förlängande läkemedel.
+Algoritmen är tänkt som ett stöd och belyser vikten av att göra en riskbedömning samt vid behov kontrollera EKG vid insättning och uppföljning av QT-förlängande läkemedel.
+Se algoritm i riktlinje läkemedel och QT-förlängning
+Se exemplifierande patientfall
+Restsituationer – ny webbsida
+Restnoterade läkemedel är en växande utmaning för vården, apoteken och patienterna. Produktionsproblem står för två tredjedelar av bristsituationerna.
+Här i Region Kalmar innebär det ett stort arbete att fånga in aktuella restsituationer och ta ställning till hur viktiga de är, hur prognosen ser ut, samt vilka alternativ som finns. Vi har utvecklat vårt arbetssätt och som en del i detta nyligen lanserat en ny webbsida, med utvalda restsituationer, samt viktig lokal information såsom licensalternativ. Det finns även ett formulär för att tipsa om restsituationer. Webbsidan är nästan ikapp REK-listan när det gäller besökare under Läkemedel.
+En restsituation kan vara ett bra tillfälle att ompröva en behandling, tex har en del patienter kunnat sluta med Imdur under bristen i sommar. En god idé är att testa göra ett uppehåll medan patienten har kvar av läkemedlet, så man har tid på sig att ordna ett eventuellt alternativ, såsom licensläkemedel.
+Se webbsidan där vi listar aktuella restnoteringar
+Stelkrampsprofylax vid sårskador
+Smittskyddsläkaren har uppdaterat rutinen för stelkrampsprofylax vid sårskador. I rutinen framgår vilka individer som förutom stelkrampsvaccination behöver immunglobulin, hur många vaccindoser som ska ges och vilka preparat som är aktuella. Observera att särskilda rutiner gäller för barn.
+Från september 2023 är såväl Triaxis som diTeBooster upphandlade som möjliga boosterpreparat. I första hand rekommenderas booster som även innehåller skydd mot kikhosta, dvs trivalent boostervaccin, Triaxis. Det är enbart kombinationsvaccinen Triaxis och Boostrix som är rekommenderade under graviditet, och då enbart under andra och tredje trimestern.
+Alla, oavsett ålder, som vid en medicinsk bedömning anses ha otillräckligt skydd mot stelkramp, ska erbjudas kostnadsfri vaccination. Besöksavgift tas ut för bedömningen/behandling av sårskada. Läs mer i rutinen om stelkramp.
+Se rutin för stelkrampsprofylax vid sårskador
+Läs om vaccination mot stelkramp och difteri
+Se även rutiner och handläggning stelkramp - smittsamma sjukdomar A-Ö
+Inte Ozempic för viktnedgång
+Vi har fått signaler från apoteken om att det förekommit otydliga förskrivningar av GLP-1-analogen Ozempic (semaglutid). Vi vill understryka att enligt våra riktlinjer ska Ozempic förbehållas diabetiker. En tillverkare har dragit sig ur läkemedelsförmånen, vilket innebär att vissa styrkor av Ozempic ibland kan finnas på vissa apotek, men utanför förmån och oftast till ett två- eller tredubbelt pris.
+Lustgas som berusningsmedel – kampanj
+Användningen av lustgas som berusningsmedel ökar enligt giftinformationscentralen. Förutom akuta risker såsom svimning och köldskador i munnen riskerar regelbunden användning ge bestående neurologiska skador genom funktionell B12-brist. Detta fångas inte upp med ett B12-prov, som alltså kan vara falskt normalt. Homocystein blir däremot ofta kraftigt förhöjt.
+En utredning är tillsatt för att se över lagstiftningen och i väntan på denna har Läkemedelsverket tagit fram material riktat till hälso- och sjukvårdspersonal samt andra som möter unga i sin yrkesroll.
+Läs mer om kampanjen och materialet på läkemedelsverkets webbplats
+Nytt stöd: eFYSS
+Första steget i behandling och förebyggande av många sjukdomstillstånd är levnadsvanor, och nu finns en alldeles ny resurs tillgänglig som stöd i detta. FYSS har nämligen genomgått en rejäl uppdatering och nylanserats i digital form som eFYSS.se. Webbsidan är lättnavigerad, med överskådlig och konkret information som stöd i dialogen med patienter.
+Läs mer på eFyss.se
+Undvik topiramat vid graviditet
+Det har kommit nya rekommendationer om att vidta ytterligare åtgärder för att undvika behandling med topiramat under graviditet. Det är Europeiska läkemedelsmyndigheten (EMA) som gått ut med informationen, baserat på den redan kända risken för allvarliga fosterskador, men också utifrån nya studier som visar på möjlig risk för neuropsykiatrisk funktionsnedsättning. Man rekommenderar ett antal åtgärder, såsom att informera fertila kvinnor som står på topiramat, att överväga behandlingsalternativ, samt att omvärdera behandlingen minst en gång per år. Produktinformationen kommer också att uppdateras med ett patientkort.
+Här i Region Kalmar län får man som förskrivare en varningstriangel i Cosmic, så det gäller att hålla koll på varningarna som dyker upp.
+Mer information i nyhet på Läkemedelsverkets webbplats
+Ny rapport om byte mellan biosimilarer
+Det finns inget som talar för att upprepade byten (så kallad multipel switch) mellan biosimilarer och referensläkemedel skulle innebära ett problem vad gäller effekt eller säkerhet. Det framgår i en ny rapport från Läkemedelsverket (LV) och är i linje med bedömningar av andra EU-länder och den europeiska läkemedelsmyndigheten EMA.
+En biosimilar är ett biologiskt läkemedel som är mycket likt ett redan godkänt biologiskt läkemedel (referensläkemedel), och som kan visa en likvärdig kvalitet, exponering, effekt och säkerhet.
+För Region Kalmar län är detta ett av de läkemedelsområden där vi sparar mest pengar. LV utreder just nu om utbyte även kan ske på apotek på samma sätt som för enklare generikatabletter.
+LV understryker vikten av noggrann patientinformation eftersom handhavandet kan variera mellan olika biosimilarer.
+Läs nyhet och rapporten på läkemedelsverkets webbplats
+För innehållet i nyhetsbrevet ansvarar Fredrik Hagerman, ordförande i Läkemedelskommittén,
+fredrik.hagerman@regionkalmar.se
+.
+2023-06-19 Tema astma/KOL
+Utskriftsversion av nyhetsbrevet
+Tema astma/KOL
+Läkemedelsverket har uppdaterat sina behandlingsrekommendationer för Astma hos barn och vuxna samt KOL i enlighet med den senaste kunskapen och internationella rekommendationer. Det rör sig inte om ändringar av själva läkemedlen, däremot om deras plats i behandlingstrapporna.
+Behandlingsrekommendation Astma hos barn och vuxna - Läkemedelsverket
+Behandlingsrekommendation KOL - Läkemedelsverket
+FABA – ett nytt begrepp
+Ett nytt begrepp har introducerats: FABA (fast acting beta-2-receptoragonist). De läkemedel som ingår i denna klass ingår också i andra klasser – se nedan. Alla substanser inom gruppen har tillslag inom några minuter, men skiljer sig åt vad gäller effektdurationen:
+Substans
+Grupp
+Exempel i REK-listan
+Effekt-duration
+Salbutamol
+SABA, FABA
+Buventol
+Ventilastin
+Airomir
+Bricanyl
+Upp till 6 h
+Terbutalin
+SABA, FABA
+Bricanyl
+Upp till 6 h
+Formoterol
+LABA, FABA
+Formatris
+Bufomix (komb)
+Innovair (komb)
+12 h
+Astma – kortikosteroid till alla
+Inhalationssteroider (ICS) bör ordineras till alla vuxna med astma. Behandling med luftrörsvidgare i monoterapi bör undvikas och kombinations-behandling rekommenderas alltså redan som vid behovsbehandling i steg 1. Fördelen är att man samtidigt med luftrörsvidgning får inflammationsdämpning på köpet.
+ICS bör generellt erbjudas till alla barn med astma, regelbundet eller vid behov (t. ex förkylningskurer), beroende på plats i behandlingstrappan. Det anses farligare med underbehandling av astma än överbehandling med ICS. Undvik monoterapi med luftrörsvidgare.
+Då astma är en variabel sjukdom, behöver behandlingen utvärderas och eventuellt justeras regelbundet. Kontrollera inhalationsteknik och följsamhet innan behandlingen ändras. Vid utebliven behandlingseffekt bör diagnosen omprövas.
+Behandlingsmålet vid astma är normal lungfunktion, symtomfrihet (även vid aktivitet) samt att förhindra försämringsepisoder.
+KOL – ny GOLD-algoritm
+GOLD-algoritmen har uppdaterats i den digitala versionen av REK-listan. Man delar numera in i grupperna A, B och E, där grupp E är en sammanslagning av de tidigare grupperna C+D.
+Basbehandlingen är LAMA och/eller LABA, beroende på GOLD-grupp. SABA/SAMA får därmed en mer undanskjuten roll till patienter med enbart tillfällig dyspné eller som tillägg till långverkande luftrörsvidgare.
+Samtidigt lyfts ICS och/eller roflumilast fram som tilläggsbehandling vid vissa indikationer i grupp E. Inte alla KOL-patienter är dock hjälpta av ICS som tillägg, och behandlingen kan leda till biverkningar såsom ökad pneumonirisk.
+Inhalationsteknik och följsamhet behöver kontrolleras, särskilt vid behandlingssvikt. Välj om möjligt samma inhalatortyp för olika läkemedelsgrupper, för att minska risken för felanvändning.
+Behandlingsmålet vid KOL är en fungerande vardag med så lite symtom och så bra livskvalitet som möjligt, bibehållen lungfunktion och minimerad risk för exacerbationer.
+De nya riktlinjerna för KOL betonar att behandlingsvalet vid start styr behandlingsvalet även i fortsättningen. Dossänkning eller utsättning av läkemedel vid minskade symtom måste noggrant motiveras eftersom de minskade symtomen kan bero på den insatta behandlingen och alltså riskerar att förvärras om behandlingen minskas. Vid kvarvarande symtom, utebliven effekt eller biverkningar som överväger nyttan kan och bör dock behandlingen flyttas i endera riktning i behandlingstrappan. Läkemedelskommitténs mått ”Minskad förskrivning av ICS till KOL-patienter (GOLD A-C) utan exacerbationer senaste året” utgår därmed.
+Terapigrupp Astma-KOL/Allergi genom Kerstin Björkman Lundberg, sekreterare
+Aktuella notiser
+Värmebölja – risk för intorkning
+Sommaren 2023 ser ut att bli varm och torr. Kom ihåg att prata med patienter och omvårdnads-personal om vikten att pausa vissa läkemedel vid risk för intorkning. Se Regionens rekommendation samt REK-listan (sid 54) för vad man kan tänka på, samt vilka läkemedel som är extra viktiga att uppmärksamma.
+Tillfälligt uppehåll i läkemedelsbehandling vid akuta tillstånd
+med risk för intorkning, eller vid tecken på intorkning
+Rekommenderade läkemedel
+En spruta Epipen eller Jext räcker
+Emerade adrenalinpenna är indragen på grund av produktionsfel och vi rekommenderar byte till Jext eller Epipen. Doseringen för dessa är ändrad i mallarna, från tidigare två pennor 300 µg till patienter över 60 kg till en penna till alla patienter över 20 kg. Detta harmoniserar med FASS och övriga regioner, samt förebygger ny bristsituation. Kom ihåg att förskriva två pennor per uttag, då patienten alltid bör ha en extra dos med sig.
+Den nya doseringen är ändrad i det förenklade anafylaxischemat, men den tidigare doseringen två pennor över 60 kg kvarstår i anafylaxischemat, då det avser behandling på sjukvårdsinrättning.
+Anafylaxi förenklat flödesschema
+Anafylaxi flödesschema
+Egenberedskap läkemedel i hemmet
+Sedan 1 mars 2023 rekommenderar Socialstyrelsen att patienter har en månads beredskap av läkemedel och förbrukningsartiklar hemma. Syftet är att stärka beredskapen i samhället och att minska sårbarheten vid bristsituationer.
+Rekommendationen gäller patienter med långvarig stabil behandling och innebär inga ändringar i förmånsreglerna. Patienter får sedan tidigare hämta ut en ny omgång av sin behandling när två tredjedelar av den beräknade behandlingstiden har gått. Till exempel om ett uttag räcker i tre månader kan patienten hämta på nytt inom förmånen efter två månader.
+Mer information finns på Socialstyrelsens webbsida.
+Kostnadsfritt enligt SmL – välj rätt mall
+Regionens smittskyddsläkare har noterat att fel läkemedelsmallar ibland används, då samma preparat kan ha flera indikationer.
+Vid konstaterad eller
+misstänkt allmänfarlig
+sjukdom kan behandlande läkare välja att ange
+”Kostnadsfritt enligt SmL”
+i receptet, eller välja de mallar som finns för ändamålet.
+Det är behandlande läkare som bedömer ifall en patient har rätt till kostnadsfri undersökning, vård och behandling enligt smittskyddslagen. Kostnadsfriheten gäller åtgärder som bedöms minska smittspridningen
+Med
+behandlande läkare
+avses den som ordinerat ett prov för en anmälningspliktig sjukdom – i praktiken den som står som provsvarsmottagare. Behandlingsansvaret kan i ett senare skede remitteras till annan klinik, till exempel Infektionskliniken vid kronisk hepatit B. Men fram till att remissen accepterats ligger ansvaret hos läkaren som beställde provet.
+Läs mer
+Om smittskyddslagen och ansvar på Vårdgivarwebben
+Smittsamma sjukdomar A-Ö på Vårdgivarwebben
+Billigare melatoninpreparat finns tillgängliga
+Ett nytt billigare melatoninpreparat finns nu att tillgå, Aritonin. Aritonin finns i styrkorna 2, 3, 4 och 5 mg och ligger nu i ordinationsmallarna i Cosmic. Notera att melatoninpreparat inte byts automatiskt på apoteket, utan ett nytt recept behövs.
+För läkemedelskommittén - Fredrik Hagerman, ordförande
+2023-02-16 Höjdpunkter i REK-listan och läkemedelsmål 2023
+Utskriftsversion av nyhetsbrevet
+Höjdpunkter i REK-listan
+Astma/KOL
+Spacer
+rekommenderas vid spraybehandling. OBS pulverinhalator i första hand.
+B-eosinofiler
+vid bedömning om kortisoninhalation.
+Demens/kognitiv sjukdom
+Kolinesterashämmare:
+Tablett eller plåster utan prioriteringsordning.
+Memantin:
+Så låg dos som 10 mg kan ha effekt.
+Sömnläkemedel:
+Kort kur vid behov, ej stående.
+Diabetes
+SGLT2-hämmare
+även vid njursvikt. Sänkningen av glukos avtar vid eGFR <45
+GLP1-analoger:
+Veckoinjektion i första hand. Just nu dock långvarig restsituation.
+DPP4-hämmare:
+Generiskt sitagliptin rekommenderas (ej Januvia eller Trajenta).
+Snabbverkande insulin:
+Generika rekommenderas enbart (ej Humalog, Novorapid eller Fiasp).
+Långverkande insulinanalog:
+Toujeo och Abasaglar i första hand (ej Tresiba).
+Gynekologi
+Långverkande
+hormonell antikonception i första hand. Mirena har effekt i 8 år.
+Hjärta – kärl
+Rosuvastatin
+alternativ som första hand (OBS njurfunktion – dosjustera vid eGFR <60).
+Hjärtsvikt:
+Ny algoritm. Vid HFrEF, eftersträva flera/alla fyra läkemedel hellre än hög dos av få. SGLT2-hämmare även vid HFpEF (kräver alltså inte hjärteko).
+Hypertoni:
+Överväg kombinationspreparat direkt.
+Hud
+Daivobet
+salva och gel ändras till generika. Enstilar stryks.
+Neurologi
+Migränanfall:
+Eletriptan nytt som andrahandsval tillsammans med rizatriptan och zolmitriptan. Sumatriptan fortfarande i första hand.
+Migränprofylax:
+Topiramat nytt som alternativ (ej till gravida eller till fertila kvinnor utan antikonception).
+Osteoporos
+Anabol terapi:
+Förtydligad algoritm. Troligen underbehandlad patientgrupp, t.ex. vid ny fraktur eller fortsatt osteoporos trots behandling.
+Kommunala akutförråd
+Morfin
+tablett 5 mg i stället för 10 mg.
+Tamiflu
+kapsel 30 och 75 mg nytt.
+Loperamid
+nytt.
+Psykiatri
+Alkoholberoende abstinens:
+Thiamine sterop finns nu som B1-tillskott.
+Alkoholberoende profylax:
+Likvärdig rekommendation för naltrexon, akamprosat och disulfiram. Troligen underbehandlat!
+Depression:
+Vid helt utebliven effekt efter tre veckor med adekvat startdos, överväg preparatbyte som alternativ till upptrappning.
+Nikotinberoende:
+Champix indraget. Finns licensalternativ Cytisin.
+Smärta
+Kodein
+stryks (Citodon, Panocod). Vid svår smärta, förskriv hellre morfin.
+Morfin
+i första hand vid behov av peroral opioid (OBS njurfunktion), i andra hand oxikodon. Buprenorfin depotplåster alternativ vid nedsatt njurfunktion.
+Paracetamol:
+Ompröva stående ordination. Troligen överförskrivning. Nackdelar till exempel: tablettbörda, interaktioner, lever/njurbelastning, arbetsinsats.
+Alla smärtläkemedel
+bör utvärderas regelbundet och kan troligen på sikt bidra till central sensitisering (ökning av smärtan).
+Tänder – munhåla
+Muntorrhet:
+Xerodent sugtablett är tillbaka. Tillägg av Proxident munfuktgel med längre effekt.
+Äldre och läkemedel
+Mirtazapin
+kan prövas vid oro/ångest, samt vid sömnsvårigheter. Låg startdos, gärna 0,5 x 15 mg.
+Öron, näsa, hals
+Extern otit:
+Locacorten/Vioform örondroppar tillbaka vid svampinfektion.
+Läkemedelsmål Region Kalmar län 2023
+1. God hushållning: följ Läkemedelskommitténs spartips!
+Nya, dyra behandlingar kräver att vi använder de vi har på ett klokt sätt. Använd ordinationsmallarna i Cosmic. Några spartips:
+Bufomix
+istället för Symbicort
+Braltus
+istället för Spiriva Handihaler
+Pregabalin
+istället för Lyrica
+Levetiracetam
+istället för Keppra
+Lamotrigin
+istället för Lamictal
+Insulin lispro
+istället för Humalog
+Insulin aspart
+istället för Novorapid
+Abasaglar
+istället för Lantus
+Biosimilar
+istället för Humira
+Makrogol Junior endast för barn under 1 år
+Ompröva behov av stående paracetamol
+2. Minskad förskrivning av beroendeframkallande läkemedel
+(opioider, bensodiazepiner, bensodiazepinliknande sömnmedel och pregabalin).
+Vi har sett en minskning under 2022, inte minst i primärvården, men ligger fortfarande högre i förskrivning jämfört med genomsnittet för Sverige. Mål: minskning till rikssnittet, för närvarande ca 20 %.
+3. Minskad förskrivning av inhalationssteroider (ICS) till KOL-patienter utan exacerbation senaste året
+KOL-patienter utan exacerbation senaste året ska inte behandlas med ICS, för att minska risk för bl.a. pneumonier. Detta kräver aktiv omprövning, men sparar patienten besvärande biverkningar samt kostnader. I Region Kalmar har en tredjedel utan KOL-exacerbation fortfarande ordination på ICS. Målet är en minskning till högst 25 %.
+4. Följsamhet till Stramas rekommendationer för antibiotika
+Efter en tids minskad förskrivning har regionen under 2022 åter passerat 250 recept/1000 listade. Efterlevnad av STRAMAs behandlingsriktlinjer är viktigt, nu när fler söker för infektioner efter Covid-19-pandemin. Målet för 2022 är att åter ligga under 250 recept per tusen invånare. Vi jobbar vidare med målet att förskrivning och rekvirering av kinoloner bör minska med 10 %.
+5. Minskad förskrivning av protonpumpshämmare (PPI)
+Förskrivningen av PPI i regionen ligger fortsatt betydligt högre jämfört med förskrivningen i riket. Vi noterar en minskning i förskrivning av omeprazol, men ökningen i förskrivning av esomeprazol överstiger denna. Esomeprazol bör i princip endast användas som kortare kur från sjukhusen eller i särskilda fall när hög dos PPI är indicerad. I övriga fall ska omeprazol användas. Oavsett preparat, säkerställ att indikation och behandlingstid är korrekt och dokumentera denna i journalen. Vid receptförnyelse, kontrollera om indikation föreligger.
+Vid utsättning av PPI kan man med fördel använda en
+patientbroschyr framtagen av terapigrupp Mage-Tarm
+, samt ordinationsmallar i Cosmic. Målet för 2023 är att förskrivningen av PPI ska minska till rikssnittet, för närvarande 15 %.
+6. Benspecifika läkemedel till patienter med osteoporosfraktur
+Endast 30 % av patienter över 50 år med osteoporosrelaterad fraktur får behandling med benspecifik behandling (exempelvis Zoledronsyra eller Prolia) inom ett halvår. Vi bedömer det rimligt att följa det nationellt satta målet på 60 %. Mål: 60 % behandling inom ett halvår.
+7. Inte hydroxizin (Atarax), prometazin (Lergigan) eller alimemazin (Theralen) till äldre 75+. Inte klemastin (Tavegyl) oavsett ålder.
+Hydroxizin, prometazin och alimemazin har antikolinerga och sederande effekter samt risk för förlängd QT-tid. Målet är att ingen förskrivning ska ske av dessa läkemedel till äldre på grund av biverkningsrisken.
+Vi har sett en tydlig minskning av förskrivning av klemastin (Tavegyl) och hoppas att denna trend fortsätter. Klemastin har inga fördelar jämfört med modernare antihistaminer såsom desloratadin. Däremot är biverkningsrisken betydligt högre med klemastin, exempelvis risk för sedering och blodtrycksfall. Notera att injektionsberedning inte ger snabbare effekt än tabletter. Målet är att ingen förskrivning ska ske av dessa läkemedel.
+För innehållet ansvarar:
+Fredrik Hagerman
+, ordförande i Läkemedelskommittén.
+2022
+Pdf-dokument
+Läkemedelsnytt 2022- Nr 2 Astma-KOL-Allergi, tips inför sommaren
+pdf 771 kb
+Pdf-dokument
+Läkemedelsnytt 2022-nr 1 Läkemedelsmål, REK-nyheter
+pdf 758 kb
+2021
+Pdf-dokument
+Läkemedelsnytt 2021-nr 1 Läkemedelsmål för 2021
+pdf 584 kb
+Pdf-dokument
+Läkemedelsnytt 2021-nr 2 Om REK-listan 2021
+pdf 686 kb
+Pdf-dokument
+Läkemedelsnytt 2021-nr 3 NLL, Pascal, notiser
+pdf 954 kb
+Pdf-dokument
+Läkemedelsnytt 2021-nr 4 SGLT-2 m fl
+pdf 797 kb
+Äldre nyhetsbrev
+Öppna och stäng mappen
+2015
+Pdf-dokument
+Läkemedelsnytt 2015 nr 1-Läkemedelsmål för 2015
+pdf 65 kb
+Pdf-dokument
+Läkemedelsnytt 2015-nr 1-Läkemedelsmål för 2015
+pdf 65 kb
+Pdf-dokument
+Läkemedelsnytt 2015-nr 2-Nytt på Rek-listan 2015
+pdf 71 kb
+Pdf-dokument
+Läkemedelsnytt 2015-nr 3 Förebygga hjärt-kärlsjukdom
+pdf 85 kb
+Pdf-dokument
+Läkemedelsnytt 2015-nr 4-Vill du spara en miljon
+pdf 302 kb
+Pdf-dokument
+Läkemedelsnytt 2015-nr 5 - Nya rön och råd angående läkemedelsproblem
+pdf 424 kb
+Pdf-dokument
+Läkemedelsnytt 2015-nr 6 - morfin vs oxykodon
+pdf 488 kb
+Öppna och stäng mappen
+2016
+Pdf-dokument
+Läkemedelsnytt 2016 - nr 1 - Läkemedelsmål för 2016
+pdf 312 kb
+Pdf-dokument
+Läkemedelsnytt 2016 - nr 2 - Nytt på rek-listan 2016
+pdf 474 kb
+Pdf-dokument
+Läkemedelsnytt 2016 - nr 3 - Recept på bra recept
+pdf 485 kb
+Öppna och stäng mappen
+2017
+Pdf-dokument
+Läkemedelsnytt 2017 nr 1 - Mål för 2017
+pdf 274 kb
+Pdf-dokument
+Läkemedelsnytt 2017 nr 2 - Nytt på Rek-listan 2017
+pdf 403 kb
+Pdf-dokument
+Läkemedelsnytt 2017-nr 3-Läkemedel mot smärta - och annat
+pdf 354 kb
+Pdf-dokument
+Läkemedelsnytt 2017-nr 4 Pascal och dostjänsten
+pdf 418 kb
+Öppna och stäng mappen
+2018
+Pdf-dokument
+Läkemedelsnytt 2018-nr 1 Mål för 2018
+pdf 309 kb
+Pdf-dokument
+Läkemedelsnytt 2018-nr 2  Nytt på Rek-listan 2018
+pdf 334 kb
+Pdf-dokument
+Läkemedelsnytt 2018-nr 3 Ordination receptfritt och licenshantering
+pdf 307 kb
+Pdf-dokument
+Läkemedelsnytt 2018-nr 4 Miljöaspekter på diklofenak utvärtes
+pdf 223 kb
+Öppna och stäng mappen
+2019
+Pdf-dokument
+Läkemedelsnytt 2019-nr 1 Läkemedelsmål för 2019
+pdf 535 kb
+Pdf-dokument
+Läkemedelsnytt 2019-nr 2 - Nyheter i Rek-listan 2019
+pdf 516 kb
+Pdf-dokument
+Läkemedelsnytt 2019-nr 3-Önskelista från apoteket
+pdf 622 kb
+Pdf-dokument
+Läkemedelsnytt 2019-nr 4 - Akuta rullar till dospatienter
+pdf 656 kb
+Öppna och stäng mappen
+2020
+Pdf-dokument
+Läkemedelsnytt 2020-nr 1 Läkemedelsmål för 2020
+pdf 606 kb
+Pdf-dokument
+Läkemedelsnytt 2020-nr 2 - Nytt och ändrat i REK-listan 2020
+pdf 753 kb
+Pdf-dokument
+Läkemedelsnytt 2020-nr 3 - Ge järnet
+pdf 576 kb
+Pdf-dokument
+Läkemedelsnytt 2020-nr 4 - Pascal - praktiska tips
+pdf 555 kb
+Skriv ut
