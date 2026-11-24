@@ -1,6 +1,6 @@
 # .github/workflows/check.yml
 on:
-  schedule: [{cron: "0 5 * * 1-5"}]
+  schedule: [{cron: "7 1 * * 1-5"}]
   workflow_dispatch:
 permissions: {contents: write}
 jobs:
