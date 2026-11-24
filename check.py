@@ -5,10 +5,16 @@ SOURCES = [l.strip() for l in open("sources.txt") if l.strip() and not l.startsw
 STATE = pathlib.Path("state"); STATE.mkdir(exist_ok=True)
 changes, status = [], []
 
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "sv-SE,sv;q=0.9,en;q=0.8",
+}
+
 for url in SOURCES:
     f = STATE / (hashlib.sha1(url.encode()).hexdigest() + ".txt")
     try:
-        r = requests.get(url, timeout=30, headers={"User-Agent": "Mozilla/5.0"})
+        r = requests.get(url, timeout=30, headers=HEADERS)
         r.raise_for_status()
         if url.lower().endswith(".pdf"):
             text = hashlib.sha1(r.content).hexdigest()
