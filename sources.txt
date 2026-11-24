@@ -1,0 +1,69 @@
+# sources.txt - en adress per rad. Rader som börjar med # hoppas över av check.py.
+# Tips: lägg # framför en rad för att tillfälligt stänga av en källa.
+
+# ===== SKÅNE =====
+https://vardgivare.skane.se/uppdrag-avtal/lov/informationsmote-och-dialogmote/
+https://vardgivare.skane.se/kompetens-utveckling/nyheter/?archive=true
+https://press.newsmachine.com/pressroom/archive/region-skane
+https://www.skane.se/politik-och-demokrati/politik/politiska-organ/primarvardsnamnden/
+https://www.kry.se/press/nyheter/
+https://www.upphandlingsmyndigheten.se/hitta-lov-uppdrag/annonser/region-skane/vardcentral-i-halsoval-skane/
+https://vardgivare.skane.se/vardriktlinjer/laboratoriemedicin/
+https://vardgivare.skane.se/kompetens-utveckling/sakkunniggrupper/ako-skane/
+https://vardgivare.skane.se/vardriktlinjer/lakemedel/skanelistan-med-bakgrundsmaterial/
+https://driftinfo.skane.se/
+
+# ===== BLEKINGE =====
+https://regionblekinge.se/samverkan-blekinge/halsa/avtal-och-overenskommelser/halsoval-blekinge.html
+https://regionblekinge.se/samverkan-blekinge/halsa/avtal-och-overenskommelser/halsoval-blekinge/allt-infor-ansokan-och-avtalsskrivning/uppdragsbeskrivning.html
+https://regionblekinge.se/politik-och-demokrati/handlingar-och-protokoll.html
+https://regionblekinge.se/politik-och-demokrati/anslagstavla.html
+https://regionblekinge.se/samverkan-blekinge/halsa/vard-och-behandling/aktuellt-vard-och-behandling.html
+https://regionblekinge.se/om-webbplatsen/nyheter/nyheter-och-pressmeddelande.html
+
+# ===== KALMAR =====
+https://vardgivare.regionkalmar.se/samverkan--avtal/halsoval/
+https://vardgivare.regionkalmar.se/nyheter/
+https://regionkalmar.se/nyhetslista/
+https://vardgivare.regionkalmar.se/samverkan--avtal/halsoval/bilagor/
+https://vardgivare.regionkalmar.se/samverkan--avtal/halsoval/ersattning-for-varden/
+https://regionkalmar.se/politik-och-demokrati/moten-och-handlingar/
+https://regionkalmar.se/politik-och-demokrati/moten-och-handlingar/anslagstavla/
+# Kalmar, tidigare "extra på måndagar"
+https://vardgivare.regionkalmar.se/vard--behandling/medicinsk-diagnostik/diagnostiskt-centrum/dc-nytt/
+https://vardgivare.regionkalmar.se/vard--behandling/lakemedel/lakemedelsnytt---nyhetsbrev/
+https://vardgivare.regionkalmar.se/it--service/it-nyhetsbrev/
+https://vardgivare.regionkalmar.se/samverkan--avtal/lansgemensamledning/sammanhallen-vard-och-omsorg/
+
+# ===== KRONOBERG =====
+https://www.regionkronoberg.se/vardgivare/vardadministration/vardval/vardval-primarvard/
+https://www.regionkronoberg.se/nyheter/
+https://www.regionkronoberg.se/vardgivare/vardriktlinjer/smittskydd/
+https://www.regionkronoberg.se/politik-och-demokrati/politisk-organisation/namnden-for-folkhalsa-och-vardval/
+https://www.regionkronoberg.se/politik-och-demokrati/politisk-organisation/regionfullmaktige/
+https://www.regionkronoberg.se/anslagstavlan/
+# Kronoberg, tidigare "extra på måndagar"
+https://www.regionkronoberg.se/vardgivare/vardriktlinjer/provtagning-och-diagnostik/
+https://www.regionkronoberg.se/vardgivare/vardriktlinjer/lakemedel/lakemedelsnyheter/
+https://www.regionkronoberg.se/vardgivare/vardadministration/journalhantering/cosmic-versionsuppgraderingar/
+https://www.regionkronoberg.se/contentassets/f225d486a4f74abb97d7a9a492cbc879/overenskommelse-in--och-utskrivning-av-patienter-i-slutenvard-i-kronobergs-lan-202409062.pdf
+https://www.regionkronoberg.se/vardgivare/kompetens-utveckling/allmanmedicinskt-kunskapscentrum/
+https://www.regionkronoberg.se/politik-och-demokrati/politisk-organisation/patientnamnden/
+
+# ===== NORRBOTTEN =====
+https://vardgivarwebben.norrbotten.se/sv/samverkan-och-avtal/vardval/
+https://www.norrbotten.se/sv/demokrati-och-politik/regionstyrelsen/
+https://www.norrbotten.se/sv/demokrati-och-politik/beslut-i-korthet/
+https://www.norrbotten.se/sv/demokrati-och-politik/halso-och-sjukvardsnamnden/
+https://diariet.nll.se/
+https://vardgivarwebben.norrbotten.se/sv/nyhetsarkiv-vardgivarwebben/
+https://vardgivarwebben.norrbotten.se/sv/driftinformation-oversikt/
+# Obs: sök efter den nya årsannonsen när vårdvalet uppdateras
+https://www.upphandlingsmyndigheten.se/hitta-lov-uppdrag/annonser/region-norrbotten/vardval-primarvard-norrbotten-2026/
+# Norrbotten, tidigare "extra på måndagar"
+https://vardgivarwebben.norrbotten.se/sv/vardriktlinjer/laboratoriemedicin/labbnytt/
+https://vardgivarwebben.norrbotten.se/sv/nyhetsarkiv-vardgivarwebben/?category=10287
+https://vardgivarwebben.norrbotten.se/sv/vardriktlinjer/lakemedel/rekommenderade-lakemedel/
+https://vardgivarwebben.norrbotten.se/sv/administration/vardadministrativa-rutiner/
+https://vardgivarwebben.norrbotten.se/sv/kompetens-utveckling-forskning/allmanlakarkonsulterna--alk/
+https://vardgivarwebben.norrbotten.se/sv/samverkan-och-avtal/kommunsamverkan/
