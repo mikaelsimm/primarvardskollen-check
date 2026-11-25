@@ -254,6 +254,7 @@ Reservnummerhantering och vårddatasammanslagning i Cosmic (pdf)
 Reservnummer som saknas i Cosmic men finns i VAS (pdf)
 Rättelse, avvikande mening, journalförstöring samt hantering av uppgifter i fel journal (pdf, intern länk regionanställda)
 Sammanhållen journal istället för journalkopior (pdf)
+Skyddade personuppgifter mfl sätt att skydda patientuppgifter (pdf)
 Utlokaliserade patienter och  patienter på samvårdsavdelningar i Cosmic - lathund (pdf)
 Vårddokumentation i Cosmic - diagnoskodning (pdf)
 Vårddokumentation i Cosmic för rehabkoordinatorer (pdf)
@@ -586,7 +587,7 @@ Dokumentationsrutiner och arbetssätt för ÖNH(pdf)
 Pedagogiska hörselvården specifik dokumentation Cosmic(pdf)
 Hörcentralen specifik dokumentation Cosmic(pdf)(intern länk regionanställda)
 Uppdaterad:
-2026-11-20, 15:25
+2026-11-25, 10:04
 Publicerad:
 2024-02-06, 16:55
 Dela artikeln
