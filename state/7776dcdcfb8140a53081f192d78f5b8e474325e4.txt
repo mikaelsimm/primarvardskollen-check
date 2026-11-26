@@ -80,6 +80,7 @@ Lagra mediaundersökning i Cosmic (video)
 Lagra mediaundersökning inskickat från patient exempelvis från chatt (pdf)
 Söka mediaundersökning i Cosmic (pdf)
 Söka mediaundersökning i Cosmic(video)
+Bildvisning i Uniview och Sectra IDS7 web (PACS, pdf)
 Koppla mediaundersökning till anteckning eller remiss i Cosmic (pdf)
 Koppla mediaundersökning till anteckning i Cosmic (video)
 Mediaomvandlare (mediabox) MVR460 lathund (pdf)
@@ -197,7 +198,6 @@ Bokning i Cosmic (pdf)
 Bokningsunderlag Cosmic - lathund (pdf)
 Direktinskrivning av öppenvårdspatient på enhetsöversikten på pre- och postoperativa enheter, utan remisskrav (pdf, intern länk regionanställda)
 Gruppbokning i Cosmic - lathund(pdf)
-Multimediaunderlag i Cosmic (pdf)
 Patienthotell Vistet Cosmic - Bokning av planerad patient till hotellet(pdf)
 Patienthotell Vistet Cosmic - bokning av akut patient till hotellet(pdf)
 Operation, planering och bokning av barn som opereras i öppenvård på Gällivare sjukhus (pdf)
@@ -235,6 +235,7 @@ Vårdprocessöversikten i Cosmic (pdf)
 Vårddokumentation
 Avliden, registrering och avbokning i Cosmic (pdf)
 Avvikelser i patientjournalen (pdf)
+Barn som närstående (pdf)
 Beslutsstöd i Cosmic (pdf)
 Beställning och arbetssätt för journalmallar (pdf)
 Bevakning frågor, svar och kompletteringsbegräran från FK Webcert i Cosmic (pdf)
@@ -587,7 +588,7 @@ Dokumentationsrutiner och arbetssätt för ÖNH(pdf)
 Pedagogiska hörselvården specifik dokumentation Cosmic(pdf)
 Hörcentralen specifik dokumentation Cosmic(pdf)(intern länk regionanställda)
 Uppdaterad:
-2026-11-25, 10:04
+2026-11-26, 08:17
 Publicerad:
 2024-02-06, 16:55
 Dela artikeln
