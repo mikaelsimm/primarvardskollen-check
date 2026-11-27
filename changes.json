@@ -1,46 +1,73 @@
 {
- "datum": "2026-11-26",
+ "datum": "2026-11-27",
  "ändringar": [
+  {
+   "url": "https://regionblekinge.se/politik-och-demokrati/anslagstavla.html",
+   "tillagt": [
+    "2026-11-27",
+    "Patientnämnden, sammanträde 2026-11-24, protokoll §§ 39-41",
+    "2026-11-26",
+    "Regionala utvecklingsnämndens kultur- och bildningsutskott, sammanträde 2026-11-09, protokoll § 80",
+    "2026-11-26",
+    "Regionala utvecklingsnämndens arbetsutskott, sammanträde 2026-11-17, protokoll §§ 80 – 83"
+   ]
+  },
+  {
+   "url": "https://vardgivare.regionkalmar.se/nyheter/",
+   "tillagt": [
+    "24 november 2026 21:00 - 26 november 2026 22:00"
+   ]
+  },
   {
    "url": "https://regionkalmar.se/nyhetslista/",
    "tillagt": [
-    "Under torsdagen fortsätter regionfullmäktige att debattera budget för 2027 och regionplan 2027-2029."
+    "På torsdagseftermiddagen kunde klubban slås i bordet för sista gången när det gäller budget 2027 och regionplan 2027-2029."
    ]
   },
   {
    "url": "https://www.regionkronoberg.se/nyheter/",
    "tillagt": [
-    "Regional utveckling (13)"
+    "Hälsa, vård (47)",
+    "Regional utveckling (12)",
+    "Utveckling (24)"
    ]
-  },
-  {
-   "url": "https://www.regionkronoberg.se/politik-och-demokrati/politisk-organisation/regionfullmaktige/",
-   "tillagt": []
   },
   {
    "url": "https://www.regionkronoberg.se/anslagstavlan/",
    "tillagt": [
-    "Anslag/bevis",
-    "Regionala  utvecklingsnämnden",
-    "Datum för uppsättande:",
-    "2026-11-26",
-    "Datum för nedtagande:",
-    "2026-12-18",
-    "Regionala utvecklingsnämndens protokoll 2026-11-19"
+    "Kallelse",
+    "Kallelse",
+    "Patientnämnden",
+    "När:",
+    "2026-12-02, kl 00:00",
+    "Var:",
+    "Bolmen, regionhuset, Nygatan 20, Växjö",
+    "Sammanträdet är inte öppet för allmänheten."
    ]
   },
   {
-   "url": "https://vardgivarwebben.norrbotten.se/sv/samverkan-och-avtal/vardval/",
+   "url": "https://www.norrbotten.se/sv/demokrati-och-politik/beslut-i-korthet/",
    "tillagt": [
-    "2026-11-25, 12:06"
+    "26 nov. 2026",
+    "Beslut i korthet - regionfullmäktige 25-26 november",
+    "Regionfullmäktige beslutade bland annat att anta en reviderad strategisk plan för 2027-2029 samt en ny regional kulturplan för 2027-2030. Vidare beslutades att hälso- och sjukvårdsnämnden ska avvecklas vid årsskiftet och att ge nya uppdrag till uppdragsberedningen för 2027 och 2028. Regionfullmäktige beslutade också om olika uppdrag, däribland region- och oppositionsråd."
    ]
   },
   {
-   "url": "https://vardgivarwebben.norrbotten.se/sv/administration/vardadministrativa-rutiner/",
+   "url": "https://vardgivarwebben.norrbotten.se/sv/nyhetsarkiv-vardgivarwebben/",
    "tillagt": [
-    "Bildvisning i Uniview och Sectra IDS7 web (PACS, pdf)",
-    "Barn som närstående (pdf)",
-    "2026-11-26, 08:17"
+    "Antal träffar: 328 st",
+    "Forum för enhetschefer 1 december och 3 december, anmälan öppen",
+    "26 nov. 2026",
+    "Välkommen till Forum för enhetschefer nästa vecka!"
+   ]
+  },
+  {
+   "url": "https://vardgivarwebben.norrbotten.se/sv/kompetens-utveckling-forskning/allmanlakarkonsulterna--alk/",
+   "tillagt": [
+    "Utbildning",
+    "2026-11-30",
+    "Kunskapslyft inom sårbehandling"
    ]
   }
  ],
@@ -58,11 +85,11 @@
   "OFÖRÄNDRAD | https://regionblekinge.se/samverkan-blekinge/halsa/avtal-och-overenskommelser/halsoval-blekinge.html",
   "OFÖRÄNDRAD | https://regionblekinge.se/samverkan-blekinge/halsa/avtal-och-overenskommelser/halsoval-blekinge/allt-infor-ansokan-och-avtalsskrivning/uppdragsbeskrivning.html",
   "OFÖRÄNDRAD | https://regionblekinge.se/politik-och-demokrati/handlingar-och-protokoll.html",
-  "OFÖRÄNDRAD | https://regionblekinge.se/politik-och-demokrati/anslagstavla.html",
+  "ÄNDRAD | https://regionblekinge.se/politik-och-demokrati/anslagstavla.html",
   "OFÖRÄNDRAD | https://regionblekinge.se/samverkan-blekinge/halsa/vard-och-behandling/aktuellt-vard-och-behandling.html",
   "OFÖRÄNDRAD | https://regionblekinge.se/om-webbplatsen/nyheter/nyheter-och-pressmeddelande.html",
   "OFÖRÄNDRAD | https://vardgivare.regionkalmar.se/samverkan--avtal/halsoval/",
-  "OFÖRÄNDRAD | https://vardgivare.regionkalmar.se/nyheter/",
+  "ÄNDRAD | https://vardgivare.regionkalmar.se/nyheter/",
   "ÄNDRAD | https://regionkalmar.se/nyhetslista/",
   "OFÖRÄNDRAD | https://vardgivare.regionkalmar.se/samverkan--avtal/halsoval/bilagor/",
   "OFÖRÄNDRAD | https://vardgivare.regionkalmar.se/samverkan--avtal/halsoval/ersattning-for-varden/",
@@ -76,7 +103,7 @@
   "ÄNDRAD | https://www.regionkronoberg.se/nyheter/",
   "OFÖRÄNDRAD | https://www.regionkronoberg.se/vardgivare/vardriktlinjer/smittskydd/",
   "OFÖRÄNDRAD | https://www.regionkronoberg.se/politik-och-demokrati/politisk-organisation/namnden-for-folkhalsa-och-vardval/",
-  "ÄNDRAD | https://www.regionkronoberg.se/politik-och-demokrati/politisk-organisation/regionfullmaktige/",
+  "OFÖRÄNDRAD | https://www.regionkronoberg.se/politik-och-demokrati/politisk-organisation/regionfullmaktige/",
   "ÄNDRAD | https://www.regionkronoberg.se/anslagstavlan/",
   "OFÖRÄNDRAD | https://www.regionkronoberg.se/vardgivare/vardriktlinjer/provtagning-och-diagnostik/",
   "OFÖRÄNDRAD | https://www.regionkronoberg.se/vardgivare/vardriktlinjer/lakemedel/lakemedelsnyheter/",
@@ -84,19 +111,19 @@
   "OFÖRÄNDRAD | https://www.regionkronoberg.se/contentassets/f225d486a4f74abb97d7a9a492cbc879/overenskommelse-in--och-utskrivning-av-patienter-i-slutenvard-i-kronobergs-lan-202409062.pdf",
   "OFÖRÄNDRAD | https://www.regionkronoberg.se/vardgivare/kompetens-utveckling/allmanmedicinskt-kunskapscentrum/",
   "OFÖRÄNDRAD | https://www.regionkronoberg.se/politik-och-demokrati/politisk-organisation/patientnamnden/",
-  "ÄNDRAD | https://vardgivarwebben.norrbotten.se/sv/samverkan-och-avtal/vardval/",
+  "OFÖRÄNDRAD | https://vardgivarwebben.norrbotten.se/sv/samverkan-och-avtal/vardval/",
   "OFÖRÄNDRAD | https://www.norrbotten.se/sv/demokrati-och-politik/regionstyrelsen/",
-  "OFÖRÄNDRAD | https://www.norrbotten.se/sv/demokrati-och-politik/beslut-i-korthet/",
+  "ÄNDRAD | https://www.norrbotten.se/sv/demokrati-och-politik/beslut-i-korthet/",
   "OFÖRÄNDRAD | https://www.norrbotten.se/sv/demokrati-och-politik/halso-och-sjukvardsnamnden/",
   "OFÖRÄNDRAD | https://diariet.nll.se/",
-  "OFÖRÄNDRAD | https://vardgivarwebben.norrbotten.se/sv/nyhetsarkiv-vardgivarwebben/",
+  "ÄNDRAD | https://vardgivarwebben.norrbotten.se/sv/nyhetsarkiv-vardgivarwebben/",
   "OFÖRÄNDRAD | https://vardgivarwebben.norrbotten.se/sv/driftinformation-oversikt/",
   "OFÖRÄNDRAD | https://www.upphandlingsmyndigheten.se/hitta-lov-uppdrag/annonser/region-norrbotten/vardval-primarvard-norrbotten-2026/",
   "OFÖRÄNDRAD | https://vardgivarwebben.norrbotten.se/sv/vardriktlinjer/laboratoriemedicin/labbnytt/",
   "OFÖRÄNDRAD | https://vardgivarwebben.norrbotten.se/sv/nyhetsarkiv-vardgivarwebben/?category=10287",
   "OFÖRÄNDRAD | https://vardgivarwebben.norrbotten.se/sv/vardriktlinjer/lakemedel/rekommenderade-lakemedel/",
-  "ÄNDRAD | https://vardgivarwebben.norrbotten.se/sv/administration/vardadministrativa-rutiner/",
-  "OFÖRÄNDRAD | https://vardgivarwebben.norrbotten.se/sv/kompetens-utveckling-forskning/allmanlakarkonsulterna--alk/",
+  "OFÖRÄNDRAD | https://vardgivarwebben.norrbotten.se/sv/administration/vardadministrativa-rutiner/",
+  "ÄNDRAD | https://vardgivarwebben.norrbotten.se/sv/kompetens-utveckling-forskning/allmanlakarkonsulterna--alk/",
   "OFÖRÄNDRAD | https://vardgivarwebben.norrbotten.se/sv/samverkan-och-avtal/kommunsamverkan/"
  ]
 }
